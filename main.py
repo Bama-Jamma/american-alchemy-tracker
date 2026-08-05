@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 from extractor import extract_references
 from youtube_source import get_transcript, list_episodes
 
-CSV_FIELDS = ["type", "title", "author_or_source", "context", "episode", "video_id"]
+CSV_FIELDS = ["type", "subcategory", "title", "author_or_source", "context", "episode", "video_id"]
 
 
 def run(limit: int, output_path: str) -> None:
@@ -46,6 +46,7 @@ def run(limit: int, output_path: str) -> None:
             rows.append(
                 {
                     "type": item["type"],
+                    "subcategory": item.get("subcategory", ""),
                     "title": item["title"],
                     "author_or_source": item["author_or_source"],
                     "context": item["context"],

@@ -38,6 +38,26 @@ SCHEMA = {
                         "type": "string",
                         "description": "One to two sentences on how/why it was mentioned in the conversation.",
                     },
+                    "subcategory": {
+                        "type": "string",
+                        "enum": [
+                            "government_document",
+                            "testimony",
+                            "news_media",
+                            "legal_personal_record",
+                            "scientific_data",
+                            "essay_paper",
+                        ],
+                        "description": (
+                            "Only for type == 'document'. Omit this field entirely for type == 'book'. "
+                            "government_document: memos, declassified files, agency reports, patents. "
+                            "testimony: congressional/court testimony, sworn statements, depositions. "
+                            "news_media: news articles, broadcasts, documentaries. "
+                            "legal_personal_record: court filings, personal correspondence/diaries, contracts. "
+                            "scientific_data: datasets, study results, lab/technical reports. "
+                            "essay_paper: academic papers, essays, whitepapers, theses."
+                        ),
+                    },
                 },
                 "required": ["type", "title", "author_or_source", "context"],
                 "additionalProperties": False,
@@ -56,12 +76,17 @@ Extract every real-world book and non-book document referenced in the conversati
 - "document": any other real-world document mentioned, such as FBI memos, declassified files, \
 government reports, court records, congressional testimony transcripts, patents, or similar records.
 
+Every item of type "document" must also have a "subcategory" from the fixed list in the schema. Never \
+include a "subcategory" on an item of type "book" — omit that field for books entirely.
+
 Only include items that are actually named or clearly identifiable in the transcript. Do not invent \
 titles. If the same item is mentioned multiple times, include it once."""
 
 
 def extract_references(transcript_text: str) -> list[dict]:
-    """Return a list of {type, title, author_or_source, context} dicts for one transcript."""
+    """Return a list of {type, title, author_or_source, context, subcategory?} dicts for one transcript.
+
+    subcategory is present only on items where type == "document"."""
     client = Anthropic()
     response = client.messages.create(
         model=MODEL,
