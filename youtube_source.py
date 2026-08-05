@@ -2,11 +2,7 @@
 
 import yt_dlp
 from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api._errors import (
-    NoTranscriptFound,
-    TranscriptsDisabled,
-    VideoUnavailable,
-)
+from youtube_transcript_api._errors import CouldNotRetrieveTranscript
 
 CHANNEL_URL = "https://www.youtube.com/@JesseMichels/videos"
 
@@ -42,5 +38,5 @@ def get_transcript(video_id: str) -> str | None:
         api = YouTubeTranscriptApi()
         fetched = api.fetch(video_id)
         return " ".join(snippet.text for snippet in fetched)
-    except (NoTranscriptFound, TranscriptsDisabled, VideoUnavailable):
+    except CouldNotRetrieveTranscript:
         return None
