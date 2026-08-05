@@ -11,6 +11,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Generated output
+output/
+
 # OS
 .DS_Store
 Thumbs.db
