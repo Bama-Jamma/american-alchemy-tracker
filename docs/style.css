@@ -1,15 +1,9 @@
 :root {
-  --transition-speed: 0.5s;
-}
-
-/* ============ THEME A: DECLASSIFIED ARCHIVE ============ */
-[data-theme="declassified"] {
   --bg: #131210;
   --bg-raised: #1c1a17;
   --paper: #e9e0c8;
   --paper-dim: #cfc4a3;
   --ink: #171512;
-  --redact: #050403;
   --accent: #c99a3b;
   --accent-dim: #8a7040;
   --stamp: #a13a2e;
@@ -19,64 +13,14 @@
   --mono-font: 'JetBrains Mono', monospace;
 }
 
-/* ============ THEME B: ALCHEMIST'S LEDGER ============ */
-[data-theme="alchemist"] {
-  --bg: #0e1a15;
-  --bg-raised: #14251d;
-  --paper: #ede3cd;
-  --paper-dim: #d4c7a8;
-  --ink: #1a2b21;
-  --redact: #0a140f;
-  --accent: #c9a13b;
-  --accent-dim: #7a9182;
-  --stamp: #b4762f;
-  --border: #2c4536;
-  --display-font: 'Cormorant Garamond', serif;
-  --body-font: 'EB Garamond', Georgia, serif;
-  --mono-font: 'JetBrains Mono', monospace;
-}
-
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
   background: var(--bg);
   color: var(--paper);
   font-family: var(--body-font);
-  transition: background var(--transition-speed), color var(--transition-speed);
   min-height: 100vh;
   padding-bottom: 4rem;
-}
-
-/* --- Theme toggle bar --- */
-.toggle-bar {
-  position: sticky;
-  top: 0;
-  z-index: 50;
-  display: flex;
-  justify-content: center;
-  gap: 0;
-  padding: 0.75rem;
-  background: var(--bg);
-  border-bottom: 1px solid var(--border);
-}
-.toggle-bar button {
-  font-family: var(--mono-font);
-  font-size: 0.7rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  background: transparent;
-  color: var(--paper-dim);
-  border: 1px solid var(--border);
-  padding: 0.5rem 1rem;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-.toggle-bar button:first-child { border-radius: 3px 0 0 3px; }
-.toggle-bar button:last-child { border-radius: 0 3px 3px 0; border-left: none; }
-.toggle-bar button.active {
-  background: var(--accent);
-  color: var(--redact);
-  border-color: var(--accent);
 }
 
 /* --- Header / masthead --- */
@@ -100,7 +44,6 @@ h1 {
   letter-spacing: 0.01em;
   line-height: 1.1;
 }
-[data-theme="alchemist"] h1 { font-weight: 600; font-style: italic; }
 .tagline {
   margin-top: 0.75rem;
   color: var(--paper-dim);
@@ -117,6 +60,55 @@ main { max-width: 780px; margin: 0 auto; padding: 0 1.25rem; }
   font-family: var(--mono-font);
   font-size: 0.8rem;
   letter-spacing: 0.05em;
+}
+
+/* --- Filter bar --- */
+.filter-bar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  margin-top: 2rem;
+  padding: 1rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.filter-bar input[type="search"] {
+  font-family: var(--mono-font);
+  font-size: 0.85rem;
+  background: var(--bg-raised);
+  color: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.6rem 0.8rem;
+  width: 100%;
+}
+.filter-bar input[type="search"]::placeholder { color: var(--paper-dim); }
+.filter-bar input[type="search"]:focus,
+.filter-bar select:focus { outline: 1px solid var(--accent); }
+
+.filter-selects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.filter-selects select {
+  flex: 1 1 160px;
+  font-family: var(--mono-font);
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  background: var(--bg-raised);
+  color: var(--paper-dim);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.5rem 0.6rem;
+}
+.filter-selects select:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
 }
 
 /* --- Episode case file --- */
@@ -228,35 +220,6 @@ main { max-width: 780px; margin: 0 auto; padding: 0 1.25rem; }
   letter-spacing: 0.08em;
   display: inline-block;
   margin-top: 0.35rem;
-}
-
-/* --- Signature element: redaction reveal (documents) --- */
-.redact-wrap {
-  display: inline;
-  cursor: pointer;
-  position: relative;
-}
-.redact-bar {
-  background: var(--redact);
-  color: var(--redact);
-  padding: 0 0.3em;
-  border-radius: 2px;
-  transition: color 0.3s, background 0.3s;
-  user-select: none;
-}
-.redact-wrap:hover .redact-bar,
-.redact-wrap:focus .redact-bar {
-  background: transparent;
-  color: var(--paper);
-}
-.redact-hint {
-  font-family: var(--mono-font);
-  font-size: 0.6rem;
-  color: var(--stamp);
-  letter-spacing: 0.1em;
-  display: block;
-  margin-top: 0.3rem;
-  opacity: 0.8;
 }
 
 .empty-note {

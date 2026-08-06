@@ -6,15 +6,10 @@
 <title>American Alchemy — Reference Index</title>
 <meta name="description" content="Every book and document referenced on the American Alchemy podcast, indexed by episode.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=JetBrains+Mono:wght@400;500;700&family=Cormorant+Garamond:ital,wght@0,500;0,700;1,500&family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
-<body data-theme="declassified">
-
-  <div class="toggle-bar">
-    <button id="btn-declassified" class="active" data-theme-btn="declassified">A · Declassified Archive</button>
-    <button id="btn-alchemist" data-theme-btn="alchemist">B · Alchemist's Ledger</button>
-  </div>
+<body>
 
   <header>
     <div class="eyebrow">American Alchemy — Reference Index</div>
@@ -22,8 +17,27 @@
     <p class="tagline">Every book and document mentioned on the show, sorted by episode.</p>
   </header>
 
-  <main id="episodes">
-    <p class="loading">Loading archive…</p>
+  <main>
+    <div class="filter-bar">
+      <input type="search" id="search-input" placeholder="Search titles, authors, sources, episodes…" autocomplete="off">
+      <div class="filter-selects">
+        <select id="filter-type" aria-label="Filter by type">
+          <option value="all">All types</option>
+          <option value="book">Books</option>
+          <option value="document">Documents</option>
+        </select>
+        <select id="filter-subcategory" aria-label="Filter by document subcategory">
+          <option value="all">All subcategories</option>
+        </select>
+        <select id="filter-episode" aria-label="Filter by episode">
+          <option value="all">All episodes</option>
+        </select>
+      </div>
+    </div>
+
+    <div id="episodes">
+      <p class="loading">Loading archive…</p>
+    </div>
   </main>
 
   <footer id="footer-stats"></footer>
