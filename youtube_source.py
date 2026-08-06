@@ -2,7 +2,28 @@
 
 import yt_dlp
 from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api._errors import CouldNotRetrieveTranscript
+from youtube_transcript_api._errors import (
+    AgeRestricted,
+    InvalidVideoId,
+    NoTranscriptFound,
+    TranscriptsDisabled,
+    VideoUnavailable,
+    VideoUnplayable,
+)
+
+# Exceptions that mean "this specific video genuinely has no transcript" -- safe to
+# record as such. Anything else (IpBlocked, PoTokenRequired, generic request failures,
+# etc.) is an infrastructure problem, not a fact about the video, and must not be
+# silently treated the same way -- it should surface so the caller can stop and retry
+# rather than mis-recording every subsequent video as "no transcript".
+NO_TRANSCRIPT_EXCEPTIONS = (
+    TranscriptsDisabled,
+    NoTranscriptFound,
+    VideoUnplayable,
+    VideoUnavailable,
+    AgeRestricted,
+    InvalidVideoId,
+)
 
 CHANNEL_URL = "https://www.youtube.com/@JesseMichels/videos"
 
@@ -61,10 +82,15 @@ def get_upload_date(video_id: str) -> str | None:
 
 
 def get_transcript(video_id: str) -> str | None:
-    """Return the full transcript text for a video, or None if unavailable."""
+    """Return the full transcript text for a video, or None if it genuinely has no transcript.
+
+    Raises for infrastructure failures (IP blocked, proof-of-origin token required, etc.)
+    instead of returning None -- those are not facts about the video and must not be
+    recorded as "no transcript" by the caller.
+    """
+    api = YouTubeTranscriptApi()
     try:
-        api = YouTubeTranscriptApi()
         fetched = api.fetch(video_id)
         return " ".join(snippet.text for snippet in fetched)
-    except CouldNotRetrieveTranscript:
+    except NO_TRANSCRIPT_EXCEPTIONS:
         return None
