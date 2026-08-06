@@ -55,10 +55,14 @@ def run(limit: int, output_path: str, oldest_first: bool = False, append: bool =
 
         print(f"  -> found {len(items)} reference(s)")
         for item in items:
+            subcategory = item.get("subcategory", "")
+            if item["type"] == "document" and not subcategory:
+                subcategory = "government_document"
+                print(f"  -> WARNING: model omitted subcategory for document {item['title']!r}, defaulted to {subcategory!r}")
             rows.append(
                 {
                     "type": item["type"],
-                    "subcategory": item.get("subcategory", ""),
+                    "subcategory": subcategory,
                     "title": item["title"],
                     "author_or_source": item["author_or_source"],
                     "context": item["context"],
