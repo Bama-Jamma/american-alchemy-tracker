@@ -12,6 +12,7 @@ import sys
 
 from dotenv import load_dotenv
 
+from build_site import publish as publish_site
 from extractor import extract_references
 from progress import append_processed, load_processed, make_record
 from usage import log_usage
@@ -116,6 +117,8 @@ def run(
 
     verb = "Appended" if mode == "a" else "Wrote"
     print(f"\n{verb} {len(rows)} row(s) to {output_path}")
+
+    publish_site()
 
 
 if __name__ == "__main__":
