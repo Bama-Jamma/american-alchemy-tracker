@@ -83,10 +83,13 @@ Only include items that are actually named or clearly identifiable in the transc
 titles. If the same item is mentioned multiple times, include it once."""
 
 
-def extract_references(transcript_text: str) -> list[dict]:
-    """Return a list of {type, title, author_or_source, context, subcategory?} dicts for one transcript.
+def extract_references(transcript_text: str) -> tuple[list[dict], dict]:
+    """Return (items, usage) for one transcript.
 
-    subcategory is present only on items where type == "document"."""
+    items: list of {type, title, author_or_source, context, subcategory?} dicts.
+    subcategory is present only on items where type == "document".
+    usage: real token counts from the API response, for cost tracking.
+    """
     client = Anthropic()
     response = client.messages.create(
         model=MODEL,
@@ -101,8 +104,15 @@ def extract_references(transcript_text: str) -> list[dict]:
         ],
     )
 
+    usage = {
+        "input_tokens": response.usage.input_tokens,
+        "output_tokens": response.usage.output_tokens,
+        "cache_creation_input_tokens": response.usage.cache_creation_input_tokens or 0,
+        "cache_read_input_tokens": response.usage.cache_read_input_tokens or 0,
+    }
+
     if response.stop_reason == "refusal":
-        return []
+        return [], usage
 
     text = next(block.text for block in response.content if block.type == "text")
-    return json.loads(text)["items"]
+    return json.loads(text)["items"], usage

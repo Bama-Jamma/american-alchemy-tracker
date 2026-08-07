@@ -1,6 +1,7 @@
 """Episode listing and transcript retrieval for the American Alchemy channel."""
 
 import os
+import time
 
 import yt_dlp
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -92,6 +93,10 @@ def _build_transcript_api() -> YouTubeTranscriptApi:
     return YouTubeTranscriptApi()
 
 
+TRANSIENT_FETCH_RETRIES = 4
+TRANSIENT_FETCH_RETRY_DELAY_SECONDS = 5
+
+
 def get_transcript(video_id: str) -> str | None:
     """Return the full transcript text for a video, or None if it genuinely has no transcript.
 
@@ -100,11 +105,27 @@ def get_transcript(video_id: str) -> str | None:
     recorded as "no transcript" by the caller.
 
     Routes through a Webshare residential proxy if WEBSHARE_PROXY_USERNAME/PASSWORD are
-    set in the environment, to work around YouTube blocking this machine's own IP.
+    set in the environment, to work around YouTube blocking this machine's own IP. Even
+    with a rotating proxy, an individual request can occasionally land on an IP that hits
+    a transient block or Google's bot-detection challenge page -- a fresh attempt (which
+    draws a new IP from the pool) usually succeeds, so transient failures are retried a
+    few times in-process before propagating.
     """
-    api = _build_transcript_api()
-    try:
-        fetched = api.fetch(video_id)
-        return " ".join(snippet.text for snippet in fetched)
-    except NO_TRANSCRIPT_EXCEPTIONS:
-        return None
+    last_exc = None
+    for attempt in range(1, TRANSIENT_FETCH_RETRIES + 1):
+        api = _build_transcript_api()
+        try:
+            fetched = api.fetch(video_id)
+            return " ".join(snippet.text for snippet in fetched)
+        except NO_TRANSCRIPT_EXCEPTIONS:
+            return None
+        except Exception as exc:
+            last_exc = exc
+            if attempt < TRANSIENT_FETCH_RETRIES:
+                print(
+                    f"  -> transient fetch error (attempt {attempt}/{TRANSIENT_FETCH_RETRIES}): "
+                    f"{type(exc).__name__}, retrying with a fresh proxy IP..."
+                )
+                time.sleep(TRANSIENT_FETCH_RETRY_DELAY_SECONDS)
+
+    raise last_exc

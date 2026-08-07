@@ -14,6 +14,7 @@ from dotenv import load_dotenv
 
 from extractor import extract_references
 from progress import append_processed, load_processed, make_record
+from usage import log_usage
 from youtube_source import CHANNEL_URL, get_transcript, get_upload_date, list_episodes
 
 CSV_FIELDS = [
@@ -28,6 +29,7 @@ CSV_FIELDS = [
 ]
 
 LEDGER_PATH_DEFAULT = "state/processed_episodes.csv"
+USAGE_LOG_PATH_DEFAULT = "state/usage_log.csv"
 
 
 def select_next_unprocessed(count: int, ledger_path: str) -> list[dict]:
@@ -42,6 +44,7 @@ def run(
     episodes: list[dict],
     output_path: str,
     ledger_path: str,
+    usage_log_path: str = USAGE_LOG_PATH_DEFAULT,
     append: bool = True,
 ) -> None:
     load_dotenv()
@@ -68,13 +71,15 @@ def run(
         else:
             print(f"  -> transcript fetched ({len(transcript)} chars), extracting references...")
             try:
-                items = extract_references(transcript)
+                items, api_usage = extract_references(transcript)
             except Exception as exc:
                 print(f"  -> extraction failed: {exc}", file=sys.stderr)
                 items = None
 
             if items is None:
                 continue  # don't mark as processed; retry this one next time
+
+            log_usage(usage_log_path, video_id, api_usage)
 
             reference_count = len(items)
             print(f"  -> found {reference_count} reference(s)")
@@ -120,6 +125,7 @@ if __name__ == "__main__":
     mode.add_argument("--limit", type=int, metavar="N", help="Process N episodes (manual mode, ignores the ledger's skip logic)")
     parser.add_argument("--output", default="output/references.csv", help="CSV output path")
     parser.add_argument("--ledger", default=LEDGER_PATH_DEFAULT, help="Processed-episodes ledger path")
+    parser.add_argument("--usage-log", default=USAGE_LOG_PATH_DEFAULT, help="Per-call API token usage log path")
     parser.add_argument(
         "--oldest-first",
         action="store_true",
@@ -132,9 +138,9 @@ if __name__ == "__main__":
         print(f"Finding the next {args.next} unprocessed episode(s) on {CHANNEL_URL} ...")
         episodes = select_next_unprocessed(args.next, args.ledger)
         print(f"Selected {len(episodes)} episode(s).")
-        run(episodes, args.output, args.ledger, append=True)
+        run(episodes, args.output, args.ledger, args.usage_log, append=True)
     else:
         print(f"Fetching episode list (limit={args.limit}, oldest_first={args.oldest_first})...")
         episodes = list_episodes(args.limit, oldest_first=args.oldest_first)
         print(f"Found {len(episodes)} episode(s).")
-        run(episodes, args.output, args.ledger, append=args.append)
+        run(episodes, args.output, args.ledger, args.usage_log, append=args.append)
