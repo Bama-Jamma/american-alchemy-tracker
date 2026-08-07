@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T15:54:04.056252+00:00",
-  "generated_episode_count": 26,
+  "generated_at": "2026-08-07T15:55:12.086138+00:00",
+  "generated_episode_count": 27,
   "subcategory_labels": {
     "government_document": "Government documents",
     "testimony": "Testimony",
@@ -10,6 +10,21 @@
     "essay_paper": "Essays & papers"
   },
   "episodes": [
+    {
+      "video_id": "TESTVIDEOID",
+      "title": "Test Episode",
+      "upload_date": "2020-01-01",
+      "url": "https://www.youtube.com/watch?v=TESTVIDEOID",
+      "books": [
+        {
+          "title": "TEST BOOK DELETE ME",
+          "author": "Test Author",
+          "context": "test context",
+          "amazon_url": "https://www.amazon.com/s?k=TEST+BOOK+DELETE+ME+Test+Author"
+        }
+      ],
+      "documents": {}
+    },
     {
       "video_id": "ZTIO-xAP0Dw",
       "title": "Eric Weinstein Reveals UFO Physics! (Exclusive Interview)",
