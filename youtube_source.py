@@ -1,5 +1,7 @@
 """Episode listing and transcript retrieval for the American Alchemy channel."""
 
+import os
+
 import yt_dlp
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import (
@@ -10,6 +12,7 @@ from youtube_transcript_api._errors import (
     VideoUnavailable,
     VideoUnplayable,
 )
+from youtube_transcript_api.proxies import WebshareProxyConfig
 
 # Exceptions that mean "this specific video genuinely has no transcript" -- safe to
 # record as such. Anything else (IpBlocked, PoTokenRequired, generic request failures,
@@ -81,14 +84,25 @@ def get_upload_date(video_id: str) -> str | None:
     return f"{upload_date[0:4]}-{upload_date[4:6]}-{upload_date[6:8]}"
 
 
+def _build_transcript_api() -> YouTubeTranscriptApi:
+    username = os.environ.get("WEBSHARE_PROXY_USERNAME")
+    password = os.environ.get("WEBSHARE_PROXY_PASSWORD")
+    if username and password:
+        return YouTubeTranscriptApi(proxy_config=WebshareProxyConfig(proxy_username=username, proxy_password=password))
+    return YouTubeTranscriptApi()
+
+
 def get_transcript(video_id: str) -> str | None:
     """Return the full transcript text for a video, or None if it genuinely has no transcript.
 
     Raises for infrastructure failures (IP blocked, proof-of-origin token required, etc.)
     instead of returning None -- those are not facts about the video and must not be
     recorded as "no transcript" by the caller.
+
+    Routes through a Webshare residential proxy if WEBSHARE_PROXY_USERNAME/PASSWORD are
+    set in the environment, to work around YouTube blocking this machine's own IP.
     """
-    api = YouTubeTranscriptApi()
+    api = _build_transcript_api()
     try:
         fetched = api.fetch(video_id)
         return " ".join(snippet.text for snippet in fetched)
