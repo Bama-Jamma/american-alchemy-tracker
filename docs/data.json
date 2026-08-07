@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:20:27.434052+00:00",
-  "generated_episode_count": 98,
+  "generated_at": "2026-08-07T17:46:18.119796+00:00",
+  "generated_episode_count": 113,
   "subcategory_labels": {
     "government_document": "Government documents",
     "testimony": "Testimony",
@@ -11398,6 +11398,2100 @@
             "title": "Very High Speed Transit System (1972 study)",
             "source": "RAND Corporation",
             "context": "Cited as a theoretical study on connecting distant locations via high-speed underground transit, relevant to deep underground base tunnel networks."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "IWui5cBkwoE",
+      "title": "NASA Whistleblower: “We Systematically Suppress UFO Data!”",
+      "upload_date": "2026-01-18",
+      "url": "https://www.youtube.com/watch?v=IWui5cBkwoE",
+      "books": [
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Cited as the book by Robert Hastings documenting UFO incursions at nuclear missile sites; Hastings' personal origin story at Malmstrom Air Force Base is recounted.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "American Cosmic",
+          "author": "Diana Pasulka",
+          "context": "Jesse asks Knuth if he's read Pasulka's book, referencing the NASA figure 'Tim Taylor' who takes researchers to purported UFO crash sites.",
+          "amazon_url": "https://www.amazon.com/s?k=American+Cosmic+Diana+Pasulka"
+        },
+        {
+          "title": "Underwater UFO Base",
+          "author": "Preston Dennett",
+          "context": "Mentioned as a great book about Catalina Island being a UFO hotspot off the Southern California coast.",
+          "amazon_url": "https://www.amazon.com/s?k=Underwater+UFO+Base+Preston+Dennett"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Twining memo (1947)",
+            "source": "U.S. Air Force / Nathan Twining, Air Materiel Command",
+            "context": "Referenced as the famous 1947 memo stating that UFOs 'are not visionary nor fictitious,' in a discussion of official awareness of the phenomenon."
+          },
+          {
+            "title": "Cometa Report (1999)",
+            "source": "French COMETA committee",
+            "context": "Contrasted with thin U.S. government reports; described as a ~100-page French analysis concluding UFOs could be alien craft and that the U.S. is likely hiding information."
+          },
+          {
+            "title": "NASA UAP Independent Study Team report",
+            "source": "NASA (David Spergel, lead author)",
+            "context": "Knuth and Michels repeatedly criticize the NASA commission's report for containing no section on what astronauts have observed in space, and note Spergel's authorship connection to Jim Simons."
+          },
+          {
+            "title": "Roswell / General Ramey memo photograph",
+            "source": "U.S. Army Air Forces",
+            "context": "Knuth describes his NASA-era attempt to write algorithms to enhance and read the top secret memo visible in General Ramey's hand in the 1947 press photo."
+          },
+          {
+            "title": "Gemini 11 mission voice transcripts",
+            "source": "NASA",
+            "context": "Knuth cites the public transcripts in which astronauts report an object flying over them and a battery stack draining, followed by a gap in the record."
+          },
+          {
+            "title": "Kecksburg UFO government summary document listing Donald Hornig as present",
+            "source": "U.S. government",
+            "context": "Knuth says he found an official government summary about the 1965 Kecksburg crash that listed presidential science advisor Donald Hornig (his father's cousin) as present."
+          },
+          {
+            "title": "CIA remote viewing training manual",
+            "source": "CIA",
+            "context": "Knuth says one of the people at NASA had written a CIA training manual for remote viewing, and that this is publicly available though unnoticed."
+          },
+          {
+            "title": "NASA patent on a barrel-shaped asymmetric capacitor (c. 2003)",
+            "source": "NASA / Larry Smalley et al.",
+            "context": "Michels notes a NASA patent for a barrel-shaped asymmetric capacitor that references Thomas Townsend Brown, with physics chair Larry Smalley's name on it."
+          },
+          {
+            "title": "JAL 1628 radar data (FAA records retained by John Callahan)",
+            "source": "FAA",
+            "context": "Knuth describes the 45 minutes of radar data from the 1986 Japan Airlines encounter that FAA official John Callahan copied and later made public, later analyzed for extreme accelerations."
+          },
+          {
+            "title": "Scott Simkinson NASA files and the 'strange object as seen by the astronauts of Gemini 11' lithograph",
+            "source": "NASA / Scott Simkinson collection",
+            "context": "Michels shows the archive and the famous lithograph; Knuth explains his forensic assessment that it is likely a mock-up rather than an actual photograph."
+          },
+          {
+            "title": "Skylab photographs of a red flashing light",
+            "source": "NASA",
+            "context": "Knuth relays Alan Bean's account of photographing a red flashing light that followed Skylab, noting the images are publicly available online."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "Robert Hastings 2010 press conference featuring Robert Salas and Air Force witnesses",
+            "source": "Robert Hastings / former USAF personnel",
+            "context": "Knuth stumbled on this recorded news conference at 2 a.m., where Salas described UFOs shutting down nuclear missiles at Malmstrom, confirming what he'd heard as a joke in grad school."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "A Tear in the Sky",
+            "source": "Documentary film (UAPx expedition)",
+            "context": "The documentary that chronicled Knuth's team's five-day UAP data collection mission at Laguna Beach and Catalina Island."
+          },
+          {
+            "title": "The Age of Disclosure",
+            "source": "Documentary film",
+            "context": "Referenced as portraying a highly coordinated legacy UFO program and featuring Lue Elizondo's claims that non-humans monitor humanity's energy breakthroughs."
+          },
+          {
+            "title": "New York Times UFO article (2017)",
+            "source": "The New York Times",
+            "context": "Used as a chronological marker; Knuth notes it appeared a couple years after he began investigating UFOs and after his packed departmental talk."
+          },
+          {
+            "title": "Vice documentary on the Japanese town obsessed with UFOs (2022)",
+            "source": "Vice",
+            "context": "Michels cites it while describing the town near Fukushima prefecture with a UFO museum located next to a nuclear energy site."
+          },
+          {
+            "title": "Steven Spielberg audio recording about the White House screening of E.T. and Reagan's remark",
+            "source": "Steven Spielberg",
+            "context": "Michels plays/describes the recording in which Reagan told the room that everything on screen was 'absolutely true' without smiling."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "SCU study of UFO sightings at nuclear sites",
+            "source": "Scientific Coalition for UAP Studies (SCU)",
+            "context": "Cited as a statistical study showing UFO sightings were significantly more frequent at nuclear facilities than nearby military bases or population centers, even before the sites were completed."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Hermann Oberth's 1954 lecture notes on UFOs",
+            "source": "Hermann Oberth",
+            "context": "Knuth says he possesses Oberth's lecture notes in which Oberth mentions radar measurements of UFO speeds up to 19 km/s and claims German rocketry was aided by non-human beings."
+          },
+          {
+            "title": "Scientific paper on the UAPx Laguna Beach/Catalina data collection mission",
+            "source": "Matthew Szydagis (first author), Kevin Knuth et al.",
+            "context": "Knuth describes the peer-reviewed paper published years after the 2021 mission, which concluded the bright light observed was the International Space Station."
+          },
+          {
+            "title": "Paper on the scientific study of UAP (history of study), mentioning Bud Clem's Hanford sightings",
+            "source": "Kevin Knuth et al.",
+            "context": "Knuth mentions a paper published that year reviewing the history of scientific attempts to study UAP, in which he cites Bud Clem's 1945 Hanford sightings."
+          },
+          {
+            "title": "VASCO project papers on transients in Palomar Observatory photographic plates",
+            "source": "Beatriz Villarroel et al., Stockholm University",
+            "context": "Discussed at length: over 100,000 apparent transients on pre-Sputnik plates, correlations with nuclear detonations, and the debate over plate defects versus real orbiting objects."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "UkKwa4jU0fc",
+      "title": "“My Hospital Operated On An Alien!” -Top Surgeon [Exclusive Interview]",
+      "upload_date": "2026-01-31",
+      "url": "https://www.youtube.com/watch?v=UkKwa4jU0fc",
+      "books": [],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Autopsy report on soldier Marco Chereze",
+            "source": "Forensic Medical Institute (IML), Brazilian civil police / military police investigation",
+            "context": "Dr. Armando Fortunato performed and issued this coroner's autopsy report, requested by a military police colonel to investigate possible medical malpractice in the soldier's death."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Moment of Contact",
+            "source": "James Fox",
+            "context": "James Fox's documentary about the 1996 Varginha, Brazil UFO crash, repeatedly cited as the source of the witnesses' recorded testimony and footage of the crash site."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "Dr. Jean Baptista Janini's pathology report on soldier Marco Chereze",
+            "source": "Dr. Janini (pathology laboratory, Varginha, Brazil)",
+            "context": "Dr. Armando Fortunato describes the laboratory report stating the soldier died of pulmonary infection and septicemia from an extremely rare, highly virulent bacterium, and says he brought the signed, authenticated document to the interview."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "'The Universal' chess game short story about examining the ET",
+            "source": "Dr. Italo Venturelli",
+            "context": "Dr. Venturelli mentions writing a short story in which, lacking a CT scanner, he tests the extraterrestrial's intelligence via a chess game called 'the universal,' invented by Brazilian champion Adriano Caldeira."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "Qe8br8yYEDM",
+      "title": "Meet the Nuclear Missile Guard Abducted by Aliens",
+      "upload_date": "2026-02-09",
+      "url": "https://www.youtube.com/watch?v=Qe8br8yYEDM",
+      "books": [
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Jesse cites Hastings' book as the premier chronicle of nuclear-base UFO incidents, and Richard Barth notes it contains ~169 accounts including eight close encounters of the third kind, and that Hastings vetted his own case for it.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "Confessions of a UFO Investigator",
+          "author": "Robert Hastings",
+          "context": "Mentioned as Hastings' other book in which he describes his own experiencer status, an implant in his nose, and waking with blood on his pillow.",
+          "amazon_url": "https://www.amazon.com/s?k=Confessions+of+a+UFO+Investigator+Robert+Hastings"
+        },
+        {
+          "title": "Communion",
+          "author": "Whitley Strieber",
+          "context": "Barth says he read 'Whitley Strieber's book' before coming forward, and it made his own abduction experience seem more credible to himself.",
+          "amazon_url": "https://www.amazon.com/s?k=Communion+Whitley+Strieber"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Richard Barth's DD Form 214 / DD 2414 military service records",
+            "source": "U.S. Air Force",
+            "context": "Barth offers his discharge/service records as documentation that he was stationed at Vandenberg Air Force Base, noting he provided them to Robert Hastings."
+          },
+          {
+            "title": "Robert Jacobs' DD-214 and officer efficiency reports",
+            "source": "U.S. Air Force",
+            "context": "Jacobs describes keeping his DD-214 and officer efficiency reports in a file cabinet to defend himself after the government denied he ever served at Vandenberg."
+          },
+          {
+            "title": "Vandenberg Atlas missile launch records (September 1964)",
+            "source": "U.S. Air Force",
+            "context": "Jacobs says the government claimed there was no Atlas launch that day, but Robert Hastings located the Vandenberg launch files documenting that specific launch in detail."
+          },
+          {
+            "title": "Strategic Air Command report on the Malmstrom missile shutdowns",
+            "source": "Strategic Air Command / U.S. Air Force",
+            "context": "Jesse references the SAC write-up stating officials were baffled and confused about the ten Minuteman missiles going offline at Malmstrom during Robert Salas' Oscar Flight incident."
+          },
+          {
+            "title": "Air Force records of the 2003 Vandenberg 'Red Square' incident",
+            "source": "U.S. Air Force / AARO / FBI",
+            "context": "In the inserted testimony clip, it is stated that official Air Force records of the October 14, 2003 Vandenberg Red Square event are in the possession of AARO and the FBI, and were referenced by Rep. Luna at a congressional hearing."
+          },
+          {
+            "title": "Project Blue Book",
+            "source": "U.S. Air Force",
+            "context": "Discussed at the end as the Air Force's official UFO investigation program, with J. Allen Hynek as its scientific consultant."
+          },
+          {
+            "title": "Condon Report (Scientific Study of Unidentified Flying Objects)",
+            "source": "Edward Condon / University of Colorado",
+            "context": "Jesse describes the Condon Report as the supposedly independent commission review of Blue Book UFO cases, questioning Condon's atomic-program ties."
+          },
+          {
+            "title": "The Los Alamos Primer",
+            "source": "Robert Serber / Manhattan Project (attributed by host to Edward Condon)",
+            "context": "Jesse claims Condon wrote the Los Alamos Primer, which all Manhattan Project employees had to read upon joining."
+          },
+          {
+            "title": "McMahon Act (Atomic Energy Act of 1946)",
+            "source": "U.S. Congress",
+            "context": "Cited as the 'McMahon Secrecy Act' of 1946 that Jesse says Condon helped write, serving as precursor to the Atomic Energy Act of 1954 and the framework for overlaying atomic secrecy with UFO secrecy."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "Congressional UAP hearing testimony on Vandenberg incursions (2003-2005)",
+            "source": "Jeff Nuccetelli / U.S. Congress",
+            "context": "An inserted clip of testimony describing five UAP incidents at Vandenberg, including the red square over missile defense sites and a football-field-sized triangular craft."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Coast to Coast AM interview with George Noory (Barth call-in)",
+            "source": "Coast to Coast AM",
+            "context": "Barth recounts calling into Coast to Coast while Robert Hastings was being interviewed, getting halfway through his story before the call dropped; he and Hastings hoped to dig up the recording."
+          },
+          {
+            "title": "Art Bell radio interview call-in",
+            "source": "Art Bell / Coast to Coast AM",
+            "context": "Barth describes an earlier live call-in to an Art Bell show where the guest author challenged him and later corresponded by email but couldn't corroborate his account."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "ATJwqp5twAg",
+      "title": "CIA Chief: “I’m a Time Traveler!” ",
+      "upload_date": "2026-02-14",
+      "url": "https://www.youtube.com/watch?v=ATJwqp5twAg",
+      "books": [
+        {
+          "title": "A State of Mind: Faith in the CIA",
+          "author": "Ralph Moa Larson (guest)",
+          "context": "The guest's memoir, which Jesse says he read; it chronicles Larson's espionage career alongside his mystical experiences, including the Virgin Mary encounters and the letter to the pope.",
+          "amazon_url": "https://www.amazon.com/s?k=A+State+of+Mind%3A+Faith+in+the+CIA+Ralph+Moa+Larson+%28guest%29"
+        },
+        {
+          "title": "Story of a CIA Wife",
+          "author": "Larson's wife",
+          "context": "Mentioned as the book written by the guest's wife about her own experience working alongside him in the CIA.",
+          "amazon_url": "https://www.amazon.com/s?k=Story+of+a+CIA+Wife+Larson%27s+wife"
+        },
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Cited by Jesse as documenting 167 cleared missile officers and radar operators reporting UFO incursions at nuclear sites; Hastings is also credited as one of the people who helped shape the interview questions.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "The Seven Storey Mountain",
+          "author": "Thomas Merton",
+          "context": "Jesse references it while discussing the mystical significance of the number seven; Merton's descriptions of divine light are also invoked later.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Seven+Storey+Mountain+Thomas+Merton"
+        },
+        {
+          "title": "Stairway to Heaven",
+          "author": "Peter Levenda",
+          "context": "Jesse mentions interviewing the author about celestial ascent traditions with seven levels (merkabah, ziggurat, hekhalot) in relation to Larson's number 747.",
+          "amazon_url": "https://www.amazon.com/s?k=Stairway+to+Heaven+Peter+Levenda"
+        },
+        {
+          "title": "They Flew: A History of the Impossible",
+          "author": "Carlos Eire",
+          "context": "Jesse cites this Yale professor's book on levitating saints and monks as historical corroboration for Larson's flying-monk dream experience.",
+          "amazon_url": "https://www.amazon.com/s?k=They+Flew%3A+A+History+of+the+Impossible+Carlos+Eire"
+        },
+        {
+          "title": "Steppenwolf",
+          "author": "Hermann Hesse",
+          "context": "Larson says the character Harry Haller from this novel appeared in his 1800s Paris vision, and that his pen name 'Frederick Wolf' was partly inspired by it.",
+          "amazon_url": "https://www.amazon.com/s?k=Steppenwolf+Hermann+Hesse"
+        },
+        {
+          "title": "The Republic",
+          "author": "Plato",
+          "context": "Discussed regarding the guardian class and collective responsibility when comparing Russian/Chinese collectivism to American individualism; Jesse calls it a 'protofascist book.'",
+          "amazon_url": "https://www.amazon.com/s?k=The+Republic+Plato"
+        },
+        {
+          "title": "Second Treatise of Government",
+          "author": "John Locke",
+          "context": "Larson contrasts Locke's 'life, liberty and property' with the American Declaration's 'pursuit of happiness' while discussing individualism.",
+          "amazon_url": "https://www.amazon.com/s?k=Second+Treatise+of+Government+John+Locke"
+        },
+        {
+          "title": "Inferno",
+          "author": "Dante Alighieri",
+          "context": "Referenced in discussing the idea that hell is a state of mind rather than a literal place with stages.",
+          "amazon_url": "https://www.amazon.com/s?k=Inferno+Dante+Alighieri"
+        },
+        {
+          "title": "Almost Zero",
+          "author": "Vladislav Surkov",
+          "context": "Jesse mentions this novel by the Putin adviser as an example of how performance art plays into Russian politics.",
+          "amazon_url": "https://www.amazon.com/s?k=Almost+Zero+Vladislav+Surkov"
+        },
+        {
+          "title": "The Three-Body Problem",
+          "author": "Liu Cixin",
+          "context": "Jesse says Hal Puthoff described the Bush administration (Steve Hadley) reading this Chinese science fiction novel as part of an exercise on whether to disclose UFO information.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Three-Body+Problem+Liu+Cixin"
+        },
+        {
+          "title": "The Selfish Gene",
+          "author": "Richard Dawkins",
+          "context": "Jesse invokes it as a contrast, suggesting evolution may favor a 'selfless gene' of sacrifice instead.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Declaration of Independence",
+            "source": "United States Continental Congress",
+            "context": "Larson discusses Franklin's edit to Jefferson's draft substituting 'pursuit of happiness' for property, as evidence of a uniquely American idea of individual liberty."
+          },
+          {
+            "title": "Atomic Energy Act of 1954 (restricted data / born secret provisions)",
+            "source": "U.S. Congress",
+            "context": "Jesse cites it regarding 'transclassified foreign material' and how radiological material is 'born secret,' as a possible mechanism for concealing UFO material."
+          },
+          {
+            "title": "CIA remote viewing and parapsychology files released under FOIA (2017)",
+            "source": "CIA",
+            "context": "Jesse cites the declassified CIA remote-viewing records as an example of heterodox science that was hidden behind secrecy and stigma until recently."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "Congressional testimony regarding blocked transfer of UFO material from Lockheed Martin to Bigelow Aerospace",
+            "source": "U.S. Congress",
+            "context": "Jesse mentions sworn congressional testimony alleging that Glenn Gaffney blocked the transfer of UFO material, and asks Larson whether he knows anything about it."
+          },
+          {
+            "title": "Signed affidavits by missile security officers reporting UFO incursions at nuclear sites",
+            "source": "U.S. Air Force personnel",
+            "context": "Jesse references affidavits from missile security officers and radar operators attesting to UFO sightings at bases such as F.E. Warren and Malmstrom."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Age of Disclosure",
+            "source": "documentary film",
+            "context": "Discussed as the film in which James Clapper, Jim Semivan and others claim non-human intelligence is real and that the U.S. has a reverse-engineering program."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "Letter to Pope John Paul II describing Virgin Mary encounters",
+            "source": "Ralph Moa Larson",
+            "context": "Larson wrote the letter as instructed during his Virgin Mary apparition, sent it to the Vatican, received a reply, and reproduced it in his book."
+          },
+          {
+            "title": "Reply letter from the Ecumenical Patriarchate (Orthodox Church) regarding Larson's book",
+            "source": "Orthodox Church hierarchy, Istanbul",
+            "context": "Larson describes receiving a letter from the Orthodox hierarchy saying his book was placed in their library and read by 'his eminence.'"
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "Vela Incident (747 event) nuclear detection report",
+            "source": "U.S. government / Vela satellite program",
+            "context": "Larson recounts a DOE scientist telling him about the Vela incident, labeled the '747 incident,' a suspected South African/Israeli nuclear test, which resonated with his mystical number."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "RAND Corporation paper on high-altitude nuclear defense against ICBMs",
+            "source": "RAND Corporation",
+            "context": "Jesse mentions a RAND paper published a couple of years before the Bluegill Triple Prime high-altitude nuclear test speculating how such a defense would be carried out."
+          },
+          {
+            "title": "This Is Water (Kenyon College commencement address)",
+            "source": "David Foster Wallace",
+            "context": "Jesse invokes the fish-in-water metaphor from the speech to describe our inability to step outside our epistemological framework of time."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "Rjr3Yq-dMUE",
+      "title": "The Man Sitting On More UFO Evidence Than Anyone Alive",
+      "upload_date": "2026-02-21",
+      "url": "https://www.youtube.com/watch?v=Rjr3Yq-dMUE",
+      "books": [
+        {
+          "title": "Files of the Unexplained",
+          "author": "Clas Svahn",
+          "context": "Jesse holds up Clas Svahn's new book while discussing the Hannah McRoberts Vancouver Island UFO photograph reproduced inside it.",
+          "amazon_url": "https://www.amazon.com/s?k=Files+of+the+Unexplained+Clas+Svahn"
+        },
+        {
+          "title": "The Source Book Project",
+          "author": "William Corliss",
+          "context": "Svahn shows the archive shelves holding Corliss's series of books cataloguing scientific anomalies, along with his working papers acquired from his widow.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Source+Book+Project+William+Corliss"
+        },
+        {
+          "title": "Biological Anomalies: Mammals",
+          "author": "William Corliss",
+          "context": "Jesse reads the title off one of the Corliss volumes in the archive, calling the author a genius.",
+          "amazon_url": "https://www.amazon.com/s?k=Biological+Anomalies%3A+Mammals+William+Corliss"
+        },
+        {
+          "title": "The Man Who Mastered Gravity",
+          "author": "Paul Schatzkin",
+          "context": "Svahn says he read this biography of Thomas Townsend Brown a few months earlier while they examine Brown's electrokinetic generator material in the archive.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Mastered+Gravity+Paul+Schatzkin"
+        },
+        {
+          "title": "The Invisible College",
+          "author": "Jacques Vallée",
+          "context": "Jesse cites Vallée's 1975 book to ask whether UFO theory has advanced at all since then; Svahn agrees it has not.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Invisible+College+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "Messengers of Deception",
+          "author": "Jacques Vallée",
+          "context": "Jesse calls it one of the best books in UFO research while discussing cult creation around figures like Billy Meier and Adamski.",
+          "amazon_url": "https://www.amazon.com/s?k=Messengers+of+Deception+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "American Cosmic",
+          "author": "Diana Pasulka",
+          "context": "Discussed regarding the CBS Outer Limits episode airing shortly before the Hill abduction and speculation that astronauts sign NDAs.",
+          "amazon_url": "https://www.amazon.com/s?k=American+Cosmic+Diana+Pasulka"
+        },
+        {
+          "title": "Flying Saucers: A Modern Myth of Things Seen in the Skies",
+          "author": "Carl Jung",
+          "context": "Jesse brings up Jung's book on flying saucers and the mandala archetype; Svahn says he read it but doesn't consider it important to UFO research.",
+          "amazon_url": "https://www.amazon.com/s?k=Flying+Saucers%3A+A+Modern+Myth+of+Things+Seen+in+the+Skies+Carl+Jung"
+        },
+        {
+          "title": "Saucers",
+          "author": "Chris Aubeck",
+          "context": "Svahn praises Aubeck as the best researcher of old cases and cites this recent book showing that the saucer shape is actually rarely reported.",
+          "amazon_url": "https://www.amazon.com/s?k=Saucers+Chris+Aubeck"
+        },
+        {
+          "title": "Closer Encounters",
+          "author": "Jason Reza Jorjani",
+          "context": "Cited in a clip claiming Billy Meier was originally Edward Meier, a British intelligence operative in the Middle East, documented in this book.",
+          "amazon_url": "https://www.amazon.com/s?k=Closer+Encounters+Jason+Reza+Jorjani"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Wilson-Davis memo (Admiral Thomas Wilson / Eric Davis meeting notes)",
+            "source": "Eric Davis / Edgar Mitchell estate",
+            "context": "Jesse notes the memo surfaced from Edgar Mitchell's estate documenting Admiral Wilson's anger over being denied access to UFO programs, and was supposed to have been destroyed."
+          },
+          {
+            "title": "Patent for the electrokinetic generator",
+            "source": "Thomas Townsend Brown / U.S. Patent Office",
+            "context": "While going through Borderland Sciences material in the archive, Jesse finds T.T. Brown's patent office document for the electrokinetic generator."
+          },
+          {
+            "title": "Swedish military, customs and police operation files from the early 1970s (sealed until 2040)",
+            "source": "Swedish Armed Forces / War Archives",
+            "context": "Svahn says he recently received clearance to view these still-classified Swedish files, which were not scheduled for release until 2040."
+          },
+          {
+            "title": "Swedish military report and radar plot of the 7 November 1975 helicopter–UFO encounter",
+            "source": "Swedish Armed Forces",
+            "context": "In the newly cleared files Svahn found the report and radar plot showing an unidentified rocket-like object intersecting the flight path of a helicopter he had interviewed the pilot about."
+          },
+          {
+            "title": "KGB UFO files",
+            "source": "KGB",
+            "context": "Svahn recounts traveling to Russia amid street fighting to try to save KGB UFO files, obtaining copies from a contact there."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "Clas Svahn interview recording and transcript with Betty Hill (AFU archive)",
+            "source": "Archives for the Unexplained (AFU)",
+            "context": "Svahn says his conversation with Betty Hill, in which she describes the earlier UFO crash and burying the debris in her yard, is available in writing and audio on AFU's website."
+          },
+          {
+            "title": "Barney Hill hypnosis session recordings",
+            "source": "Dr. Benjamin Simon / Barney Hill",
+            "context": "Audio of Barney Hill's regression describing his fear during the 1961 encounter is played and discussed during the Hill case segment."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program (2017 New York Times article)",
+            "source": "Leslie Kean / The New York Times",
+            "context": "Jesse references the 2017 article that revealed the Pentagon's AATIP/AAWSAP program and its Skinwalker Ranch work."
+          },
+          {
+            "title": "Zapruder film",
+            "source": "Abraham Zapruder / C.D. Jackson, Time-Life",
+            "context": "Mentioned while discussing C.D. Jackson, the psychological warfare official who acquired the JFK assassination film for Time and later visited Betty and Barney Hill."
+          },
+          {
+            "title": "The Outer Limits (CBS television broadcast, 1961)",
+            "source": "CBS",
+            "context": "Cited via Diana Pasulka's work as airing 11 days before the Hill encounter, with aliens whose eyes wrap around their heads resembling what the Hills described."
+          },
+          {
+            "title": "Clas Svahn's article on his interview with Edgar Mitchell",
+            "source": "Clas Svahn",
+            "context": "Svahn says he published a long article in English about his hours-long conversation with Edgar Mitchell that can be found online."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "George Adamski's diaries",
+            "source": "George Adamski",
+            "context": "Svahn says he knows Adamski's diaries exist and that Glenn Steckling has read them, and he would like access to them to evaluate the case."
+          },
+          {
+            "title": "William Steinman's correspondence with Dr. Eric Walker",
+            "source": "William Steinman / Eric Walker",
+            "context": "Jesse describes Steinman's letters and phone conversation with the Penn State scientist, who hinted at knowledge of crash retrievals but refused to explain."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "FREE (Edgar Mitchell Foundation for Research into Extraterrestrial Encounters) experiencer survey database",
+            "source": "FREE / Edgar Mitchell Foundation",
+            "context": "Jesse cites the database showing over 50% of abductees/experiencers report humanoid entities, asking whether Scandinavian reports match."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "2ttdlCa5ZCI",
+      "title": "The Hacker That Found NASA’s Secret Space Fleet [Gary McKinnon Interview]",
+      "upload_date": "2026-03-01",
+      "url": "https://www.youtube.com/watch?v=2ttdlCa5ZCI",
+      "books": [
+        {
+          "title": "Disclosure Project book (Disclosure)",
+          "author": "Steven Greer",
+          "context": "Gary McKinnon says he read Steven Greer's disclosure project book, which listed installations and locations, and that this list was the source of most of the military network targets he scanned.",
+          "amazon_url": "https://www.amazon.com/s?k=Disclosure+Project+book+%28Disclosure%29+Steven+Greer"
+        },
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Jesse cites Hastings' book about UFOs appearing at nuclear installations worldwide, including cigar-shaped 'mother ships' releasing saucers.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "The Man Who Mastered Gravity",
+          "author": "Paul Schatzkin",
+          "context": "Jesse praises this Thomas Townsend Brown biography, noting it came out around the pandemic, while commending Gary for being into Brown back in 2007.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Mastered+Gravity+Paul+Schatzkin"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Non-Terrestrial Officers spreadsheet",
+            "source": "US Navy / Department of Defense",
+            "context": "An Excel spreadsheet Gary found on a Navy system listing roughly 40 'non-terrestrial officers,' ship names, and fleet-to-fleet material transfers of exotic elements."
+          },
+          {
+            "title": "Hackers' network document listing potential UFO secrecy sites",
+            "source": "Unknown (circulated hacker document)",
+            "context": "Gary mentions a document circulating among hackers that listed network names of potential UFO secrecy sites, which he used alongside the Disclosure Project locations."
+          },
+          {
+            "title": "NASA Johnson Space Center Building 8 satellite imagery files",
+            "source": "NASA",
+            "context": "Gary describes finding raw and processed proprietary NASA image files on Building 8 desktops, one of which showed a silvery cigar-shaped object above Earth."
+          },
+          {
+            "title": "FBI file on Thomas Townsend Brown (1942-43)",
+            "source": "FBI",
+            "context": "Jesse cites an FBI file from 1942 or 1943 stating that Brown knew more about radar than anybody in the Navy."
+          },
+          {
+            "title": "FOIA response on 'fast walkers'",
+            "source": "US Space Force / CIA",
+            "context": "Jesse notes John Greenewald's FOIA request about fast walkers, to which the agency replied that records exist but cannot be discussed."
+          },
+          {
+            "title": "General Accounting Office reports on attacks against DoD systems",
+            "source": "US General Accounting Office",
+            "context": "Gary says GAO documents of the era showed US DoD systems were receiving around 250,000 hacking attacks, suggesting the government needed a poster boy for tougher penalties."
+          },
+          {
+            "title": "Military Order Number One",
+            "source": "US Executive Branch / Department of Justice",
+            "context": "Gary says the DOJ indicated he would be tried under Military Order Number One, i.e. Guantanamo status with no media or family access."
+          },
+          {
+            "title": "Computer Misuse Act 1990 (cited as 'Computer Mischief Act 1995')",
+            "source": "UK Parliament",
+            "context": "Gary says UK police initially told him he faced only six months or community service under this British computer crime law."
+          },
+          {
+            "title": "UK-US extradition law of 1989",
+            "source": "UK Government",
+            "context": "Gary describes the earlier extradition statute as reasonable because it required dual criminality and evidence, before it was replaced."
+          },
+          {
+            "title": "Theresa May statement withdrawing the McKinnon extradition order",
+            "source": "UK Home Office",
+            "context": "A clip of the Home Secretary announcing that extradition would breach McKinnon's human rights and that the order was withdrawn."
+          },
+          {
+            "title": "Manned Orbiting Laboratory declassified files",
+            "source": "US Air Force / National Reconnaissance Office",
+            "context": "Narration describes the Air Force's classified manned space station program, declassified in 2015, as a real precedent for a secret space program."
+          },
+          {
+            "title": "US Air Force reports on 'flying butane tank' objects (late 1940s)",
+            "source": "US Air Force",
+            "context": "Jesse mentions late-1940s Air Force documents describing objects resembling flying butane tanks, referenced by David Grusch."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "Ben Rich UCLA alumni presentation (1993) remarks",
+            "source": "Ben Rich, Lockheed Skunk Works",
+            "context": "Narration recounts attendees describing Rich's final slide of a black disc craft and his line, 'We now have the technology to take ET home.'"
+          },
+          {
+            "title": "David Fravor account of the 2004 Tic Tac encounter",
+            "source": "US Navy / Commander David Fravor",
+            "context": "Audio of Fravor describing the white Tic Tac object off San Diego is used to corroborate Gary's cigar-shaped object sighting."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Air International article on aero engine technology mentioning Townsend Brown",
+            "source": "William Gunston / Air International magazine",
+            "context": "Jesse recounts that the aerospace journalist wrote he would refrain from discussing leading edges charged to millions of volts lest he end up in the Tower of London."
+          },
+          {
+            "title": "Area 52 interview with Ross Coulthart",
+            "source": "Chris Ramsay / Area 52",
+            "context": "Narration cites Coulthart's on-camera account of a trusted source who described a friend dying on the moon."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "WikiLeaks John Podesta email regarding 'fast walkers'",
+            "source": "WikiLeaks / John Podesta email archive",
+            "context": "Jesse references a deleted-but-archived email in which a contractor (Bob Fish) mentions spotting 'fast walkers,' possibly tied to the Defense Support Program."
+          },
+          {
+            "title": "Ronald Reagan diary entry, June 11, 1985",
+            "source": "Ronald Reagan",
+            "context": "Quoted as a possible hint at secret space capability, where Reagan writes that shuttle capacity was such that 'we could orbit 300 people.'"
+          },
+          {
+            "title": "US-UK extradition treaty draft (2003)",
+            "source": "UK Home Office / US Department of Justice",
+            "context": "Gary says his lawyers saw a draft of the new extradition treaty written in American English with phrases nearly verbatim from his charges."
+          },
+          {
+            "title": "VeriChip / Applied Digital Solutions prospectus filings",
+            "source": "Applied Digital Solutions / VeriChip Corporation (SEC filings)",
+            "context": "Jesse's narration says prospectus filings show VeriChip's implantable microchips were sourced from a Raytheon subsidiary."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "Army Research Laboratory report on lifter thrust",
+            "source": "US Army Research Laboratory",
+            "context": "Gary says ARL found thrust from asymmetric capacitor 'lifters' exceeded what ion flow could account for by at least 10-20%."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Mushu (Takaaki Musha) paper on the Biefeld-Brown effect",
+            "source": "Takaaki Musha",
+            "context": "Jesse cites a Japanese experiment/paper reporting a positive Biefeld-Brown result with the apparatus submerged in transmission oil, ruling out air ionization."
+          },
+          {
+            "title": "RAND Corporation research on Project Orion and deep space crew factors",
+            "source": "RAND Corporation",
+            "context": "Narration cites RAND's studies of nuclear pulse propulsion and of crew psychology, life support, and radiation hazards for long-duration space missions."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "xnxasfyHtfo",
+      "title": "Eric Weinstein Demands UFO Secrets From Pentagon Scientist",
+      "upload_date": "2026-03-08",
+      "url": "https://www.youtube.com/watch?v=xnxasfyHtfo",
+      "books": [
+        {
+          "title": "Frontiers of Propulsion Science",
+          "author": "Marc Millis and Eric Davis (eds.)",
+          "context": "Jesse plugs Eric Davis's book as a comprehensive review of exotic, propellantless propulsion concepts while praising Davis as an evaluator of anomalous physics results.",
+          "amazon_url": "https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+Marc+Millis+and+Eric+Davis+%28eds.%29"
+        },
+        {
+          "title": "Revelations",
+          "author": "Jacques Vallée",
+          "context": "Davis cites Vallée's book as discussing the Defense Audiovisual Agency generals and the alleged film of the 1964 Holloman AFB landing that Vallée and Allen Hynek were invited to view.",
+          "amazon_url": "https://www.amazon.com/s?k=Revelations+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "Skinwalkers at the Pentagon",
+          "author": "Colm Kelleher, James Lacatski, George Knapp",
+          "context": "Davis suggests the current wave of UFO disclosure 'began' with this book, followed by Lacatski's later books and Lue Elizondo's book.",
+          "amazon_url": "https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+Colm+Kelleher%2C+James+Lacatski%2C+George+Knapp"
+        },
+        {
+          "title": "Surely You're Joking, Mr. Feynman!",
+          "author": "Richard Feynman",
+          "context": "Weinstein asks Davis if he remembers Feynman's story collections, specifically the story 'Any Questions?' about Feynman teaching at an aerospace company in Buffalo.",
+          "amazon_url": "https://www.amazon.com/s?k=Surely+You%27re+Joking%2C+Mr.+Feynman%21+Richard+Feynman"
+        },
+        {
+          "title": "What Do You Care What Other People Think?",
+          "author": "Richard Feynman",
+          "context": "Mentioned alongside 'Surely You're Joking' when Weinstein asks about Feynman's anecdotes and his involvement with aerospace companies.",
+          "amazon_url": "https://www.amazon.com/s?k=What+Do+You+Care+What+Other+People+Think%3F+Richard+Feynman"
+        },
+        {
+          "title": "How the Hippies Saved Physics",
+          "author": "David Kaiser",
+          "context": "Weinstein cites it as an example of how fringe/'quack' communities and respectable physicists intermingled around entanglement and Bell inequalities work at Esalen.",
+          "amazon_url": "https://www.amazon.com/s?k=How+the+Hippies+Saved+Physics+David+Kaiser"
+        },
+        {
+          "title": "Geometry and Topology for Physicists",
+          "author": "",
+          "context": "Davis vaguely recalls seeing the Chern-Simons action discussed in a geometry and topology book for physicists whose author he cannot remember.",
+          "amazon_url": "https://www.amazon.com/s?k=Geometry+and+Topology+for+Physicists"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Wilson-Davis memo",
+            "source": "Eric Davis / estate of Edgar Mitchell",
+            "context": "Jesse asks about the leaked notes of Davis's alleged 1997 meeting with Admiral Thomas Wilson; Davis confirms the typewritten version is 100% accurate and says a handwritten version exists."
+          },
+          {
+            "title": "Project Aquarius briefing document",
+            "source": "CIA",
+            "context": "Davis discusses the alleged UFO briefing given to President Carter in June 1977, saying Alonzo McDonald confirmed the reconstructed Aquarius document was genuine."
+          },
+          {
+            "title": "June 1977 White House meeting attendee list",
+            "source": "Jimmy Carter Presidential Library",
+            "context": "Davis says he obtained the attendee list for the date of the alleged Carter UFO briefing, with only two names/organizations redacted; Jesse asks him to send it."
+          },
+          {
+            "title": "MJ-12 documents",
+            "source": "Defense Intelligence Agency",
+            "context": "Davis describes 'senior falcon' passing undeveloped 35mm film of the first-generation MJ-12 documents to Bill Moore and Jaime Shandera, allegedly produced by James Jesus Angleton's document shop."
+          },
+          {
+            "title": "1971 Australian intelligence assessment on U.S. anti-gravity research",
+            "source": "Harry Turner, Australian Joint Intelligence Bureau",
+            "context": "Weinstein describes an Australian document by Harry Turner listing U.S. universities and physicists (Arnowitt, Deser, Dyson, Oppenheimer) that reads like a 'Manhattan Project for gravity.'"
+          },
+          {
+            "title": "Redacted report on the Teller-Ulam design",
+            "source": "U.S. government",
+            "context": "Weinstein notes that the Teller-Ulam design has been released as a heavily redacted report, arguing that nuclear weapons programs are at least partially verifiable to outsiders."
+          },
+          {
+            "title": "Atomic Energy Acts of 1946 and 1954",
+            "source": "U.S. Congress",
+            "context": "Weinstein references the 'restricted data' doctrine originating in the 1946 and 1954 Atomic Energy Acts in the context of born-secret classification and the Morland case."
+          },
+          {
+            "title": "NASA UAP independent study panel report",
+            "source": "NASA",
+            "context": "A news clip describes NASA's 16-member panel studying UFOs using unclassified data and releasing a public report; Jesse notes David Spergel chaired it and led Jim Simons's foundation."
+          },
+          {
+            "title": "Presidential emergency action directives",
+            "source": "Executive Office of the President",
+            "context": "Davis says these directives, instituted under Eisenhower and specifically applied to this topic, make him pessimistic that meaningful UFO disclosure will occur."
+          },
+          {
+            "title": "Boskin Commission report on the Consumer Price Index",
+            "source": "U.S. Senate advisory commission",
+            "context": "Weinstein alleges the commission inserted a 1.1% CPI overstatement by hand to shift a trillion dollars in taxes and benefits, opposing his and Pia Malaney's gauge-theory economics."
+          },
+          {
+            "title": "Richard Feynman's patents for nuclear submarines and nuclear-powered aircraft",
+            "source": "U.S. Patent Office",
+            "context": "Weinstein cites Feynman's odd portfolio of nuclear propulsion patents while questioning whether aerospace companies ever hosted genuine fundamental physics research."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "David Grusch congressional hearing testimony",
+            "source": "U.S. House of Representatives",
+            "context": "Weinstein notes Grusch used the phrase 'interdimensional beings' and talked about holography in a congressional hearing, prompting discussion of garbled terminology."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Howard Morland's article on the Teller-Ulam hydrogen bomb design in The Progressive",
+            "source": "The Progressive magazine",
+            "context": "Weinstein cites Morland reverse-engineering the H-bomb design from declassified fragments, prompting a government prior-restraint attempt under the restricted data doctrine."
+          },
+          {
+            "title": "New Scientist article on Fisher information",
+            "source": "New Scientist",
+            "context": "Davis mentions a 'brilliant' New Scientist article about Roy Frieden's derivation of physical laws from Fisher information."
+          },
+          {
+            "title": "Quanta Magazine coverage of quantum entanglement and tensor networks",
+            "source": "Quanta Magazine",
+            "context": "Davis refers to magazine reporting on work showing spacetime and particles emerging from entanglement/tensor networks as a promising direction from the mid-2010s."
+          },
+          {
+            "title": "The Age of Disclosure",
+            "source": "Dan Farah (documentary film)",
+            "context": "Referenced as the recent documentary featuring Eric Davis, including his claims about Roswell beings and a 1989 Soviet crash retrieval yielding a directed energy weapon."
+          },
+          {
+            "title": "Bob Lazar 1991 interview video",
+            "source": "Bob Lazar",
+            "context": "Weinstein describes a bizarre 1991 Lazar video Joe Rogan pointed him to, in which Lazar discusses 'gravity wave A' and 'gravity wave B' and element 115."
+          },
+          {
+            "title": "Jeffrey Epstein interview tape with Steve Bannon",
+            "source": "Steve Bannon / Jeffrey Epstein",
+            "context": "Weinstein analyzes the recorded Epstein-Bannon media training session, noting Epstein garbles claims about founding the Santa Fe Institute, Murray Gell-Mann, and quarks."
+          },
+          {
+            "title": "New York Times 2017 article on the Pentagon UFO program",
+            "source": "The New York Times",
+            "context": "Jesse asks Weinstein for his mental model of why UFO information has been coming out more since the 2017 New York Times article."
+          },
+          {
+            "title": "Joe Rogan Experience episode 1945",
+            "source": "The Joe Rogan Experience",
+            "context": "Weinstein says he first laid out the 'golden age of general relativity' anti-gravity story on Rogan in episode 1945, joking about being given the Trinity date."
+          },
+          {
+            "title": "Theories of Everything episode with Leonard Susskind",
+            "source": "Kurt Jaimungal / Theories of Everything podcast",
+            "context": "Weinstein recounts hearing Susskind say physics must go back to the foundations, only to realize he meant the foundations of string theory rather than physics itself."
+          },
+          {
+            "title": "Anna Brady-Estevez podcast interview with Hal Puthoff",
+            "source": "Anna Brady-Estevez podcast",
+            "context": "Jesse says Puthoff openly discussed extended electrodynamics, Josephson junctions, and vector/scalar potentials on the former NSF director's podcast; Davis hadn't seen it."
+          },
+          {
+            "title": "Sabine Hossenfelder video on hiding new physics",
+            "source": "Sabine Hossenfelder",
+            "context": "Weinstein cites her recent video covering the physics folklore of the three ways new physics can hide (too energetic, too weakly coupled, or in unusual configurations)."
+          },
+          {
+            "title": "Brian Greene interview with Ed Witten",
+            "source": "Brian Greene / Ed Witten",
+            "context": "Weinstein says he considered posting this recent interview without editorial comment to demonstrate the state of string theory advocacy."
+          },
+          {
+            "title": "Donald Trump Jr. interview with Ross Coulthart",
+            "source": "Donald Trump Jr.",
+            "context": "Jesse cites it as evidence that people peripheral to the administration are interested in the UFO issue."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "Released Epstein files and emails",
+            "source": "U.S. Congress / Department of Justice",
+            "context": "Weinstein and Jesse discuss the recent document dumps, including Epstein's emails about physics and a girlfriend's email claiming he 'got in deeper than he meant to.'"
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "Oak Ridge National Laboratory materials analysis report on the 'Art's Parts'",
+            "source": "Oak Ridge National Laboratory",
+            "context": "Davis says he and Hal Puthoff read the full 90-page ORNL materials analysis of the Art's Parts at a Pentagon meeting in August 2024 and concluded there was 'no there there.'"
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "John Aristotle Phillips' Princeton junior thesis on atomic weapon design",
+            "source": "John Aristotle Phillips / Princeton University",
+            "context": "Weinstein recounts the undergraduate who designed a workable atomic bomb under Freeman Dyson's supervision; a page was removed and the thesis allegedly isn't in the Princeton library."
+          },
+          {
+            "title": "Green-Schwarz anomaly cancellation paper",
+            "source": "Michael Green and John Schwarz",
+            "context": "Weinstein marks 1984 and the Green-Schwarz anomaly cancellation as the moment Ed Witten redirected all of theoretical physics toward string theory."
+          },
+          {
+            "title": "Wu-Yang dictionary",
+            "source": "Tai Tsun Wu and Chen Ning Yang",
+            "context": "Weinstein cites the Wu-Yang dictionary (work of Jim Simons and C.N. Yang) as revealing the classical geometric structure underlying the standard model."
+          },
+          {
+            "title": "Paper on extended electrodynamics by Lee Hively and Woodside",
+            "source": "Lee Hively and Woodside",
+            "context": "Jesse notes that a few academics, including Lee Hively in Colorado Springs and a colleague named Woodside in Australia, have written a paper on extended electrodynamics."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "NvQXmtcwHA8",
+      "title": "BREAKING: Massive Energy Grid Found Beneath Pyramids of Egypt",
+      "upload_date": "2026-03-15",
+      "url": "https://www.youtube.com/watch?v=NvQXmtcwHA8",
+      "books": [],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Biondi's patent on SAR Doppler tomography (and pending second patent)",
+            "source": "United States Patent and Trademark Office",
+            "context": "Biondi discusses that his original patent covering the method has expired and that he has submitted a second, undisclosed patent in the United States."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Flint Dibble's critique video on the Giza SAR scans",
+            "source": "Flint Dibble (YouTube)",
+            "context": "Jesse mentions watching Dibble's video criticizing Biondi, raising points such as heat at depth and the expired patents, which they then address."
+          },
+          {
+            "title": "Ancient Architects video critiquing the Giza SAR study",
+            "source": "Ancient Architects (YouTube)",
+            "context": "Drum credits Ancient Architects for pointing out that the water table under Giza is roughly 50 m below the plateau, not a kilometer down as depicted in the SAR model."
+          },
+          {
+            "title": "Night Scarb measurement analysis of the Osiris Shaft SAR scan",
+            "source": "Night Scarb (YouTube channel)",
+            "context": "Drum cites this channel's measurements showing the SAR signatures of the Osiris Shaft are off by several meters from the known configuration."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "Osirion 7 archaeological mission water testing and hydrological evaluation",
+            "source": "Osirion 7 archaeological mission (with Jim Westerman)",
+            "context": "Drum describes being an official member of this project, submitting water samples from the Osiris Shaft for testing to determine the source of the water in the Osireion."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Synthetic Aperture Radar Doppler Tomography Reveals Details of Undiscovered High-Resolution Internal Structure of the Great Pyramid of Giza",
+            "source": "Filippo Biondi and Corrado Malanga",
+            "context": "The 2020/2022 paper by Biondi and Malanga on SAR Doppler tomography scans of the Great Pyramid is discussed at length, with its abstract quoted and its data images and 3D models analyzed."
+          },
+          {
+            "title": "A Mathematical Theory of Communication",
+            "source": "Claude Shannon",
+            "context": "Biondi calls it 'the mother paper of information' and recommends everyone read it when explaining that radar penetration is about information/entropy."
+          },
+          {
+            "title": "ScanPyramids muon scanning paper on the Great Pyramid 'big void'",
+            "source": "ScanPyramids project",
+            "context": "Jeffrey Drum presents and displays this published muon-scanning paper's raw data and mathematical analysis to compare its detection of the big void with the SAR team's results."
+          },
+          {
+            "title": "1970s muon scanning study of the Khafre (central) pyramid",
+            "source": "Luis Walter Alvarez et al.",
+            "context": "Drum cites this 1970s muon-detection paper, which scanned about 19% of the volume above the Belzoni chamber in a 35-degree cone and found nothing, contrasting it with the SAR findings."
+          },
+          {
+            "title": "Paper documenting the karst cave and tunnel system and hydrogen sulfide gas beneath the Giza Plateau",
+            "source": "",
+            "context": "Drum references a paper showing a karst cave and tunnel system under Giza as the source of hydrogen sulfide gas, which he says is the initial reactant in his chemical manufacturing hypothesis."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "iPxbILOMQ08",
+      "title": "Meet The Scientist Who Studies Alien Implants in Human Bodies",
+      "upload_date": "2026-03-22",
+      "url": "https://www.youtube.com/watch?v=iPxbILOMQ08",
+      "books": [
+        {
+          "title": "The Controllers",
+          "author": "Martin Cannon",
+          "context": "Jesse brings it up while asking whether MK Ultra-style human programs with implants could be masquerading as alien abductions; he calls it a slim, poorly researched book.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Controllers+Martin+Cannon"
+        },
+        {
+          "title": "Chaos",
+          "author": "Tom O'Neill",
+          "context": "Mentioned as a 'great book' by a friend of Jesse's, arguing Charles Manson was linked to MK Ultra, during discussion of Jolly West and mind control.",
+          "amazon_url": "https://www.amazon.com/s?k=Chaos+Tom+O%27Neill"
+        },
+        {
+          "title": "Lost Science",
+          "author": "",
+          "context": "Steve Colbern cites it as the hard-to-find source for rumors that Nikola Tesla actually built and flew flying vehicles powered by scalar energy.",
+          "amazon_url": "https://www.amazon.com/s?k=Lost+Science"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Project A119",
+            "source": "U.S. Air Force",
+            "context": "Jesse cites this documented Air Force project to detonate a nuclear device on the moon as a show of force against the Soviets, tying it to Colbern's Apollo 13 warhead speculation."
+          },
+          {
+            "title": "Gemini 11 NASA photograph with airbrushed UFO (Simpkinson textbook)",
+            "source": "NASA",
+            "context": "Jesse describes a NASA book/textbook, brought to his attention by Chris Ramsay, containing an official NASA-archivist airbrushed UFO in a Gemini 11 mission photo."
+          },
+          {
+            "title": "Gemini mission audio recordings of astronauts discussing UFOs",
+            "source": "NASA",
+            "context": "Jesse says there is documented audio from the Gemini missions of astronauts reacting to UFOs and an electromagnetic anomaly/outage."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "Correspondence between Jolly West and Sidney Gottlieb",
+            "source": "CIA / UCLA",
+            "context": "Jesse notes there are letters on record between Jolly West and Sidney Gottlieb, tied to MK Ultra and West's LSD elephant experiment."
+          },
+          {
+            "title": "Agnew Bahnson's diaries",
+            "source": "Agnew Bahnson",
+            "context": "Jesse says Bahnson, funder of Townsend Brown and the Institute of Field Physics, wrote in his diaries about 'space brothers' prompting him to pursue anti-gravity research."
+          },
+          {
+            "title": "Tesla's writings on communicating with aliens at Colorado Springs",
+            "source": "Nikola Tesla",
+            "context": "Colbern says that according to Tesla's own writings, the beings also talked to Tesla, who claimed communication with aliens in Colorado Springs."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "X-ray of Steve Colbern's toe showing the implant",
+            "source": "Dr. Roger Leir's medical practice",
+            "context": "Colbern recounts getting a prescription for an X-ray that clearly showed a bent wire-like object in his toe, which he calls his proof, and later the mysteriously altered X-ray film."
+          },
+          {
+            "title": "Air Force 1990 vacuum test of the Biefeld-Brown effect",
+            "source": "U.S. Air Force",
+            "context": "Cited in a narrated aside as an attempt to falsify Brown's experiments by using only 19 kilovolts instead of Brown's megavoltage."
+          },
+          {
+            "title": "Montgolfier facility vacuum tests of Townsend Brown's experiments (1956)",
+            "source": "Jacques Cornillon / SNCASO (French aerospace)",
+            "context": "Described as positive-result vacuum experiments facilitated in Paris by a French Air Force officer, supporting the Biefeld-Brown effect."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Paper on the analysis of the toe implant submitted to the Journal of Scientific Exploration",
+            "source": "Steve Colbern and Dr. Roger Leir",
+            "context": "Colbern describes co-writing a scientific paper on the nanotechnological implant removed from his toe, which the Journal of Scientific Exploration initially welcomed and then refused to publish."
+          },
+          {
+            "title": "Article on Earth's smaller natural moons orbiting at about 500 miles",
+            "source": "Clyde Tombaugh",
+            "context": "Colbern references an article by Pluto's discoverer claiming Earth had small moons in orbit, corroborating reports of reflective objects seen from Palomar Observatory."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "UrHLTFvdEZk",
+      "title": "Exposing the CIA's Darkest Mind Control Secrets",
+      "upload_date": "2026-03-26",
+      "url": "https://www.youtube.com/watch?v=UrHLTFvdEZk",
+      "books": [
+        {
+          "title": "CIA Doctors",
+          "author": "Colin Ross",
+          "context": "The central book of the interview; Jesse describes it as a bombshell documenting the medical malpractice of psychiatrists associated with CIA mind control programs.",
+          "amazon_url": "https://www.amazon.com/s?k=CIA+Doctors+Colin+Ross"
+        },
+        {
+          "title": "The Manchurian Candidate",
+          "author": "Richard Condon",
+          "context": "Discussed as a 1950s novel (and 1961 Frank Sinatra film) about a programmed assassin, which Ross notes was preceded by real CIA documents describing hypnosis of GIs in Manchuria.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Manchurian+Candidate+Richard+Condon"
+        },
+        {
+          "title": "The Controllers",
+          "author": "Martin Cannon",
+          "context": "Jesse cites this book for its claims about G.H. Estabrooks bragging about creating super spies and its thesis that alien abductions are a smokescreen for MK Ultra.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Controllers+Martin+Cannon"
+        },
+        {
+          "title": "Poisoner in Chief",
+          "author": "Stephen Kinzer",
+          "context": "Referenced as a great biography of Sidney Gottlieb, head of the CIA's Technical Services Division.",
+          "amazon_url": "https://www.amazon.com/s?k=Poisoner+in+Chief+Stephen+Kinzer"
+        },
+        {
+          "title": "Chaos",
+          "author": "Tom O'Neill",
+          "context": "Cited for its investigative journalism revealing Charles Manson's connections to the Haight-Ashbury Free Medical Clinic and Louis Jolyon West, and arguing the official narrative was a cover story.",
+          "amazon_url": "https://www.amazon.com/s?k=Chaos+Tom+O%27Neill"
+        },
+        {
+          "title": "Helter Skelter",
+          "author": "Vincent Bugliosi",
+          "context": "Mentioned as the book written by the lead prosecutor in the Manson case, whose narrative O'Neill found to be off.",
+          "amazon_url": "https://www.amazon.com/s?k=Helter+Skelter+Vincent+Bugliosi"
+        },
+        {
+          "title": "Stranger in a Strange Land",
+          "author": "Robert Heinlein",
+          "context": "Jesse's theory that Charles Manson modeled his life on this sci-fi novel, naming his son Valentine Michael and calling his parole officer Jubal.",
+          "amazon_url": "https://www.amazon.com/s?k=Stranger+in+a+Strange+Land+Robert+Heinlein"
+        },
+        {
+          "title": "Space Relations",
+          "author": "Donald Barr",
+          "context": "Cited as a novel written by the man who hired Epstein at Dalton, involving underage sex as compromise, which Jesse suggests may have been a template for Epstein's life.",
+          "amazon_url": "https://www.amazon.com/s?k=Space+Relations+Donald+Barr"
+        },
+        {
+          "title": "The Catcher in the Rye",
+          "author": "J.D. Salinger",
+          "context": "Discussed as the book Mark David Chapman purchased before shooting John Lennon, possibly functioning as a trigger.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Catcher+in+the+Rye+J.D.+Salinger"
+        },
+        {
+          "title": "The Control of Candy Jones",
+          "author": "Donald Bain",
+          "context": "Ross references this book about Candy Jones, a WWII pinup girl who was allegedly hypnotically programmed as a courier.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Control+of+Candy+Jones+Donald+Bain"
+        },
+        {
+          "title": "Towards a Psychocivilized Society",
+          "author": "Jose Delgado",
+          "context": "Ross cites Delgado's book advocating implanting electrodes in the brains of the entire population except top generals and politicians.",
+          "amazon_url": "https://www.amazon.com/s?k=Towards+a+Psychocivilized+Society+Jose+Delgado"
+        },
+        {
+          "title": "Forbidden Science",
+          "author": "Jacques Vallée",
+          "context": "Jesse mentions Vallée's multi-volume published diaries, which discuss CIA technical services figures collecting books on UFOs.",
+          "amazon_url": "https://www.amazon.com/s?k=Forbidden+Science+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "The Human Energy Field",
+          "author": "Colin Ross",
+          "context": "Ross's other book, discussed in the latter half regarding extramission, scopaesthesia, and electromagnetic fields of the body.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Human+Energy+Field+Colin+Ross"
+        },
+        {
+          "title": "The Body Electric",
+          "author": "Robert Becker",
+          "context": "Jesse praises this book on electromagnetic effects on cells and limb regeneration in salamanders and tadpoles.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Body+Electric+Robert+Becker"
+        },
+        {
+          "title": "Comprehensive Textbook of Psychiatry",
+          "author": "",
+          "context": "Ross describes the 1980 three-volume edition, the 'Bible of psychiatry,' which buried a chapter on incest citing a 1955 study claiming incest occurred in one family in a million.",
+          "amazon_url": "https://www.amazon.com/s?k=Comprehensive+Textbook+of+Psychiatry"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "MK Ultra Papers (149 project files, ~15,000 pages)",
+            "source": "CIA",
+            "context": "Ross recounts traveling to a nondescript government building in Northern Virginia in 1992 to read the full cart of declassified MK Ultra project documents."
+          },
+          {
+            "title": "Side Effects of Syphilis in the Male Negro",
+            "source": "U.S. Public Health Service",
+            "context": "Ross says he copied this paper as documentation of the Tuskegee syphilis study."
+          },
+          {
+            "title": "Advisory Committee on Human Radiation Experiments report",
+            "source": "U.S. Government (Clinton administration)",
+            "context": "Ross describes a several-inch-thick late-1990s report documenting radiation experiments, including 'HP7' who was injected with plutonium while comatose."
+          },
+          {
+            "title": "Rockefeller Commission report",
+            "source": "U.S. Government",
+            "context": "Ross notes the Olson family discovered a paragraph in this report describing how Frank Olson was dosed with LSD."
+          },
+          {
+            "title": "G.H. Estabrooks' War Department contract and correspondence",
+            "source": "U.S. War Department",
+            "context": "Ross says he possesses copies of Estabrooks' 1943-era contract with the War Department and his correspondence with J. Edgar Hoover and MK Ultra contractors."
+          },
+          {
+            "title": "CIA memo on Lee Harvey Oswald's mother reporting an impersonator in Europe",
+            "source": "CIA",
+            "context": "Ross describes a document, part of the Bluebird/Artichoke-related papers, in which one intelligence officer writes to another about Oswald's mother's concerns."
+          },
+          {
+            "title": "CIA memo on hypnosis used on captured GIs in Manchuria",
+            "source": "CIA",
+            "context": "Ross cites this internal CIA correspondence as evidence the Manchurian Candidate premise appeared in agency files before the novel was published."
+          },
+          {
+            "title": "Flexner Report",
+            "source": "Carnegie Foundation",
+            "context": "Jesse cites it as the origin of modern pharmaceutical-based American medicine and the AMA."
+          },
+          {
+            "title": "Epstein files",
+            "source": "U.S. Government",
+            "context": "Discussed as released records revealing sex trafficking details and the conspicuous lack of prosecutions of named individuals."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "U.S. Army list of ~120 drugs used in mind control testing",
+            "source": "U.S. Army General Counsel",
+            "context": "Released at mid-1970s congressional committee hearings; Ross notes the Army also admitted to 1,500 LSD subjects."
+          },
+          {
+            "title": "Church Committee report",
+            "source": "U.S. Senate",
+            "context": "Referenced as the 1975 investigation where CIA malfeasance including mind control was investigated and the documentary trail goes dark."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Zapruder film",
+            "source": "Abraham Zapruder",
+            "context": "Jesse mentions the missing frames of the JFK assassination footage in connection with C.D. Jackson of Time magazine."
+          },
+          {
+            "title": "Robert F. Kennedy Jr. interview statements on his father's assassination",
+            "source": "",
+            "context": "An interview clip is played in which RFK Jr. disputes that Sirhan Sirhan's bullets hit his father and names security guard Eugene Thane Cesar."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "Sirhan Sirhan's diary",
+            "source": "",
+            "context": "Jesse notes Sirhan reportedly wrote 'must kill RFK' repeatedly, which Ross says is ambiguous between psychotic rambling and programming."
+          },
+          {
+            "title": "Les Wexner's diary entries about a dybbuk",
+            "source": "",
+            "context": "Jesse claims Wexner wrote in his diary in the 80s or 90s about being haunted by a dybbuk, used to raise metaphysical speculation."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "Robert Heath's published brain-electrode homosexuality 'cure' study",
+            "source": "Tulane University / medical journal",
+            "context": "Ross describes a mainstream published paper on implanting electrodes and pairing arousal with heterosexual stimuli, concluding the patient was 'cured' with one relapse."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Colin Ross's electrical engineering paper on ocular extramission",
+            "source": "Colin Ross",
+            "context": "Ross describes publishing in an obscure electrical engineering journal a study measuring a signal from an electrode suspended in front of his eye with no bodily contact."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "mOWwdIuyaQA",
+      "title": "NASA Chief: \"We Just Built Antigravity Propulsion!”",
+      "upload_date": "2026-03-30",
+      "url": "https://www.youtube.com/watch?v=mOWwdIuyaQA",
+      "books": [
+        {
+          "title": "Defying Gravity: The Parallel Universe of T. Townsend Brown",
+          "author": "Paul Schatzkin",
+          "context": "Jesse Michels cites Townsend Brown's 'incredible biography by Paul Schatzkin' as the source that reframes Brown as more than an amateur quack.",
+          "amazon_url": "https://www.amazon.com/s?k=Defying+Gravity%3A+The+Parallel+Universe+of+T.+Townsend+Brown+Paul+Schatzkin"
+        },
+        {
+          "title": "The Hunt for Zero Point",
+          "author": "Nick Cook",
+          "context": "Discussed as an 'amazing book' by Jane's Defence Weekly journalist Nick Cook that traces 1950s anti-gravity research, Podkletnov, and Schauberger lineages.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+Nick+Cook"
+        },
+        {
+          "title": "The Structure of Scientific Revolutions",
+          "author": "Thomas Kuhn",
+          "context": "Referenced twice to argue that science advances via politics and accumulating anomalies rather than pure truth-seeking.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+Thomas+Kuhn"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "FBI document on Thomas Townsend Brown",
+            "source": "FBI",
+            "context": "Jesse mentions a circulated FBI document describing Brown as the leading radar scientist in the Navy."
+          },
+          {
+            "title": "Invention Secrecy Act of 1952",
+            "source": "U.S. Government",
+            "context": "Brought up when discussing whether Buhler's first patent may have been subject to a national security hold."
+          },
+          {
+            "title": "Exodus Propulsion Technologies patent application (second patent) under USPTO examination",
+            "source": "U.S. Patent and Trademark Office",
+            "context": "Buhler says his second patent is going through the examiner's office, which he considers equivalent to scientific peer review, with affidavits from witnesses."
+          },
+          {
+            "title": "NASA UAP independent study report",
+            "source": "NASA",
+            "context": "Buhler recounts being approached to help with NASA's UAP investigation after their first report, and being told there were no physicists involved."
+          },
+          {
+            "title": "Gary McKinnon's discovered list of non-terrestrial officers and fleet-to-fleet transfer manifests",
+            "source": "U.S. Navy / NASA (as described by Gary McKinnon)",
+            "context": "Jesse describes McKinnon's hack revealing a list of 40 non-terrestrial officers and material transfer records including molybdenum and high-K dielectrics."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "Deathbed audio recording of Jacques Cornillon",
+            "source": "Jacques Cornillon (Sud Aviation)",
+            "context": "An audio confession from 2009 in which the French aerospace executive states he witnessed a positive result in Brown's 1956 vacuum chamber experiment."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "120-page report on the 1956 Paris vacuum chamber electrogravitics experiment",
+            "source": "",
+            "context": "Cited as widely available online documentation accompanying Brown's successful vacuum chamber test in Paris."
+          },
+          {
+            "title": "Beatriz Villarroel's peer-reviewed study of Palomar Observatory photographic plates (1949–1957) transients",
+            "source": "Stockholm University / Palomar Observatory",
+            "context": "Cited as an example of anomalous research passing peer review, showing flat reflective transients that increase ~68% after nuclear tests."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "CiQTBOQ1dTg",
+      "title": "“We Captured a 12 Foot Giant in Afghanistan!” -Tim Alberino",
+      "upload_date": "2026-04-05",
+      "url": "https://www.youtube.com/watch?v=CiQTBOQ1dTg",
+      "books": [
+        {
+          "title": "Birthright",
+          "author": "Timothy Alberino",
+          "context": "Alberino's own book, repeatedly referenced throughout as the place where he lays out his theology of extraterrestrial sons of God, Rahab, the posthuman apocalypse and Armageddon.",
+          "amazon_url": "https://www.amazon.com/s?k=Birthright+Timothy+Alberino"
+        },
+        {
+          "title": "The Book of Enoch (1 Enoch)",
+          "author": "Attributed to Enoch",
+          "context": "Central text of the conversation; Alberino describes buying it at Borders as a teenager and explains the Book of the Watchers and the Parables/oracles as foundational to Hebrew cosmology.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Book+of+Enoch+%281+Enoch%29+Attributed+to+Enoch"
+        },
+        {
+          "title": "The Bible",
+          "author": "Various",
+          "context": "Discussed at length, especially Genesis 6, Daniel, Job, Psalms, Colossians, Jude, 2 Peter and Revelation, as the framework for interpreting watchers, Nephilim and extraterrestrials.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Bible+Various"
+        },
+        {
+          "title": "Epic of Gilgamesh",
+          "author": "Ancient Mesopotamian",
+          "context": "Cited as a pagan parallel account of the antediluvian world in which Gilgamesh himself was a giant; also referenced regarding Hillary Clinton emails about his tomb.",
+          "amazon_url": "https://www.amazon.com/s?k=Epic+of+Gilgamesh+Ancient+Mesopotamian"
+        },
+        {
+          "title": "Book of Giants",
+          "author": "Dead Sea Scrolls",
+          "context": "Listed among Dead Sea Scroll manuscripts attesting the Enochian tale of the watchers and giants.",
+          "amazon_url": "https://www.amazon.com/s?k=Book+of+Giants+Dead+Sea+Scrolls"
+        },
+        {
+          "title": "Book of Jubilees",
+          "author": "Second Temple Jewish text",
+          "context": "Cited as another text attesting the supernatural view of Genesis 6 during the Second Temple period.",
+          "amazon_url": "https://www.amazon.com/s?k=Book+of+Jubilees+Second+Temple+Jewish+text"
+        },
+        {
+          "title": "Genesis Apocryphon",
+          "author": "Dead Sea Scrolls",
+          "context": "Named among the Dead Sea Scroll manuscripts corroborating the watchers narrative.",
+          "amazon_url": "https://www.amazon.com/s?k=Genesis+Apocryphon+Dead+Sea+Scrolls"
+        },
+        {
+          "title": "Cydonia",
+          "author": "David Flynn",
+          "context": "Alberino calls it the most consequential book he has ever read; it argues the ancients believed the gods descended from Mars and the destroyed planet Rahab, and it provided the substrate for Birthright.",
+          "amazon_url": "https://www.amazon.com/s?k=Cydonia+David+Flynn"
+        },
+        {
+          "title": "Wonders in the Sky",
+          "author": "Jacques Vallée",
+          "context": "Cited as evidence that the UFO phenomenon is transhistorical and transcultural rather than merely post-Roswell.",
+          "amazon_url": "https://www.amazon.com/s?k=Wonders+in+the+Sky+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "Passport to Magonia",
+          "author": "Jacques Vallée",
+          "context": "Mentioned alongside Wonders in the Sky as foundational Vallée works linking modern UFOs to older folklore.",
+          "amazon_url": "https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "Walking Among Us",
+          "author": "David Jacobs",
+          "context": "Discussed as Jacobs's final book documenting 'personal project hybrids' or 'hubrids' indistinguishable from humans.",
+          "amazon_url": "https://www.amazon.com/s?k=Walking+Among+Us+David+Jacobs"
+        },
+        {
+          "title": "Taken",
+          "author": "Karla Turner",
+          "context": "Cited as featuring abduction stories of several women, including one who saw Nordics on a military base and was told they were involved with the grays 'by degrees.'",
+          "amazon_url": "https://www.amazon.com/s?k=Taken+Karla+Turner"
+        },
+        {
+          "title": "Into the Fringe",
+          "author": "Karla Turner",
+          "context": "Named as Turner's book telling the story of her own family's alien and military abduction experiences.",
+          "amazon_url": "https://www.amazon.com/s?k=Into+the+Fringe+Karla+Turner"
+        },
+        {
+          "title": "Masquerade of Angels",
+          "author": "Karla Turner",
+          "context": "Mentioned as documenting the story of abductee Ted Rice.",
+          "amazon_url": "https://www.amazon.com/s?k=Masquerade+of+Angels+Karla+Turner"
+        },
+        {
+          "title": "Reversing Hermon",
+          "author": "Michael Heiser",
+          "context": "Recommended as a scholarly work on how Jesus's ministry undid the work of the watchers.",
+          "amazon_url": "https://www.amazon.com/s?k=Reversing+Hermon+Michael+Heiser"
+        },
+        {
+          "title": "The Unseen Realm",
+          "author": "Michael Heiser",
+          "context": "Cited as a critical scholarly treatment of the life and ministry of Jesus in relation to the watchers and Hebrew cosmology.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Unseen+Realm+Michael+Heiser"
+        },
+        {
+          "title": "Homo Deus",
+          "author": "Yuval Noah Harari",
+          "context": "Referenced regarding the claim that within 100-120 years there will be no more humans, illustrating the transhumanist religion of self-deification.",
+          "amazon_url": "https://www.amazon.com/s?k=Homo+Deus+Yuval+Noah+Harari"
+        },
+        {
+          "title": "The Immortality Key",
+          "author": "Brian Muraresku",
+          "context": "Mentioned among works suggesting continuity between Eleusinian mystery rites and early Christianity.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Immortality+Key+Brian+Muraresku"
+        },
+        {
+          "title": "The Chronicles of Narnia",
+          "author": "C.S. Lewis",
+          "context": "Alberino says he devoured all seven books as a child while never reading Lewis's space trilogy.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Chronicles+of+Narnia+C.S.+Lewis"
+        },
+        {
+          "title": "The Space Trilogy",
+          "author": "C.S. Lewis",
+          "context": "Jesse asks whether Alberino has read it; discussed as Lewis's cosmology of a space war that parallels Alberino's views.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Space+Trilogy+C.S.+Lewis"
+        },
+        {
+          "title": "The Lord of the Rings",
+          "author": "J.R.R. Tolkien",
+          "context": "Referenced as a 'wink and nod' for his term 'elder race,' comparing high elves to the pre-existent sons of God.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Lord+of+the+Rings+J.R.R.+Tolkien"
+        },
+        {
+          "title": "The Silmarillion",
+          "author": "J.R.R. Tolkien",
+          "context": "Cited alongside Lord of the Rings for the high elves who were related to and could interbreed with humans.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Silmarillion+J.R.R.+Tolkien"
+        },
+        {
+          "title": "The New Atlantis",
+          "author": "Francis Bacon",
+          "context": "Mentioned when discussing Bacon as author of the colonization scheme and possible Rosicrucian who 'knew some stuff.'",
+          "amazon_url": "https://www.amazon.com/s?k=The+New+Atlantis+Francis+Bacon"
+        },
+        {
+          "title": "The Three-Body Problem",
+          "author": "Liu Cixin",
+          "context": "Invoked as an analogy for how those who steal fire from the gods end up interfacing with non-human intelligences.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Three-Body+Problem+Liu+Cixin"
+        },
+        {
+          "title": "The Pseudepigrapha",
+          "author": "Various ancient authors",
+          "context": "The large anthology Alberino pulled off the shelf at Borders as a teenager, which contained the Book of Enoch.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Pseudepigrapha+Various+ancient+authors"
+        },
+        {
+          "title": "Septuagint",
+          "author": "Hellenistic Jewish translators",
+          "context": "Cited because its rendering of Genesis 6 says 'angels of God' rather than 'sons of God,' supporting the supernatural interpretation.",
+          "amazon_url": "https://www.amazon.com/s?k=Septuagint+Hellenistic+Jewish+translators"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Smithsonian Institution annual reports",
+            "source": "Smithsonian Institution",
+            "context": "Referenced as official records documenting the unearthing of unusually large skeletal remains from American mounds."
+          },
+          {
+            "title": "Peruvian police investigation report on the Alto Nanay 'pelacaras' attacks",
+            "source": "Peruvian provincial police (with Navy escort)",
+            "context": "Alberino criticizes this investigation, which concluded villagers were being assaulted by river miners with jetpack technology."
+          },
+          {
+            "title": "Pentagon statement denying the Kandahar giant story",
+            "source": "U.S. Department of Defense / Pentagon",
+            "context": "Alberino recalls seeing what looked like an official press release stating the Kandahar giant story is not true, which he finds suspicious."
+          },
+          {
+            "title": "MJ-12 documents",
+            "source": "U.S. intelligence community (alleged)",
+            "context": "Discussed in connection with James Jesus Angleton possibly being responsible for their leak as counterintelligence 'barium meal' material."
+          },
+          {
+            "title": "Tunisian column inscription: 'We are the Canaanites who fled before the face of Joshua the son of Nun'",
+            "source": "Recorded by a Greek historian",
+            "context": "Offered as evidence that Canaanites, including giant clans, were evicted from Canaan and migrated westward."
+          },
+          {
+            "title": "Ugaritic summoning texts for dead Nephilim",
+            "source": "Ancient Ugarit",
+            "context": "Cited as discovered texts containing rites to summon or resurrect dead Nephilim, evidencing Canaanite necromancy."
+          },
+          {
+            "title": "CIA remote viewing session of Mars by Joe McMoneagle",
+            "source": "CIA",
+            "context": "Cited as a tasked remote viewing of Mars a million years ago in which McMoneagle described 8-12 foot giant beings and pyramid ruins."
+          },
+          {
+            "title": "Resolute Sentinel joint military operation in Peru",
+            "source": "U.S. military and allied forces",
+            "context": "Cited as a multinational joint operation coinciding with the face peeler incursions, which Alberino speculates may have been a cover."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "Abraham Lincoln's Niagara Falls speech/lecture",
+            "source": "Abraham Lincoln",
+            "context": "Quoted for the line about 'the eyes of that ancient species of giants whose bones fill the mounds of America' having gazed upon Niagara."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "True Legends (documentary series)",
+            "source": "Timothy Alberino and Steve Quayle, Gen 6 Productions",
+            "context": "The film series in which Alberino interviewed the silhouetted C-130 pilot about the Kandahar giant and dozens of Sardinian witnesses to giant remains."
+          },
+          {
+            "title": "Alberino's YouTube investigation video on the Peruvian face peelers",
+            "source": "Timothy Alberino",
+            "context": "Referenced as containing the full documentation of his expedition to San Antonio de Pintoyacu, including Talia's laser incision scar."
+          },
+          {
+            "title": "Coast to Coast AM interview with the Kandahar giant pilot",
+            "source": "Coast to Coast AM (George Noory)",
+            "context": "Described as the first public airing of the C-130 pilot's Kandahar giant story before Alberino and Quayle filmed him."
+          },
+          {
+            "title": "Roger Leir's UFO video showing gray beings",
+            "source": "Roger Leir",
+            "context": "Described as one of the most compelling UFO videos ever, allegedly showing grays inside a craft, filmed in Lebanon or Turkey."
+          },
+          {
+            "title": "Anna Paulina Luna's Joe Rogan interview remarks on the Book of Enoch",
+            "source": "The Joe Rogan Experience",
+            "context": "Quoted at length as the Congresswoman urging people to read the Book of Enoch to understand the origins of UAPs."
+          },
+          {
+            "title": "Dialogues between Budd Hopkins and John Mack",
+            "source": "Budd Hopkins and John Mack (recorded discussions)",
+            "context": "Recommended as excellent, rarely-seen UFO content in which both researchers civilly discuss the abduction phenomenon."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "Wikileaks Clinton emails regarding the resurrection tomb and body of Gilgamesh",
+            "source": "Wikileaks / Hillary Clinton campaign correspondence",
+            "context": "Cited as an alleged email in which Hillary Clinton inquired about the tomb and body of Gilgamesh, tying elites to the occult cult of giants."
+          },
+          {
+            "title": "Epstein emails referencing cold fusion and anti-gravity",
+            "source": "Jeffrey Epstein correspondence (Epstein files)",
+            "context": "Cited as showing Epstein claiming to have killed Pons and Fleischmann's cold fusion work and being obsessed with anti-gravity."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "ALH84001 Mars meteorite findings and Bill Clinton's announcement",
+            "source": "NASA / President Bill Clinton",
+            "context": "Mentioned as 1990s evidence of possible Martian life via hydrocarbons in a meteorite, later walked back."
+          },
+          {
+            "title": "NASA Viking and higher-resolution Cydonia photographs",
+            "source": "NASA",
+            "context": "Discussed as the images showing the 'Face on Mars' and the later higher-resolution images Alberino suspects were released to quell the firestorm."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Hal Puthoff paper on the cryptoterrestrial/ultraterrestrial hypothesis",
+            "source": "Hal Puthoff",
+            "context": "Mentioned as an interesting paper positing ultraterrestrials who are survivors of an ancient cataclysm."
+          },
+          {
+            "title": "'The Pagan Continuity Hypothesis' essay",
+            "source": "Martin Luther King Jr.",
+            "context": "Cited as an essay by MLK Jr. hinting at continuity between pagan mystery rites and Christianity."
+          },
+          {
+            "title": "Sitchiniswrong.com",
+            "source": "Michael Heiser",
+            "context": "Referenced as Heiser's website demonstrating that Zecharia Sitchin's interpretations of Mesopotamian cylinder seals were poor."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "d9tdJ2SkBKQ",
+      "title": "A Weekend With Bob Lazar: Inside Area51's UFOs",
+      "upload_date": "2026-04-13",
+      "url": "https://www.youtube.com/watch?v=d9tdJ2SkBKQ",
+      "books": [
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Jesse cites this book as documenting UFOs appearing over nuclear bases across the US, connecting Bob's nuclear background to UFO activity.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "The Silent War",
+          "author": "John P. Craven",
+          "context": "Mentioned as a book by a high-ranking Navy figure describing retrieval of exotic technology from the seafloor, supporting Bob's claim the sport model came from water.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Silent+War+John+P.+Craven"
+        },
+        {
+          "title": "Messengers of Deception",
+          "author": "Jacques Vallée",
+          "context": "Jesse notes Vallée wrote about Bob Lazar in this book, including claims about a Pine-Sol-like drink and memory lapses that Bob disputes.",
+          "amazon_url": "https://www.amazon.com/s?k=Messengers+of+Deception+Jacques+Vall%C3%A9e"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Wilson-Davis memo",
+            "source": "Eric Davis / Admiral Thomas Wilson",
+            "context": "Jesse references the leaked memo describing Eric Davis meeting Admiral Thomas Wilson in an EG&G parking lot about a reverse engineering program he was denied access to."
+          },
+          {
+            "title": "Project Galileo briefing",
+            "source": "S-4 / U.S. government",
+            "context": "Bob describes reading this briefing document at S-4 that covered the craft's propulsion system and its two directives (duplicate and disable)."
+          },
+          {
+            "title": "Project Looking Glass briefing",
+            "source": "S-4 / U.S. government",
+            "context": "One of the summary briefing documents Bob read at S-4 concerning a project reportedly related to manipulating time."
+          },
+          {
+            "title": "Project Sidekick briefing",
+            "source": "S-4 / U.S. government",
+            "context": "Briefing document Bob read at S-4 describing the weapon potential of the craft, using the emitters to focus a particle beam."
+          },
+          {
+            "title": "U.S. Department of the Interior geological maps of Papoose Lake / Groom Lake (1989 revision)",
+            "source": "U.S. Department of the Interior / USGS",
+            "context": "Luigi describes how the maps were modified and stamped May 23, 1989 — eight days after Lazar went public — removing the road east of Papoose Lake toward S-4."
+          },
+          {
+            "title": "1949 contract between Battelle Memorial Institute and Wright Air Field on titanium/nitinol alloys",
+            "source": "Battelle Memorial Institute / U.S. Air Force",
+            "context": "Jesse cites the contract on titanium-nickel alloys as an intriguing link to Roswell memory metal, since nitinol only appeared publicly in the 1960s."
+          },
+          {
+            "title": "Project Blue Book",
+            "source": "U.S. Air Force",
+            "context": "Luigi contrasts decades of focus on the Air Force's Project Blue Book with Lazar's 1989 claim that the Navy was in charge of intact craft."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "S-4: The Bob Lazar Story (documentary film)",
+            "source": "Luigi Vendetelli",
+            "context": "The documentary/film by guest Luigi Vendetelli depicting Bob Lazar's account of S-4 in hyperrealistic detail; discussed throughout the interview."
+          },
+          {
+            "title": "Los Alamos local newspaper front-page story on Bob Lazar's jet car",
+            "source": "Los Alamos Monitor (local newspaper)",
+            "context": "Bob recounts the 1982 front-page article about his jet-powered Honda, which Edward Teller was reading when they met."
+          },
+          {
+            "title": "Edward Teller filmed interview denying knowledge of Bob Lazar",
+            "source": "Interview footage (found by Luigi's team)",
+            "context": "Bob and Jesse discuss the 'Teller tape' in which Teller refuses to answer questions about nuclear propulsion and about knowing Bob Lazar."
+          },
+          {
+            "title": "John Lear's March 22, 1989 video near Groom Lake",
+            "source": "John Lear",
+            "context": "Footage of Lear narrating a UFO sighting east of Groom Lake, used to corroborate Bob showing friends a scheduled test flight."
+          },
+          {
+            "title": "1995 Area 51 black mailbox UFO footage",
+            "source": "Two unnamed college students (via Logan Paul)",
+            "context": "Logan shows Bob previously unseen footage of an orange, wobbling disc filmed near the black mailbox, which Bob says matches the craft's color and motion."
+          },
+          {
+            "title": "Lewis Witten oral history interview",
+            "source": "American Institute of Physics",
+            "context": "Jesse cites this interview where Witten mentions Townsend Brown claiming to have an isotope of bismuth that repelled instead of attracted."
+          },
+          {
+            "title": "Steve Bannon interview with Jeffrey Epstein",
+            "source": "Steve Bannon",
+            "context": "Cited as the source where Epstein explains he bought the New Mexico ranch to be near retiring Los Alamos high-energy physicists."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "Bill Lear's will",
+            "source": "Bill Lear",
+            "context": "Bob recalls John Lear showing him his father's will, in which every clause excluded 'John Olson Lear.'"
+          },
+          {
+            "title": "Jeffrey Epstein emails",
+            "source": "Jeffrey Epstein",
+            "context": "Jesse references released Epstein emails discussing the Casimir effect, cold fusion (Pons and Fleischmann), cesium atomic clocks and Los Alamos physicists."
+          },
+          {
+            "title": "Court document demanding Luigi Vendetelli's communications with Bob Lazar",
+            "source": "Court filing",
+            "context": "Luigi describes being served with a court document demanding all of his communications with Bob Lazar during production of the film."
+          },
+          {
+            "title": "Voynich manuscript",
+            "source": "Unknown",
+            "context": "Jesse jokingly compares parsing John Lear's statements to decoding the Voynich manuscript."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "wlsQIbpEKSM",
+      "title": "Why America’s Top Scientists Are Going Missing",
+      "upload_date": "2026-04-21",
+      "url": "https://www.youtube.com/watch?v=wlsQIbpEKSM",
+      "books": [
+        {
+          "title": "The Three-Body Problem",
+          "author": "Cixin Liu",
+          "context": "Cited repeatedly as an analogy for scientists being targeted by an unseen intelligence; Jesse notes Bush administration officials, Harold Malmgren's daughter Pippa, and allegedly Obama recommended reading it.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Three-Body+Problem+Cixin+Liu"
+        },
+        {
+          "title": "Stalking the Wild Pendulum",
+          "author": "Itzhak Bentov",
+          "context": "Described as Bentov's dense, cult-classic book on consciousness, discussed after his death in the American Airlines Flight 191 crash.",
+          "amazon_url": "https://www.amazon.com/s?k=Stalking+the+Wild+Pendulum+Itzhak+Bentov"
+        },
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Referenced as a great book whose author interviewed nearly 170 witnesses about UFOs appearing over nuclear weapons sites.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Official U.S. Air Force biography of Brig. Gen. Neil McCasland",
+            "source": "U.S. Air Force",
+            "context": "Used to detail McCasland's career, clearances, and postings, and to check claims that an X account belonged to him (it placed him in Los Angeles 1988–1992)."
+          },
+          {
+            "title": "911 call from Susan McCasland reporting her husband missing",
+            "source": "Bernalillo County Sheriff's Office dispatch",
+            "context": "A newly released recording in which she says he has been gone about three hours, changed clothes, and had anxiety, sleep, and memory issues."
+          },
+          {
+            "title": "Pentagon training documentation on acquisition special access programs",
+            "source": "U.S. Department of Defense",
+            "context": "Cited to explain that the Director of Special Programs office McCasland led oversees acquisition SAPs, about 75–80% of all special access programs."
+          },
+          {
+            "title": "Monica Reszá's Mandalloy patents",
+            "source": "U.S. Patent and Trademark Office",
+            "context": "Cited as mentioning Haynes 214 and Monel K500, used to argue Mandalloy is not chemically like Nitinol or Roswell 'memory metal.'"
+          },
+          {
+            "title": "Department of Justice transcript of Claudio Valente's storage-unit confession videos",
+            "source": "U.S. Department of Justice",
+            "context": "Used to show Valente planned the Brown attack for six semesters and called his own execution of it incompetent, while leaving his motive for killing Loureiro vague."
+          },
+          {
+            "title": "The Pentagon Papers",
+            "source": "U.S. Department of Defense",
+            "context": "Mentioned to establish the credentials of Harvard lawyer Danny Sheehan, described as the constitutional lawyer behind the Pentagon Papers."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "L'Espresso article on Trump moving special access programs under the White House and Project Preserve Destiny",
+            "source": "L'Espresso (Italian magazine)",
+            "context": "Cited as a 2025 report from a confidential source claiming tension over SAP control and an NSA program involving communication with non-human intelligence."
+          },
+          {
+            "title": "Trump Truth Social post directing release of UAP/alien files",
+            "source": "Donald Trump / Truth Social",
+            "context": "Dated February 19, 2026, eight days before McCasland vanished; presented as a possible timing data point."
+          },
+          {
+            "title": "SpaceNews interview with Monica Reszá about Mandalloy",
+            "source": "SpaceNews",
+            "context": "Used as the source for Reszá describing how her alloy was scaled into the Mandalloy 100 and 200 family under Air Force and NASA contracts."
+          },
+          {
+            "title": "Bob Pratt interview with Jesse Marcel describing Roswell debris",
+            "source": "Bob Pratt",
+            "context": "Quoted for the description of thin, foil-like debris that would not burn when a lighter was held to it."
+          },
+          {
+            "title": "The Atlantic article on Pentagon review of Vera Rubin Observatory imagery",
+            "source": "The Atlantic",
+            "context": "Quoted at length describing how each telescope image would be encrypted, sent to a secure facility, and filtered for secret U.S. assets before release to astronomers."
+          },
+          {
+            "title": "Los Angeles Times reporting on Freddy Snyder's property records",
+            "source": "Los Angeles Times",
+            "context": "Cited as uncovering that the post office Snyder claimed he was walking to was in the opposite direction from his and Grillmair's homes."
+          },
+          {
+            "title": "2018 MIT profile of Nuno Loureiro",
+            "source": "MIT",
+            "context": "Quoted for Loureiro's recollection that as a boy everyone else wanted to be a policeman or fireman while he wanted to be a scientist."
+          },
+          {
+            "title": "Daily Mail interview with Congressman Tim Burchett",
+            "source": "Daily Mail",
+            "context": "Burchett told the outlet the numbers of disappearing researchers in certain research areas seem very high and that intelligence agencies are stonewalling him."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "John Podesta hacked emails (WikiLeaks release), including Tom DeLonge's 'General McCasland' email and a DeLonge–Podesta calendar invite",
+            "source": "WikiLeaks",
+            "context": "Quoted at length to show Tom DeLonge told Podesta that McCasland ran the Wright-Patterson lab where Roswell material was shipped, and that Susan McCasland accepted a related calendar invite."
+          },
+          {
+            "title": "Susan McCasland's Facebook statement about Roswell bodies and debris",
+            "source": "Susan McCasland",
+            "context": "Quoted and parsed closely for its odd phrasing that Neil 'does not have any special knowledge' about ET bodies and debris stored at Wright-Patterson."
+          },
+          {
+            "title": "Wright-Patterson 1949 contract with Battelle Memorial Institute on nickel-titanium alloys",
+            "source": "U.S. Air Force / Battelle Memorial Institute",
+            "context": "Mentioned as bizarre because it studied nickel-titanium alloys two years after Roswell, predating the memory-metal association."
+          },
+          {
+            "title": "Melissa Casillas family GoFundMe (2022)",
+            "source": "GoFundMe / Casillas family",
+            "context": "Cited as evidence of the family's financial stress, noting the car accident left them with enormous medical costs."
+          },
+          {
+            "title": "Court records and sheriff's report on Freddy Snyder's trespassing arrest and release",
+            "source": "Los Angeles County Sheriff's Department / Los Angeles County Superior Court",
+            "context": "Cited for the December 2025 trespassing incident at Carl Grillmair's property, the felony weapons charge, and Snyder's lenient release."
+          },
+          {
+            "title": "Jacobo Grinberg's final note ('If you understand the system, you disappear')",
+            "source": "Jacobo Grinberg",
+            "context": "Described as the only thing left behind after the Mexican neurophysiologist vanished in 1994 and his lab and records were cleared out."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "National Academies report on the Mandalloy partnership",
+            "source": "National Academies",
+            "context": "Cited as showing the Mandalloy work was shared between the Air Force Research Laboratory and Reszá's team at Pratt & Whitney Rocketdyne."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "jMCavr3dVP0",
+      "title": "Former NSA Director Breaks Silence on UFOs",
+      "upload_date": "2026-04-26",
+      "url": "https://www.youtube.com/watch?v=jMCavr3dVP0",
+      "books": [
+        {
+          "title": "The New Science of UFOs",
+          "author": "Eric Haseltine and Chris Gilbert",
+          "context": "Co-authored survey of all competing hypotheses about UAP; discussed at length as the analytic framework the guests applied to the phenomenon.",
+          "amazon_url": "https://www.amazon.com/s?k=The+New+Science+of+UFOs+Eric+Haseltine+and+Chris+Gilbert"
+        },
+        {
+          "title": "The Shadow of Time",
+          "author": "Eric Haseltine and Chris Gilbert",
+          "context": "Their novel about an anomalous ancient artifact found in the desert, private corporations excavating forbidden archaeology, and an alien intelligence; used to dramatize the science from their nonfiction book.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Shadow+of+Time+Eric+Haseltine+and+Chris+Gilbert"
+        },
+        {
+          "title": "The Listening Cure",
+          "author": "Chris Gilbert",
+          "context": "Book on how each organ, cell, and the gut biome has 'a mind of its own' and how patients can dialogue with their body's symptoms; Jesse says it was his introduction to the guests.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Listening+Cure+Chris+Gilbert"
+        },
+        {
+          "title": "The Spy in Moscow Station",
+          "author": "Eric Haseltine",
+          "context": "Mentioned by Jesse when listing Haseltine's independently authored books during the introduction.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Spy+in+Moscow+Station+Eric+Haseltine"
+        },
+        {
+          "title": "Unidentified Flying Hyperobject",
+          "author": "James Madden",
+          "context": "Jesse cites the professor's book on UFOs as higher-dimensional 'hyperobjects' whose appearances break our priors.",
+          "amazon_url": "https://www.amazon.com/s?k=Unidentified+Flying+Hyperobject+James+Madden"
+        },
+        {
+          "title": "If You Meet the Buddha on the Road, Kill Him",
+          "author": "Sheldon Kopp",
+          "context": "Haseltine cites it while arguing that no one can be told anything—people only understand what they discover themselves.",
+          "amazon_url": "https://www.amazon.com/s?k=If+You+Meet+the+Buddha+on+the+Road%2C+Kill+Him+Sheldon+Kopp"
+        },
+        {
+          "title": "Psychology of Intelligence Analysis",
+          "author": "Richards Heuer",
+          "context": "Haseltine says all intelligence analysts are trained to read it because it catalogs cognitive biases like confirmation bias.",
+          "amazon_url": "https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+Richards+Heuer"
+        },
+        {
+          "title": "An Immense World",
+          "author": "Ed Yong",
+          "context": "Recommended by Haseltine for its description of the radically different sensory worlds (Umwelt) of animals, as an exercise in exploring the 'negative space' of the human condition.",
+          "amazon_url": "https://www.amazon.com/s?k=An+Immense+World+Ed+Yong"
+        },
+        {
+          "title": "Healing Back Pain",
+          "author": "John Sarno",
+          "context": "Jesse recommends it alongside The Listening Cure, noting Sarno's claim that physical pain can be a substitute for unprocessed emotional pain.",
+          "amazon_url": "https://www.amazon.com/s?k=Healing+Back+Pain+John+Sarno"
+        },
+        {
+          "title": "The Body Keeps the Score",
+          "author": "Bessel van der Kolk",
+          "context": "Cited by Jesse as another book about the body carrying imprints of past emotional trauma.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Body+Keeps+the+Score+Bessel+van+der+Kolk"
+        },
+        {
+          "title": "Above Black: Project Preserve Destiny",
+          "author": "Dan Sherman",
+          "context": "Jesse brings up Sherman's account of being trained at an NSA complex to mentally hum tones in order to communicate with non-human intelligence, and asks Haseltine for his take.",
+          "amazon_url": "https://www.amazon.com/s?k=Above+Black%3A+Project+Preserve+Destiny+Dan+Sherman"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "U.S. Navy patent for laser-generated plasma decoys",
+            "source": "U.S. Navy",
+            "context": "Haseltine says after hypothesizing that glowing orbs could be free-space plasmas directed by lasers, he found a Navy patent to draw airplane-shaped plasmas to fool missiles."
+          },
+          {
+            "title": "Declassified CIA Stargate program files (released via FOIA in 2017)",
+            "source": "CIA",
+            "context": "Jesse notes the psychic spy program files were FOIA'd in 2017 and are now public, as evidence of a mind-matter connection studied by the government."
+          },
+          {
+            "title": "USS Nimitz 2004 Tic Tac forward-looking infrared footage and radar/eyewitness reports",
+            "source": "U.S. Navy",
+            "context": "Jesse and Haseltine discuss the 2004 Nimitz case's FLIR video, radar, CCTV, and eyewitness data while testing whether a laser plasma could account for it."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "The Age of Disclosure",
+            "source": "",
+            "context": "Jesse cites the documentary featuring Jim Semivan, Chris Mellon, and James Clapper claiming reverse-engineering programs and an Area 51 UFO sensor effort, asking whether Haseltine finds it credible."
+          },
+          {
+            "title": "60 Minutes report on Havana syndrome",
+            "source": "CBS News",
+            "context": "Referenced repeatedly regarding Mark Polymeropoulos's account of CIA betrayal, an official telling staff to 'turn down the temperature,' and the act-of-war framing."
+          },
+          {
+            "title": "Der Spiegel investigation into Havana syndrome / Russian directed-energy attacks",
+            "source": "Der Spiegel",
+            "context": "Jesse mentions the Der Spiegel and 60 Minutes joint reporting concluding the anomalous health incidents are real and Soviet/Russian in origin."
+          },
+          {
+            "title": "Alien Files: Reopened",
+            "source": "A&E History series",
+            "context": "Jesse notes that Haseltine's NSA role led to his appearance on this UFO television series."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "Stanford study of DNA fragments circulating in human blood",
+            "source": "Stanford University",
+            "context": "Dr. Gilbert cites the survey suggesting microbes living in us are far more diverse than thought and that 99% of the DNA found had never been seen before."
+          },
+          {
+            "title": "OSIRIS-REx analysis of samples from asteroid Bennu",
+            "source": "NASA",
+            "context": "Haseltine cites the finding of all the nucleic bases on Bennu as evidence that life's building blocks are extraterrestrial in origin."
+          },
+          {
+            "title": "International Space Station exposure experiments on Deinococcus radiodurans and tardigrades",
+            "source": "NASA / International Space Station",
+            "context": "Dr. Gilbert cites studies showing the bacterium survived three years in space and tardigrades survived 18 months in vacuum outside the ISS."
+          },
+          {
+            "title": "Sandia National Laboratory / White Sands video of a laser-propelled disc",
+            "source": "Sandia National Laboratories",
+            "context": "Haseltine describes a video, made by a researcher he knows, of a saucer-shaped disc levitated purely by pulsed laser photon pressure."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Eric Haseltine's recently published essay on the psychology of Havana syndrome denial",
+            "source": "Eric Haseltine",
+            "context": "Haseltine says he just published an essay explaining psychologically how officials could genuinely disbelieve Havana syndrome, ending with an Upton Sinclair quote."
+          },
+          {
+            "title": "Jessica Utts's meta-analysis of the CIA Stargate psychic research data",
+            "source": "American Statistical Association / Jessica Utts",
+            "context": "Jesse cites the statistician's meta-study concluding that, judged by ordinary standards, the remote viewing results would be accepted as real."
+          },
+          {
+            "title": "The Usefulness of Useless Knowledge",
+            "source": "Abraham Flexner",
+            "context": "Jesse cites the essay, which he says served as a charter for the Institute for Advanced Study, to argue for funding research with no immediate application."
           }
         ]
       }
