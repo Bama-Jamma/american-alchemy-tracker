@@ -7,7 +7,9 @@ Usage:
 import argparse
 import csv
 import json
+import re
 import subprocess
+from collections import defaultdict
 from datetime import datetime, timezone
 from urllib.parse import quote_plus
 
@@ -35,12 +37,22 @@ def amazon_search_url(title: str, author: str) -> str:
     return f"https://www.amazon.com/s?k={quote_plus(query)}"
 
 
+def _normalize_title(title: str) -> str:
+    """Loose key for grouping the same item mentioned across episodes -- lowercase,
+    strip punctuation/whitespace differences. Exact-match only; doesn't try to catch
+    paraphrased titles, which would risk false-grouping unrelated items."""
+    return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
+
+
 def _compute_data(input_path: str) -> dict:
     """Build the site data dict, minus `generated_at` -- callers stamp that separately
     so content-only comparisons (does the actual data differ?) aren't defeated by a
     timestamp that changes on every call."""
     episodes_by_id: dict[str, dict] = {}
     order: list[str] = []
+    all_books: list[dict] = []
+    all_documents: list[dict] = []
+    mention_groups: dict[str, dict] = {}
 
     with open(input_path, encoding="utf-8") as f:
         for row in csv.DictReader(f):
@@ -57,29 +69,51 @@ def _compute_data(input_path: str) -> dict:
                 order.append(video_id)
 
             episode = episodes_by_id[video_id]
+            episode_ref = {
+                "video_id": video_id,
+                "episode_title": row["episode"],
+                "upload_date": row["upload_date"] or None,
+            }
+
             if row["type"] == "book":
-                episode["books"].append(
-                    {
-                        "title": row["title"],
-                        "author": row["author_or_source"],
-                        "context": row["context"],
-                        "amazon_url": amazon_search_url(row["title"], row["author_or_source"]),
-                    }
-                )
+                book = {
+                    "title": row["title"],
+                    "author": row["author_or_source"],
+                    "context": row["context"],
+                    "amazon_url": amazon_search_url(row["title"], row["author_or_source"]),
+                }
+                episode["books"].append(book)
+                all_books.append({**book, **episode_ref})
             else:
                 subcat = row["subcategory"] or "government_document"
+                doc = {
+                    "title": row["title"],
+                    "source": row["author_or_source"],
+                    "context": row["context"],
+                    "subcategory": subcat,
+                }
                 episode["documents"].setdefault(subcat, []).append(
-                    {
-                        "title": row["title"],
-                        "source": row["author_or_source"],
-                        "context": row["context"],
-                    }
+                    {k: v for k, v in doc.items() if k != "subcategory"}
                 )
+                all_documents.append({**doc, **episode_ref})
+
+            key = (row["type"], _normalize_title(row["title"]))
+            if key not in mention_groups:
+                mention_groups[key] = {
+                    "type": row["type"],
+                    "title": row["title"],
+                    "author_or_source": row["author_or_source"],
+                    "subcategory": row["subcategory"] or None,
+                    "episodes": [],
+                }
+            mention_groups[key]["episodes"].append(episode_ref)
 
     episodes = [episodes_by_id[vid] for vid in order]
 
     # Sort chronologically (oldest first). Episodes with an unknown upload_date sort last.
     episodes.sort(key=lambda e: e["upload_date"] or "9999-99-99")
+    all_books.sort(key=lambda b: b["title"].lower())
+    all_documents.sort(key=lambda d: d["title"].lower())
 
     # Order each episode's document subcategories consistently.
     for episode in episodes:
@@ -87,10 +121,16 @@ def _compute_data(input_path: str) -> dict:
             key: episode["documents"][key] for key in SUBCATEGORY_ORDER if key in episode["documents"]
         }
 
+    most_referenced = [g for g in mention_groups.values() if len(g["episodes"]) >= 2]
+    most_referenced.sort(key=lambda g: (-len(g["episodes"]), g["title"].lower()))
+
     return {
         "generated_episode_count": len(episodes),
         "subcategory_labels": SUBCATEGORY_LABELS,
         "episodes": episodes,
+        "all_books": all_books,
+        "all_documents": all_documents,
+        "most_referenced": most_referenced,
     }
 
 
