@@ -93,7 +93,7 @@ def extract_references(transcript_text: str) -> tuple[list[dict], dict]:
     client = Anthropic()
     response = client.messages.create(
         model=MODEL,
-        max_tokens=8000,
+        max_tokens=16000,
         system=SYSTEM_PROMPT,
         output_config={"format": {"type": "json_schema", "schema": SCHEMA}},
         messages=[
