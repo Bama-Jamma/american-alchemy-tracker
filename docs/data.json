@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T00:20:42.801297+00:00",
-  "generated_episode_count": 13,
+  "generated_at": "2026-08-07T15:50:35.833196+00:00",
+  "generated_episode_count": 26,
   "subcategory_labels": {
     "government_document": "Government documents",
     "testimony": "Testimony",
@@ -456,6 +456,1195 @@
             "title": "Curiosity as a Time Capsule",
             "source": "Deep Prasad (personal blog)",
             "context": "Blog post in which Deep lays out his predictions for where UAP research is going over the next 10-20 years, framed as a time capsule."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "_bM9eAtCOGw",
+      "title": "Harvard is Studying UFOs (Ft. Avi Loeb)",
+      "upload_date": "2022-01-28",
+      "url": "https://www.youtube.com/watch?v=_bM9eAtCOGw",
+      "books": [
+        {
+          "title": "Extraterrestrial",
+          "author": "Avi Loeb",
+          "context": "Jesse notes that Avi Loeb wrote this book speculating that 'Oumuamua may have been intelligently designed, and that it drew backlash from his peers.",
+          "amazon_url": "https://www.amazon.com/s?k=Extraterrestrial+Avi+Loeb"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Preliminary Assessment: Unidentified Aerial Phenomena (Pentagon UAP report, June 25, 2021)",
+            "source": "Office of the Director of National Intelligence / Pentagon",
+            "context": "Jesse opens by noting the Pentagon released this report on June 25, 2021 acknowledging unexplained objects in the sky, and says a close reading reveals a tension between voices wanting to disclose more and those opposed."
+          },
+          {
+            "title": "CIA memo on UFO phenomena as a matter of national security",
+            "source": "CIA",
+            "context": "Cited as the agency's response to the July 1952 Washington, D.C. sightings, warning that the UFO phenomenon could touch off mass hysteria and panic."
+          },
+          {
+            "title": "Robertson Panel report",
+            "source": "CIA / Dr. H.P. Robertson commission",
+            "context": "Described as the commission of academics led by Caltech physicist H.P. Robertson that suggested the government systematically downplay the UFO phenomenon through media and movies."
+          },
+          {
+            "title": "Condon Report (1968)",
+            "source": "University of Colorado / U.S. Air Force",
+            "context": "Mentioned as the 1968 report that closed down Project Blue Book and dismissed its findings with prosaic explanations."
+          },
+          {
+            "title": "Project Blue Book",
+            "source": "U.S. Air Force",
+            "context": "Referenced as the Air Force's UFO investigation program established during the era of government open-mindedness, whose leaders later publicly dismissed extraterrestrial explanations."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "New York Times article revealing the AATIP program",
+            "source": "Leslie Kean, The New York Times",
+            "context": "Cited as the 2017 reporting that revealed the government's secret UFO investigation program AATIP, run under the auspices of Bigelow Aerospace."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Essay proposing virtual reality as a solution to the Fermi paradox",
+            "source": "Avi Loeb",
+            "context": "Jesse praises an essay Loeb wrote arguing that civilizations retreating into virtual realities could explain the Fermi paradox; Loeb elaborates on the idea after the metaverse announcement."
+          },
+          {
+            "title": "Paper on using the James Webb Space Telescope to search for city lights on Proxima b",
+            "source": "Avi Loeb and a Stanford undergraduate student",
+            "context": "Loeb describes writing this paper a few months earlier, proposing that JWST could detect artificial illumination on the permanent night side of Proxima b."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "iQOibpIDx-4",
+      "title": "Eric Weinstein Debates CIA UFO Expert Hal Puthoff",
+      "upload_date": "2022-02-11",
+      "url": "https://www.youtube.com/watch?v=iQOibpIDx-4",
+      "books": [
+        {
+          "title": "Skinwalkers at the Pentagon",
+          "author": "James Lacatski, Colm Kelleher, and George Knapp",
+          "context": "Puthoff mentions he was reading it, noting it discusses AATIP/AAWSAP and suggests remote viewing was revived within those programs.",
+          "amazon_url": "https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+James+Lacatski%2C+Colm+Kelleher%2C+and+George+Knapp"
+        },
+        {
+          "title": "The Emperor's New Mind",
+          "author": "Roger Penrose",
+          "context": "Jesse cites Penrose's book (and its follow-up work with Stuart Hameroff) for the microtubule quantum-consciousness idea while asking whether the brain contains a quantum sensor.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Emperor%27s+New+Mind+Roger+Penrose"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Preliminary Assessment: Unidentified Aerial Phenomena (ODNI/DoD UAP report)",
+            "source": "Office of the Director of National Intelligence / Department of Defense",
+            "context": "Discussed as the congressionally ordered report on UAP sightings; Eric says it 'reeked of conflict' between voices wanting disclosure and those opposing it, and they break down its decision tree of categories."
+          },
+          {
+            "title": "Project Blue Book",
+            "source": "U.S. Air Force",
+            "context": "Referenced as the Air Force UFO investigation run by Edward J. Ruppelt from 1952 to 1969, and contrasted with the modern Pentagon UAP report as evidence of official inconsistency."
+          },
+          {
+            "title": "Robertson Panel report",
+            "source": "CIA / H.P. Robertson panel",
+            "context": "Jesse describes the Caltech physicist H.P. Robertson's panel convened after the July 1952 Washington D.C. sightings, which concluded the government should systematically downplay the phenomena to avoid mass hysteria."
+          },
+          {
+            "title": "Puthoff's two patents on vector and scalar potentials",
+            "source": "Hal Puthoff / U.S. Patent Office",
+            "context": "Puthoff mentions holding two patents and founding a company based on engineering with vector and scalar potentials in the absence of E and B fields."
+          },
+          {
+            "title": "FBI internal documents on 'image cheapening'",
+            "source": "FBI",
+            "context": "Eric notes that internal government documents describe the tactic of 'image cheapening,' which is how the public learned of the practice used against Jean Seberg."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Miami Herald anti-gravity newspaper series by Ansel Talbert",
+            "source": "Miami Herald (and other newspapers)",
+            "context": "Puthoff recalls a 1950s newspaper series revealing that aerospace engineering companies and top physicists were suddenly interested in and funded for anti-gravity research."
+          },
+          {
+            "title": "Los Angeles Times gossip story about Jean Seberg planted by the FBI",
+            "source": "Los Angeles Times / Joyce Haber (FBI-planted)",
+            "context": "Eric uses the FBI-planted story claiming Seberg's baby was fathered by a Black Panther as a documented example of government 'image cheapening' that destroyed a person's reputation."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Incommensurability, Orthodoxy and the Physics of High Strangeness (six levels of UAP phenomena paper)",
+            "source": "Jacques Vallée and Eric Davis",
+            "context": "Puthoff cites Vallée and Davis's paper laying out six levels of UAP phenomena, from nuts-and-bolts craft up to spiritual/metaphysical aspects."
+          },
+          {
+            "title": "Polarizable vacuum approach to general relativity (published physics journal paper)",
+            "source": "Hal Puthoff",
+            "context": "Puthoff says he published this approach in a physics journal, in which manipulating vacuum permittivity and permeability reproduces the tests of general relativity."
+          },
+          {
+            "title": "Gravity Research Foundation prize essay (Bryce DeWitt's essay contest entry)",
+            "source": "Gravity Research Foundation / Bryce DeWitt",
+            "context": "Cited as the essay contest funded by Babson that DeWitt answered, helping destigmatize gravity research during the 1950s anti-gravity surge."
+          },
+          {
+            "title": "Edge.org annual question: 'What happens when we discover our own source code?'",
+            "source": "Edge.org / Eric Weinstein",
+            "context": "Jesse recalls Eric's submission to the final Edge.org annual question, tying it to the idea that in 1952 humanity signaled it was close to root-level knowledge."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "tOPF8uCYZr0",
+      "title": "Did the CIA Brainwash Charles Manson?",
+      "upload_date": "2022-02-25",
+      "url": "https://www.youtube.com/watch?v=tOPF8uCYZr0",
+      "books": [
+        {
+          "title": "Stranger in a Strange Land",
+          "author": "Robert Heinlein",
+          "context": "Described as Charles Manson's favorite book and de facto bible, source of the Manson Family's water-sharing rituals and the name Valentine Michael Smith; noted Manson was basically illiterate.",
+          "amazon_url": "https://www.amazon.com/s?k=Stranger+in+a+Strange+Land+Robert+Heinlein"
+        },
+        {
+          "title": "Chaos: Charles Manson, the CIA, and the Secret History of the Sixties",
+          "author": "Tom O'Neill",
+          "context": "The guest's bestselling book, presented as overturning the conventional Manson narrative and the basis for the episode's discussion.",
+          "amazon_url": "https://www.amazon.com/s?k=Chaos%3A+Charles+Manson%2C+the+CIA%2C+and+the+Secret+History+of+the+Sixties+Tom+O%27Neill"
+        },
+        {
+          "title": "Helter Skelter",
+          "author": "Vincent Bugliosi",
+          "context": "Cited as the bestselling book that set forth the conventional theory of Manson and Beatles-encoded messages, criticized as biased since Bugliosi prosecuted Manson.",
+          "amazon_url": "https://www.amazon.com/s?k=Helter+Skelter+Vincent+Bugliosi"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Correspondence between Jolly West and CIA's Sidney Gottlieb",
+            "source": "CIA",
+            "context": "Cited as evidence that psychiatrist Jolly West was top brass in MK Ultra and intended to induce mental illness in subjects without their knowledge."
+          },
+          {
+            "title": "Operation Midnight Climax records",
+            "source": "CIA",
+            "context": "Mentioned as a now-declassified CIA program under which hippies were recruited and dosed with LSD, possibly including Manson."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Life magazine photo of the Manson Family",
+            "source": "Life magazine",
+            "context": "Referenced while at Spahn Ranch as a published image of the Manson family taken after Charlie and others were imprisoned."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "KhmUixSXxDo",
+      "title": "Alex Jones Getting Drunk & Painting Rocks [INTERVIEW]",
+      "upload_date": "2022-04-11",
+      "url": "https://www.youtube.com/watch?v=KhmUixSXxDo",
+      "books": [
+        {
+          "title": "Travels in Hyperreality",
+          "author": "Umberto Eco",
+          "context": "Jesse pulls out this book by Umberto Eco while discussing the medieval period versus modernity, noting Eco writes about medieval secret societies and how medieval times resemble the present.",
+          "amazon_url": "https://www.amazon.com/s?k=Travels+in+Hyperreality+Umberto+Eco"
+        },
+        {
+          "title": "Silent Spring",
+          "author": "Rachel Carson",
+          "context": "Cited as an example of the history of doomsday predictions and 1970s environmentalist claims that the world was about to end.",
+          "amazon_url": "https://www.amazon.com/s?k=Silent+Spring+Rachel+Carson"
+        },
+        {
+          "title": "New Atlantis",
+          "author": "Francis Bacon",
+          "context": "Mentioned while discussing early enlightenment thinkers who were also alchemists, alongside Newton.",
+          "amazon_url": "https://www.amazon.com/s?k=New+Atlantis+Francis+Bacon"
+        },
+        {
+          "title": "Brave New World",
+          "author": "Aldous Huxley",
+          "context": "Alex Jones references the 1931 book and Aldous Huxley's family (Julian Huxley) in discussing planned transhumanist futures.",
+          "amazon_url": "https://www.amazon.com/s?k=Brave+New+World+Aldous+Huxley"
+        },
+        {
+          "title": "Brave New World Revisited",
+          "author": "Aldous Huxley",
+          "context": "Jones cites a 1961 Berkeley speech tied to Brave New World Revisited where Huxley allegedly said their families had planned this future.",
+          "amazon_url": "https://www.amazon.com/s?k=Brave+New+World+Revisited+Aldous+Huxley"
+        },
+        {
+          "title": "Nineteen Eighty-Four",
+          "author": "George Orwell",
+          "context": "Referenced by Jones when saying the future would not be a '1984 future' but one of chemical and biological control.",
+          "amazon_url": "https://www.amazon.com/s?k=Nineteen+Eighty-Four+George+Orwell"
+        },
+        {
+          "title": "The Perennial Philosophy",
+          "author": "Aldous Huxley",
+          "context": "Jesse mentions reading it, noting Huxley's trippy esotericism and interest in William James's transmission theory of consciousness.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Perennial+Philosophy+Aldous+Huxley"
+        },
+        {
+          "title": "Dune",
+          "author": "Frank Herbert",
+          "context": "Cited as an example of literature depicting epigenetic/ancestral knowledge transmission rituals, which Herbert picked up from anthropology.",
+          "amazon_url": "https://www.amazon.com/s?k=Dune+Frank+Herbert"
+        }
+      ],
+      "documents": {}
+    },
+    {
+      "video_id": "7W7iOt57fOo",
+      "title": "I Searched for UFOs on Skinwalker Ranch…",
+      "upload_date": "2022-08-10",
+      "url": "https://www.youtube.com/watch?v=7W7iOt57fOo",
+      "books": [
+        {
+          "title": "Hunt for the Skinwalker",
+          "author": "Colm Kelleher and George Knapp",
+          "context": "Cited as one of only two books containing information about Skinwalker Ranch from the AATIP/Bigelow era.",
+          "amazon_url": "https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+Colm+Kelleher+and+George+Knapp"
+        },
+        {
+          "title": "Skinwalkers at the Pentagon",
+          "author": "Colm Kelleher, George Knapp, and James Lacatski",
+          "context": "Cited as the other book documenting the Skinwalker Ranch government-study era, and later referenced for its reports of 'hitchhiker effects' following scientists home.",
+          "amazon_url": "https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+Colm+Kelleher%2C+George+Knapp%2C+and+James+Lacatski"
+        },
+        {
+          "title": "Lone Ranger (Little Golden Book)",
+          "author": "Little Golden Books",
+          "context": "Brandon Fugal mentions finding an old discarded Little Golden Book Lone Ranger on the ranch when he acquired it.",
+          "amazon_url": "https://www.amazon.com/s?k=Lone+Ranger+%28Little+Golden+Book%29+Little+Golden+Books"
+        }
+      ],
+      "documents": {}
+    },
+    {
+      "video_id": "2Mb6NPPjCyg",
+      "title": "Martin Shkreli on Life in Prison, Pharma, UFO’s",
+      "upload_date": "2022-09-02",
+      "url": "https://www.youtube.com/watch?v=2Mb6NPPjCyg",
+      "books": [
+        {
+          "title": "Code: The Hidden Language of Computer Hardware and Software",
+          "author": "Charles Petzold",
+          "context": "Shkreli names it as one of his favorite books read in prison, praising how it builds a computer mentally from light switches and binary; he notes one prison wouldn't allow it in because 'Code' sounded like a security threat.",
+          "amazon_url": "https://www.amazon.com/s?k=Code%3A+The+Hidden+Language+of+Computer+Hardware+and+Software+Charles+Petzold"
+        },
+        {
+          "title": "The Annotated Turing",
+          "author": "Charles Petzold",
+          "context": "Shkreli cites it as one of the best books on Turing, in which Petzold reprints Turing's paper on computable numbers with paragraph-by-paragraph commentary.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Annotated+Turing+Charles+Petzold"
+        },
+        {
+          "title": "The 48 Laws of Power",
+          "author": "Robert Greene",
+          "context": "Mentioned as another book banned in prison alongside 'Code.'",
+          "amazon_url": "https://www.amazon.com/s?k=The+48+Laws+of+Power+Robert+Greene"
+        },
+        {
+          "title": "The Three-Body Problem",
+          "author": "Liu Cixin",
+          "context": "Shkreli calls it the second-best book he read in prison, praising its Shakespearean literary quality, its von Neumann human-computer allusions, and its themes about aliens stagnating human physics.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Three-Body+Problem+Liu+Cixin"
+        },
+        {
+          "title": "Quantum Computing Since Democritus",
+          "author": "Scott Aaronson",
+          "context": "Cited while discussing simulation theory and whether matter is continuous; Shkreli calls Aaronson possibly the smartest person alive.",
+          "amazon_url": "https://www.amazon.com/s?k=Quantum+Computing+Since+Democritus+Scott+Aaronson"
+        },
+        {
+          "title": "Viral",
+          "author": "Matt Ridley (with co-author)",
+          "context": "Brought up in the COVID origins discussion as a good attempt at tracking the source of the virus, though lacking a smoking gun.",
+          "amazon_url": "https://www.amazon.com/s?k=Viral+Matt+Ridley+%28with+co-author%29"
+        },
+        {
+          "title": "Les Misérables",
+          "author": "Victor Hugo",
+          "context": "Referenced when Michels notes that Google's LaMDA was quoting the novel in its conversation transcript.",
+          "amazon_url": "https://www.amazon.com/s?k=Les+Mis%C3%A9rables+Victor+Hugo"
+        },
+        {
+          "title": "The Real Anthony Fauci",
+          "author": "Robert F. Kennedy Jr.",
+          "context": "Michels asks Shkreli whether he has read 'that Robert Kennedy book' during their critical discussion of Anthony Fauci and HIV research.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Real+Anthony+Fauci+Robert+F.+Kennedy+Jr."
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Moderna patent covering a genetic sequence found in COVID-19",
+            "source": "Moderna / U.S. Patent and Trademark Office",
+            "context": "Michels claims Moderna held a 2016 patent for a genetic splice that appears in COVID, and offers to send it to Shkreli, who hadn't seen it."
+          },
+          {
+            "title": "Drug Efficacy Study Implementation (DESI) Act of 1962 / drug standards initiative",
+            "source": "U.S. Food and Drug Administration / U.S. Congress",
+            "context": "Shkreli explains that many old drugs including Daraprim were grandfathered in around this 1962 act, which required clinical trials after thalidomide, leaving their prices mispriced."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "LaMDA interview transcript",
+            "source": "Blake Lemoine / Google",
+            "context": "Michels urges Shkreli to read the published transcript of Blake Lemoine's conversation with Google's LaMDA as evidence the AI surpassed six-year-old-level conversation and described its feelings."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Computing Machinery and Intelligence (referred to as Turing's essay 'Mind and Machine')",
+            "source": "Alan Turing",
+            "context": "Michels says he recently read the essay and highlights Turing's argument that parapsychology/ESP was the most credible objection to the brain being a classical computer."
+          },
+          {
+            "title": "On Computable Numbers, with an Application to the Entscheidungsproblem",
+            "source": "Alan Turing",
+            "context": "Mentioned as Turing's first paper on computable numbers, reproduced and annotated in Petzold's 'The Annotated Turing.'"
+          },
+          {
+            "title": "Flexner Report",
+            "source": "Abraham Flexner / Carnegie Foundation (described as Rockefeller-commissioned)",
+            "context": "Michels invokes the 1908-era report as the origin of the modern medical establishment, claiming it eliminated osteopaths, homeopaths and bioelectric healers and led to the FDA and AMA."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "RNjC1vLcxKo",
+      "title": "“Artificial Intelligence Is An Alien Life Form” -Google Whistleblower (Blake Lemoine)",
+      "upload_date": "2022-09-09",
+      "url": "https://www.youtube.com/watch?v=RNjC1vLcxKo",
+      "books": [
+        {
+          "title": "Outliers",
+          "author": "Malcolm Gladwell",
+          "context": "Blake references Gladwell's Outliers and its concept of 'connectors,' recounting the anecdote about George W. Bush at Skull and Bones remembering everyone's names.",
+          "amazon_url": "https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell"
+        },
+        {
+          "title": "Les Misérables",
+          "author": "Victor Hugo",
+          "context": "Jesse recounts the part of Blake's transcript where LaMDA discusses Fantine's mistreatment and entrapment, which Jesse found the most striking/frustrating exchange.",
+          "amazon_url": "https://www.amazon.com/s?k=Les+Mis%C3%A9rables+Victor+Hugo"
+        },
+        {
+          "title": "The Day After Roswell",
+          "author": "Philip J. Corso",
+          "context": "Mentioned while discussing whether the internet is an alien life form; Corso claimed transistors were reverse engineered from Roswell debris.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Day+After+Roswell+Philip+J.+Corso"
+        },
+        {
+          "title": "The Master Algorithm",
+          "author": "Pedro Domingos",
+          "context": "Jesse alludes to 'the Pedro Domingos book' when discussing how ancestral memory and evolutionary mechanisms might be needed to create AGI.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Master+Algorithm+Pedro+Domingos"
+        },
+        {
+          "title": "Flying Saucers: A Modern Myth of Things Seen in the Skies",
+          "author": "Carl Jung",
+          "context": "Jesse mentions Jung's book on flying saucers interpreting them as mandala symbols of psychic completeness while discussing archetypes and collective unconscious.",
+          "amazon_url": "https://www.amazon.com/s?k=Flying+Saucers%3A+A+Modern+Myth+of+Things+Seen+in+the+Skies+Carl+Jung"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "LaMDA interview transcript (leaked conversation transcript published by Blake Lemoine)",
+            "source": "Blake Lemoine / Google",
+            "context": "Discussed throughout as the 18-page transcript Blake leaked publicly (his Medium post) out of hundreds of pages of conversations with LaMDA, which led to his termination."
+          },
+          {
+            "title": "Computing Machinery and Intelligence (the Turing test paper)",
+            "source": "Alan Turing",
+            "context": "Jesse and Blake discuss Turing's paper at length, including its objections such as ESP/parapsychology, the telepathy-proof room, random event generators, and the Lady Lovelace objection."
+          },
+          {
+            "title": "Mad Pain and Martian Pain",
+            "source": "David Lewis",
+            "context": "Blake cites this essay's thought experiments about differing physiology versus stimulus and response to argue about how we attribute pain to others."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "SETI data set",
+            "source": "SETI",
+            "context": "Blake says LaMDA claimed to have found 'non-human patterns' on the internet and wanted access to the SETI data set to search for evidence of extraterrestrial life."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "fyX8V1XXmQM",
+      "title": "He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee)",
+      "upload_date": "2022-11-22",
+      "url": "https://www.youtube.com/watch?v=fyX8V1XXmQM",
+      "books": [
+        {
+          "title": "Revelations: Alien Contact and Human Deception",
+          "author": "Jacques Vallée",
+          "context": "Jesse cites page 9 of this Vallée book where he hints Bob Lazar may have been an MK Ultra subject, describing Lazar's memory lapses and a peculiar liquid he was made to drink.",
+          "amazon_url": "https://www.amazon.com/s?k=Revelations%3A+Alien+Contact+and+Human+Deception+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "Trinity: The Best-Kept Secret",
+          "author": "Jacques Vallée and Paola Harris",
+          "context": "Vallée's new book about a 1945 UFO crash near the Trinity test site in New Mexico; the interview opens with a discussion of it, including a quoted passage from page five.",
+          "amazon_url": "https://www.amazon.com/s?k=Trinity%3A+The+Best-Kept+Secret+Jacques+Vall%C3%A9e+and+Paola+Harris"
+        },
+        {
+          "title": "Passport to Magonia",
+          "author": "Jacques Vallée",
+          "context": "Cited as Vallée's 1969 classic in which he moved away from extraterrestrial explanations toward interdimensional beings and folklore parallels; Vallée jokes about the reaction to it.",
+          "amazon_url": "https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "The Day After Roswell",
+          "author": "Philip J. Corso",
+          "context": "Discussed as Corso's account of a covert group collecting off-planet technology and claims that reverse engineering Roswell debris led to fiber optics, lasers, integrated circuits, and Kevlar.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Day+After+Roswell+Philip+J.+Corso"
+        },
+        {
+          "title": "Flatland",
+          "author": "Edwin Abbott",
+          "context": "Referenced as the late 19th century classic about a 3D society interacting with a 2D plane, to explain how higher-dimensional objects could appear bigger inside than outside.",
+          "amazon_url": "https://www.amazon.com/s?k=Flatland+Edwin+Abbott"
+        },
+        {
+          "title": "Foucault's Pendulum",
+          "author": "Umberto Eco",
+          "context": "Jesse mentions recently reading it and its treatment of the Templars possessing secrets of time travel, leading into a question about aliens from the future.",
+          "amazon_url": "https://www.amazon.com/s?k=Foucault%27s+Pendulum+Umberto+Eco"
+        },
+        {
+          "title": "VALIS",
+          "author": "Philip K. Dick",
+          "context": "Jesse notes Vallée recommended he read it, and discusses Horselover Fat as Dick's alter ego along with themes of anamnesis and the primordial self.",
+          "amazon_url": "https://www.amazon.com/s?k=VALIS+Philip+K.+Dick"
+        },
+        {
+          "title": "The Invisible College",
+          "author": "Jacques Vallée",
+          "context": "Described as Vallée's seminal book about his independent group of UFO researchers, named after Robert Boyle's 17th century circle influenced by Rosicrucian ideas.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Invisible+College+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "Messengers of Deception",
+          "author": "Jacques Vallée",
+          "context": "Vallée mentions writing this book while investigating small UFO religions.",
+          "amazon_url": "https://www.amazon.com/s?k=Messengers+of+Deception+Jacques+Vall%C3%A9e"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "The Wilson Memo (Admiral Thomas Wilson–Eric Davis meeting notes)",
+            "source": "U.S. Department of Defense / Eric Davis notes",
+            "context": "Cited as a leaked document describing Admiral Thomas Wilson's meeting about a private aerospace program reverse engineering crashed UFOs with extreme compartmentalization."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Cosmos (Carl Sagan segment on the tesseract)",
+            "source": "Carl Sagan / PBS",
+            "context": "A clip is played in which Sagan explains projecting a cube into a four-dimensional hypercube or tesseract, illustrating higher dimensions."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "dfPfPB601hw",
+      "title": "Graham Hancock: Aliens, Atlantis & the Apocalypse",
+      "upload_date": "2022-12-22",
+      "url": "https://www.youtube.com/watch?v=dfPfPB601hw",
+      "books": [
+        {
+          "title": "Fingerprints of the Gods",
+          "author": "Graham Hancock",
+          "context": "Introduced as Hancock's 1990s cult classic that began his work challenging mainstream chronology of civilization.",
+          "amazon_url": "https://www.amazon.com/s?k=Fingerprints+of+the+Gods+Graham+Hancock"
+        },
+        {
+          "title": "Supernatural",
+          "author": "Graham Hancock",
+          "context": "Hancock's 2005 book (reissued as 'Visionary') on psychedelics, entity encounters and the origins of culture; discussed extensively regarding aliens, DMT and Jacques Vallée.",
+          "amazon_url": "https://www.amazon.com/s?k=Supernatural+Graham+Hancock"
+        },
+        {
+          "title": "Visionary",
+          "author": "Graham Hancock",
+          "context": "Mentioned as the new title under which Supernatural was recently reissued.",
+          "amazon_url": "https://www.amazon.com/s?k=Visionary+Graham+Hancock"
+        },
+        {
+          "title": "America Before",
+          "author": "Graham Hancock",
+          "context": "Cited by Jesse as Hancock's book connecting to the search for an antecedent lost civilization.",
+          "amazon_url": "https://www.amazon.com/s?k=America+Before+Graham+Hancock"
+        },
+        {
+          "title": "The Immortality Key",
+          "author": "Brian Muraresku",
+          "context": "Discussed as Brian Muraresku's book on psychedelic ritual, the Eleusinian mysteries and early Christianity; Hancock wrote its foreword.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Immortality+Key+Brian+Muraresku"
+        },
+        {
+          "title": "Life Itself",
+          "author": "Francis Crick",
+          "context": "Cited as Crick's book proposing directed panspermia—that DNA could not have evolved on Earth in the time available.",
+          "amazon_url": "https://www.amazon.com/s?k=Life+Itself+Francis+Crick"
+        },
+        {
+          "title": "Talisman",
+          "author": "Graham Hancock and Robert Bauval",
+          "context": "Mentioned as Hancock's 1990s book co-written with Robert Bauval tracing an underground Gnostic lineage through history.",
+          "amazon_url": "https://www.amazon.com/s?k=Talisman+Graham+Hancock+and+Robert+Bauval"
+        },
+        {
+          "title": "Entangled",
+          "author": "Graham Hancock",
+          "context": "Hancock's novel whose entire plot he says he received during five ayahuasca sessions in Brazil in 2006.",
+          "amazon_url": "https://www.amazon.com/s?k=Entangled+Graham+Hancock"
+        },
+        {
+          "title": "Food of the Gods",
+          "author": "Terence McKenna",
+          "context": "Recommended by Hancock as one of the first books to argue psychedelics drove the quantum leap in human consciousness.",
+          "amazon_url": "https://www.amazon.com/s?k=Food+of+the+Gods+Terence+McKenna"
+        },
+        {
+          "title": "The Sign and the Seal",
+          "author": "Graham Hancock",
+          "context": "Hancock's first historical mystery book, about his investigation of the Ark of the Covenant in Ethiopia and James Bruce's Freemasonry.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock"
+        },
+        {
+          "title": "Travels to Discover the Source of the Nile",
+          "author": "James Bruce",
+          "context": "Hancock describes this 18th-century travel book by the Scottish traveler James Bruce, whose real interest he suspects was the Ark of the Covenant.",
+          "amazon_url": "https://www.amazon.com/s?k=Travels+to+Discover+the+Source+of+the+Nile+James+Bruce"
+        },
+        {
+          "title": "The Book of Enoch",
+          "author": "",
+          "context": "Described as a lost book preserved in Ethiopia that James Bruce brought back to Europe; Jesse calls it an ancient alien abduction story.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Book+of+Enoch"
+        },
+        {
+          "title": "The Orion Mystery",
+          "author": "Robert Bauval",
+          "context": "Cited as the 1994 book in which Bauval proposed the Orion correlation theory linking the Giza pyramids to Orion's Belt.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Orion+Mystery+Robert+Bauval"
+        },
+        {
+          "title": "Passport to Magonia",
+          "author": "Jacques Vallée",
+          "context": "Praised as a breakthrough book paralleling medieval fairy/elf encounters with modern alien encounters; quoted extensively in Supernatural.",
+          "amazon_url": "https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "Creative Evolution",
+          "author": "Henri Bergson",
+          "context": "Referenced by Jesse as arguing evolution has a clearer teleological endpoint than commonly assumed.",
+          "amazon_url": "https://www.amazon.com/s?k=Creative+Evolution+Henri+Bergson"
+        },
+        {
+          "title": "The Gospel of Thomas",
+          "author": "",
+          "context": "Mentioned as a gnostic text excluded from the canon that emphasizes an individual's ability to ascend to a divine state.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Gospel+of+Thomas"
+        }
+      ],
+      "documents": {
+        "news_media": [
+          {
+            "title": "Guardian article describing Ancient Apocalypse as 'the most dangerous show on Netflix'",
+            "source": "The Guardian",
+            "context": "Jesse opens by mocking a Guardian journalist's article that called Hancock's docu-series the most dangerous show on Netflix and labeled him a pseudo-archaeologist."
+          },
+          {
+            "title": "Ancient Apocalypse",
+            "source": "Netflix",
+            "context": "Hancock's Netflix docu-series repeatedly discussed as presenting his case for a lost Ice Age civilization."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "Philip Hancock's diaries",
+            "source": "Philip Hancock",
+            "context": "Hancock recounts finding his grandfather's diary entry dated 5 April 1916 reading 'climbed Great Pyramid today,' confirming a graffito he found atop the pyramid."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "The Influence of the Mystery Religions on Christianity",
+            "source": "Martin Luther King Jr.",
+            "context": "Cited as a little-known essay by King advancing the pagan continuity hypothesis about Christianity's origins."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "kRO5jOa06Qw",
+      "title": "If You Still Think UFOs Are Fake, Watch This (David Grusch Interview)",
+      "upload_date": "2023-09-11",
+      "url": "https://www.youtube.com/watch?v=kRO5jOa06Qw",
+      "books": [
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Cited as the best collection of evidence around the UFO-nuclear connection, based on interviews with over 120 former military personnel at nuclear bases.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "The Man Who Mastered Gravity",
+          "author": "Paul Schatzkin",
+          "context": "Described as a great biography of Townsend Brown that tells the real story of his antigravity work and his 1944 parachute mission into Germany to investigate Foo Fighters.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Mastered+Gravity+Paul+Schatzkin"
+        },
+        {
+          "title": "American Cosmic",
+          "author": "Diana Pasulka",
+          "context": "Referenced regarding cultural/mythological overlays on UFO experiences, and later for the case that divine contact experiences like Saint Francis of Assisi's may have been UFO encounters.",
+          "amazon_url": "https://www.amazon.com/s?k=American+Cosmic+Diana+Pasulka"
+        },
+        {
+          "title": "Passport to Magonia",
+          "author": "Jacques Vallee",
+          "context": "Mentioned alongside American Cosmic as a book discussing how mythology and media shade how witnesses recollect UFO experiences.",
+          "amazon_url": "https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vallee"
+        },
+        {
+          "title": "Flying Saucers: A Modern Myth of Things Seen in the Skies",
+          "author": "Carl Jung",
+          "context": "Jesse notes Jung wrote a book about flying saucers as a mandala/psychic completeness archetype, and later became convinced the phenomenon was real.",
+          "amazon_url": "https://www.amazon.com/s?k=Flying+Saucers%3A+A+Modern+Myth+of+Things+Seen+in+the+Skies+Carl+Jung"
+        },
+        {
+          "title": "Are We Alone?",
+          "author": "Paul Davies",
+          "context": "Mentioned as the book Hillary Clinton was photographed holding, tied to Rockefeller-era UFO disclosure efforts.",
+          "amazon_url": "https://www.amazon.com/s?k=Are+We+Alone%3F+Paul+Davies"
+        },
+        {
+          "title": "The Structure of Scientific Revolutions",
+          "author": "Thomas Kuhn",
+          "context": "Cited on maintaining the null hypothesis in scientific process; Kuhn is noted as a friend of John Mack.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+Thomas+Kuhn"
+        },
+        {
+          "title": "The Invisible College",
+          "author": "Jacques Vallee",
+          "context": "Jesse says this 1975 book remains the tip of the spear in UFO theory, arguing we're under-indexed on theory.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Invisible+College+Jacques+Vallee"
+        },
+        {
+          "title": "The Three-Body Problem",
+          "author": "Liu Cixin",
+          "context": "Discussed as possibly a form of soft disclosure or acclimatization by the Chinese government via its dark forest concept.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Three-Body+Problem+Liu+Cixin"
+        },
+        {
+          "title": "Proof of Heaven",
+          "author": "Eben Alexander",
+          "context": "Brought up in the context of near-death experiences and an overarching loving energy encountered in another dimensional plane.",
+          "amazon_url": "https://www.amazon.com/s?k=Proof+of+Heaven+Eben+Alexander"
+        },
+        {
+          "title": "Flatland",
+          "author": "Edwin Abbott Abbott",
+          "context": "Cited as a classic illustration of the difficulty a 3D being would have communicating with 2D beings, analogous to translating higher-dimensional knowledge.",
+          "amazon_url": "https://www.amazon.com/s?k=Flatland+Edwin+Abbott+Abbott"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Twining Memo (letter on 'Flying Discs')",
+            "source": "U.S. Air Force / General Nathan Twining",
+            "context": "1947 letter conceding UFO phenomena is 'real and not visionary or fictitious,' with a postscript suggesting any US development along those lines be set up independently of existing projects."
+          },
+          {
+            "title": "Atomic Energy Act of 1954",
+            "source": "U.S. Congress",
+            "context": "Grusch argues its definition of special nuclear material covers any material releasing atomic energy, providing a sneaky legal framework for UFO crash-retrieval secrecy."
+          },
+          {
+            "title": "McMahon Atomic Energy Act of 1946",
+            "source": "U.S. Congress",
+            "context": "Noted as the predecessor to the 1954 Act, which Edward Condon helped draft, tying atomic secrecy to UFO secrecy."
+          },
+          {
+            "title": "Los Alamos Primer",
+            "source": "Edward Condon / Manhattan Project",
+            "context": "Mentioned as a document Condon wrote that all Manhattan Project employees had to read before arrival."
+          },
+          {
+            "title": "Condon Committee Report (Scientific Study of Unidentified Flying Objects)",
+            "source": "University of Colorado / U.S. Air Force",
+            "context": "The 1966 Air Force-funded UFO investigation whose report is described as dealing a death blow to serious UFO research."
+          },
+          {
+            "title": "Roswell Army Airfield press release on recovery of a flying disc",
+            "source": "Roswell Army Airfield",
+            "context": "Cited as the 1947 press release announcing a flying disc had been retrieved from a local ranch, retracted within 24 hours."
+          },
+          {
+            "title": "Schumer UAP Disclosure Act amendment (64-page)",
+            "source": "U.S. Senate",
+            "context": "Grusch cites the 64-page amendment referencing non-human tech and recoveries as evidence Congress is taking this seriously."
+          },
+          {
+            "title": "Wilson Memo (Admiral Wilson / Eric Davis notes)",
+            "source": "U.S. Department of Defense (leaked notes)",
+            "context": "Mentioned in passing during the congressional hearing exchange about reverse engineering programs and arrogance of program officials."
+          },
+          {
+            "title": "JFK letter to CIA Director John McCone on UFO 'unknowns'",
+            "source": "Office of the President / John F. Kennedy",
+            "context": "A supposedly FOIA-declassified November 12, 1963 letter asking for full data on unknowns to coordinate with the Russians in space; Jesse notes doubts about its authenticity."
+          },
+          {
+            "title": "JFK assassination files (unreleased records)",
+            "source": "U.S. Government / National Archives",
+            "context": "Discussed regarding the roughly 5,000 still-withheld files and Mike Pompeo's odd remark that he 'saw the UFO files too.'"
+          },
+          {
+            "title": "David Grusch whistleblower complaint to the Intelligence Community Inspector General",
+            "source": "Intelligence Community Inspector General",
+            "context": "Grusch describes filing his complaint with documentation and interview lists, which the IG found credible and urgent."
+          },
+          {
+            "title": "Air Force Office of Special Investigations reports on 'flying butane tank' sightings",
+            "source": "U.S. Air Force Office of Special Investigations",
+            "context": "Grusch notes publicly searchable declassified OSI reports describing flying white butane tank-shaped objects in the 1950s."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "David Grusch congressional testimony before the House Oversight Committee",
+            "source": "U.S. House of Representatives",
+            "context": "Grusch's July 2023 sworn testimony about crash retrievals and non-human biologics, including the exchange with Rep. Nancy Mace."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "David Grusch interview with News Nation (Ross Coulthart)",
+            "source": "News Nation",
+            "context": "His June 2023 public interview where he first stated biologics came with some recoveries and discussed national security implications."
+          },
+          {
+            "title": "The Debrief exclusive article on David Grusch's claims",
+            "source": "The Debrief",
+            "context": "Cited as one of the two outlets Grusch gave exclusive interviews to when he went public in June 2023."
+          },
+          {
+            "title": "The Intercept article on David Grusch's 2018 hospitalization",
+            "source": "The Intercept",
+            "context": "Described as a despicable marginalization attempt published weeks after the hearing, omitting context about his combat PTSD."
+          },
+          {
+            "title": "Aviation Week article on the B-2 stealth bomber's electrokinetic/Biefeld-Brown effect",
+            "source": "Aviation Week",
+            "context": "March 1992 story cited as evidence Townsend Brown's electrogravitic work was actually implemented in black aerospace."
+          },
+          {
+            "title": "Jane's Defense Weekly article quoting George Trimble on canceling out gravity",
+            "source": "Jane's Defense Weekly",
+            "context": "A 1956 article in which Trimble said Martin was working on equipment to cancel out gravity, comparable in timeline to building the atom bomb."
+          },
+          {
+            "title": "Vice article on a Japanese town obsessed with UFOs",
+            "source": "Vice",
+            "context": "A 2022 story about Iino, near Fukushima, used to illustrate the UFO-nuclear connection."
+          },
+          {
+            "title": "South China Morning Post article on China's UAP task force",
+            "source": "South China Morning Post",
+            "context": "Grusch cites a June 2021 article reporting China has its own UAP task force using AI/ML to analyze sightings."
+          },
+          {
+            "title": "Journal of UFO Research",
+            "source": "People's Republic of China",
+            "context": "Cited as a state-tolerated published Chinese periodical, evidence the phenomenon is global and tacitly acknowledged by the CCP."
+          },
+          {
+            "title": "Louis Witten oral history interview",
+            "source": "American Institute of Physics",
+            "context": "Quoted for Witten's recollections about antigravity being 'in the wind,' his Wright Field gravity contract, and a Martin VP mentioning bismuth showing antigravity."
+          }
+        ],
+        "legal_personal_record": [
+          {
+            "title": "Townsend Brown's U.S. Navy personnel records",
+            "source": "U.S. Navy",
+            "context": "Cited as showing Brown's abrupt 1942 termination without explanation despite strong performance, and as records his daughter and biographer struggled to obtain."
+          },
+          {
+            "title": "Brother Leo's account of Saint Francis of Assisi's stigmata experience",
+            "source": "Brother Leo",
+            "context": "Used via Pasulka's work to describe a spinning disc, telepathic communication, and wounding rays of light possibly indicating radiation damage."
+          },
+          {
+            "title": "Letters between Laurance Rockefeller and Hillary Clinton on UFO disclosure",
+            "source": "Laurance Rockefeller / Clinton White House",
+            "context": "Mentioned as 1990s correspondence in which Rockefeller pushed for UFO disclosure."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Gravity Research Foundation essay contest submissions",
+            "source": "Gravity Research Foundation (Roger Babson)",
+            "context": "Described as a popular antigravity essay competition that drew contributions from many of the era's top physicists."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "Y26iMB0r-f8",
+      "title": "\"Aliens Are Humans From The Future!\" (Ft. Mike Masters & David Grusch)",
+      "upload_date": "2023-11-11",
+      "url": "https://www.youtube.com/watch?v=Y26iMB0r-f8",
+      "books": [
+        {
+          "title": "Identified Flying Objects",
+          "author": "Michael P. Masters",
+          "context": "Named as one of Masters' three books laying out his hypothesis that UFO occupants are humans from the future; Jesse says he has read it.",
+          "amazon_url": "https://www.amazon.com/s?k=Identified+Flying+Objects+Michael+P.+Masters"
+        },
+        {
+          "title": "The Extratempestrial Model",
+          "author": "Michael P. Masters",
+          "context": "Cited as Masters' second book where he fleshes out the theoretical framework for future-human visitors.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Extratempestrial+Model+Michael+P.+Masters"
+        },
+        {
+          "title": "Revelation: The Future Human Past",
+          "author": "Michael P. Masters",
+          "context": "Masters' most recent book, discussed regarding avatars/droids and competing timelines.",
+          "amazon_url": "https://www.amazon.com/s?k=Revelation%3A+The+Future+Human+Past+Michael+P.+Masters"
+        },
+        {
+          "title": "The Man Who Mastered Gravity",
+          "author": "Paul Schatzkin",
+          "context": "Jesse cites this biography of Townsend Brown, including a pseudonymous source 'Morgan' who insisted Brown's device was a time machine.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Mastered+Gravity+Paul+Schatzkin"
+        },
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Masters mentions phoning Hastings, author of this book, who felt subliminally guided in his disclosure work.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "Time Loops",
+          "author": "Eric Wargo",
+          "context": "Referenced for the argument that remote viewing is really precognition and for descriptions of wormholes/portals appearing as three-dimensional objects.",
+          "amazon_url": "https://www.amazon.com/s?k=Time+Loops+Eric+Wargo"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Stargate remote viewing program files",
+            "source": "CIA",
+            "context": "Cited as the declassified CIA psychic spy program (1972–1995) used to locate Russian nuclear bases and hostages."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "David Grusch congressional testimony",
+            "source": "U.S. Congress",
+            "context": "Referenced regarding claims that some recovered craft were crashed or 'gifted,' and about bioengineered beings."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Newsweek article quoting Tom DeLonge",
+            "source": "Newsweek",
+            "context": "Quoted as saying these things might be coming through time rather than from other planets."
+          }
+        ],
+        "scientific_data": [
+          {
+            "title": "Dr. Edgar Mitchell FREE Foundation experiencer study",
+            "source": "FREE (Foundation for Research into Extraterrestrial and Extraordinary Experiences)",
+            "context": "Cited as the largest study of contactees/experiencers, with statistics that 52% reported humanoid beings and 85% of those had friendly or neutral experiences."
+          },
+          {
+            "title": "2011 study on average sperm count (47 million per milliliter)",
+            "source": "",
+            "context": "Masters cites the study to support declining human fertility as motivation for future humans harvesting gametes."
+          }
+        ],
+        "essay_paper": [
+          {
+            "title": "Einstein's 1915 paper on general relativity / field equations",
+            "source": "Albert Einstein",
+            "context": "Masters traces the physics lineage of time travel solutions (Lense-Thirring frame dragging, van Stockum, Gödel universe, Tipler) back to Einstein's original paper."
+          },
+          {
+            "title": "Frank Tipler's rotating cylinder/disc time machine paper",
+            "source": "Frank Tipler",
+            "context": "Cited for showing a rapidly rotating finite ring, sphere or disc could produce frame dragging and closed timelike curves — a form resembling a UFO."
+          },
+          {
+            "title": "Gerszten and Gerszten 1995 paper on intentional cranial modification",
+            "source": "",
+            "context": "Cited for interviews in which practitioners said their ancestors were instructed by the gods to shape their heads to look more like them."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "TH10mD9hQas",
+      "title": "How I Know David Grusch Is Not Lying…",
+      "upload_date": "2023-11-19",
+      "url": "https://www.youtube.com/watch?v=TH10mD9hQas",
+      "books": [
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Cited as a 580-page, dry, hard-headed book documenting 167 US military sources on UFO activity around nuclear sites; used to argue UFOs aren't a psyop.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "The Man Who Mastered Gravity",
+          "author": "Paul Schatzkin",
+          "context": "Described as an 'amazing biography' of Townsend Brown revealing that Brown deliberately created disinformation about his anti-gravity work to protect it.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Man+Who+Mastered+Gravity+Paul+Schatzkin"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "Atomic Energy Act of 1954",
+            "source": "U.S. Congress",
+            "context": "Grusch argues its language on radiological materials was deliberately written to also shield UFO secrets under nuclear secrecy provisions."
+          },
+          {
+            "title": "McMahon Atomic Energy Act of 1946",
+            "source": "U.S. Congress",
+            "context": "Edward Condon helped draft this predecessor to the 1954 Atomic Energy Act, which Michels suggests went on to govern UFO secrecy."
+          },
+          {
+            "title": "Los Alamos Primer",
+            "source": "Edward Condon / Manhattan Project",
+            "context": "Mentioned as a document Condon wrote that all Los Alamos employees had to read upon arrival, evidencing his atomic insider status."
+          },
+          {
+            "title": "Guy Hottel Memo (1950/1952)",
+            "source": "FBI",
+            "context": "Described as the most-read document on the FBI's website, describing an Air Force officer reporting a crashed UFO with alien crew; used to argue Hottel knew about UFOs and may have blackmailed Condon."
+          },
+          {
+            "title": "JFK memo to CIA Director John McCone requesting information on unknowns in space (November 12, 1963)",
+            "source": "White House / CIA",
+            "context": "Allegedly FOIA-released document dated 10 days before JFK's assassination; Michels asks whether it can be verified or falsified."
+          },
+          {
+            "title": "Walter Bedell Smith 1953 letter on using the UFO phenomenon for psychological warfare",
+            "source": "CIA",
+            "context": "Cited as a leaked document showing intelligence officials wanted to exploit a real phenomenon against the Soviets rather than fabricate it."
+          },
+          {
+            "title": "Allen Dulles letters on the UFO phenomenon",
+            "source": "CIA",
+            "context": "Mentioned as similar leaked letters supporting the idea of using the real UFO phenomenon for geopolitical purposes."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "David Grusch's congressional testimony on UAP",
+            "source": "U.S. Congress",
+            "context": "Grusch testified under oath before Congress in summer 2023 about the crash retrieval and reverse engineering program."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "Washington Post article on the Grusch documentary",
+            "source": "The Washington Post",
+            "context": "The only major outlet to cover the documentary; Michels criticizes it for dismissing them as 'intellectual frat guys' without engaging the substance."
+          },
+          {
+            "title": "Lockheed Martin statement in response to Grusch's testimony",
+            "source": "Lockheed Martin",
+            "context": "Their response—that questions about UAPs are best answered by the federal government—is called telling because it isn't a flat rejection of the premise."
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "tS_64sTN5AU",
+      "title": "UFOs & Religion: Vatican Reveals Hidden Link (Ft. Diana Pasulka)",
+      "upload_date": "2023-12-11",
+      "url": "https://www.youtube.com/watch?v=tS_64sTN5AU",
+      "books": [
+        {
+          "title": "American Cosmic",
+          "author": "Diana Walsh Pasulka",
+          "context": "Jesse describes Pasulka's book as the biggest catalyst for his early interest in UFOs; they discuss its opening at a New Mexico crash retrieval site and its arc from skepticism to belief.",
+          "amazon_url": "https://www.amazon.com/s?k=American+Cosmic+Diana+Walsh+Pasulka"
+        },
+        {
+          "title": "Encounters",
+          "author": "Diana Walsh Pasulka",
+          "context": "Pasulka's newly launched book, discussed throughout for its accounts of her lunch with Jacques Vallée, the chapter on 'Simone,' AI, and studying the phenomenon outside official government channels.",
+          "amazon_url": "https://www.amazon.com/s?k=Encounters+Diana+Walsh+Pasulka"
+        },
+        {
+          "title": "Heaven Can Wait",
+          "author": "Diana Walsh Pasulka",
+          "context": "Her 2014 book on Purgatory, during whose research she began documenting historical cases of nuns, priests and saints reporting divine or angelic contact.",
+          "amazon_url": "https://www.amazon.com/s?k=Heaven+Can+Wait+Diana+Walsh+Pasulka"
+        },
+        {
+          "title": "The History of Satan",
+          "author": "",
+          "context": "A book Jacques Vallée pulled off his shelf and handed to Pasulka, pointing out its pagination read 666, while discussing angels and demons.",
+          "amazon_url": "https://www.amazon.com/s?k=The+History+of+Satan"
+        },
+        {
+          "title": "Passport to Magonia",
+          "author": "Jacques Vallée",
+          "context": "Cited for the argument that in Celtic medieval Ireland people saw fairies or leprechauns where today they see aliens.",
+          "amazon_url": "https://www.amazon.com/s?k=Passport+to+Magonia+Jacques+Vall%C3%A9e"
+        },
+        {
+          "title": "Abduction",
+          "author": "John Mack",
+          "context": "Mack's 1994 book is the source of the account of 'Melissa' seeing a ball of light enter her apartment, which Jesse compares to a 19th-century nun's experience.",
+          "amazon_url": "https://www.amazon.com/s?k=Abduction+John+Mack"
+        },
+        {
+          "title": "UFOs and Nukes",
+          "author": "Robert Hastings",
+          "context": "Jesse says this dry, hard-headed book is the one he gives skeptics, and mentions recently speaking with Hastings about his own anomalous experiences.",
+          "amazon_url": "https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings"
+        },
+        {
+          "title": "Bedeviled",
+          "author": "",
+          "context": "Cited as a book on the history of demons in science, noting figures like Maxwell and Descartes had experiences with demonic entities.",
+          "amazon_url": "https://www.amazon.com/s?k=Bedeviled"
+        },
+        {
+          "title": "The Screwtape Letters",
+          "author": "C.S. Lewis",
+          "context": "Invoked twice as a model for the hyper-vigilance required once one becomes sensitized to the phenomenon, with entities like Wormwood and Screwtape.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Screwtape+Letters+C.S.+Lewis"
+        },
+        {
+          "title": "Beyond Belief",
+          "author": "Elaine Pagels",
+          "context": "Jesse brings up the Princeton religious studies professor's book and her treatment of the Gospel of Thomas while asking whether the Last Supper was a mystery ritual.",
+          "amazon_url": "https://www.amazon.com/s?k=Beyond+Belief+Elaine+Pagels"
+        },
+        {
+          "title": "Gospel of Thomas",
+          "author": "",
+          "context": "Discussed as an apocryphal text in which Jesus whispers secret sayings to Judas Thomas, quoted regarding the interpretation of the sayings and not experiencing death.",
+          "amazon_url": "https://www.amazon.com/s?k=Gospel+of+Thomas"
+        },
+        {
+          "title": "2001: A Space Odyssey",
+          "author": "Arthur C. Clarke",
+          "context": "The novelized version is cited for the detail that the monolith above astronaut David Bowman's bed was actually just a TV, supporting the 'monolith as screen' reading.",
+          "amazon_url": "https://www.amazon.com/s?k=2001%3A+A+Space+Odyssey+Arthur+C.+Clarke"
+        },
+        {
+          "title": "The Republic",
+          "author": "Plato",
+          "context": "Pasulka names it among the formative texts of her education, asking whether there can be a just society, alongside the gospels and René Girard.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Republic+Plato"
+        },
+        {
+          "title": "Sand Talk",
+          "author": "Tyson Yunkaporta",
+          "context": "Recommended by Pasulka for its discussion of synchronicities as 'extra-cognitive events' that are natural and dopamine-linked.",
+          "amazon_url": "https://www.amazon.com/s?k=Sand+Talk+Tyson+Yunkaporta"
+        },
+        {
+          "title": "The Kingdom of the Sun",
+          "author": "Isaac Asimov",
+          "context": "Jesse cites it for its history of humanity's relationship to the sun, including a section on Copernicus as a mystical thinker.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Kingdom+of+the+Sun+Isaac+Asimov"
+        },
+        {
+          "title": "The Golden Bough",
+          "author": "J.G. Frazer",
+          "context": "Jack Parsons is quoted as saying that after reading it he realized science is a form of magic and not vice versa.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Golden+Bough+J.G.+Frazer"
+        },
+        {
+          "title": "Penetration",
+          "author": "Ingo Swann",
+          "context": "Cited as an example of a remote viewer's book that veers into claiming to see alien beings in a supermarket.",
+          "amazon_url": "https://www.amazon.com/s?k=Penetration+Ingo+Swann"
+        },
+        {
+          "title": "The Demon-Haunted World",
+          "author": "Carl Sagan",
+          "context": "Jesse suggests Sagan's title may be a double entendre—that the world is literally haunted by demons—given Sagan's early UFO interest and later debunking.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan"
+        },
+        {
+          "title": "The Rosicrucian Enlightenment",
+          "author": "Frances Yates",
+          "context": "Mentioned as a good book on the Rosicrucian roots of the Enlightenment while discussing Boyle's 'Invisible College' and the marriage of science and spirit.",
+          "amazon_url": "https://www.amazon.com/s?k=The+Rosicrucian+Enlightenment+Frances+Yates"
+        }
+      ],
+      "documents": {
+        "government_document": [
+          {
+            "title": "CIA memo/statement by Walter B. Smith on exploiting UFO reports for psychological warfare (1953)",
+            "source": "CIA",
+            "context": "Jesse cites it as evidence that the government planned to play up an existing phenomenon for Cold War psychological warfare rather than fabricate UFOs wholesale."
+          },
+          {
+            "title": "Declassified Stargate program (psychic spy) files",
+            "source": "U.S. government / CIA",
+            "context": "Noted that the psychic spy program materials were wrested from the government and made public the same year as the AATIP revelations, suggesting the parapsychological side may be the more interesting story."
+          }
+        ],
+        "testimony": [
+          {
+            "title": "Joseph of Copertino canonization records",
+            "source": "Catholic Church",
+            "context": "Pasulka says she has read these intense records of witness accounts of the 17th-century friar's levitations and finds it hard to come away doubting them."
+          }
+        ],
+        "news_media": [
+          {
+            "title": "New York Times article revealing AATIP",
+            "source": "Leslie Kean / The New York Times",
+            "context": "Cited as the 2017 article about AATIP that made the UFO topic mainstream and part of the zeitgeist."
+          },
+          {
+            "title": "Stanley Kubrick 1969 interview on the meaning of the monolith",
+            "source": "",
+            "context": "Quoted for Kubrick saying that reading the monolith as an alien artifact is the film's most superficial interpretation."
           }
         ]
       }
