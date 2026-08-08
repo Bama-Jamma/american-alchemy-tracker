@@ -7,11 +7,14 @@ Usage:
 import argparse
 import csv
 import json
+import os
 import re
 import subprocess
 from collections import defaultdict
 from datetime import datetime, timezone
 from urllib.parse import quote_plus
+
+DOCUMENT_SOURCES_PATH = "state/document_sources.csv"
 
 SUBCATEGORY_ORDER = [
     "government_document",
@@ -44,6 +47,25 @@ def _normalize_title(title: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
 
 
+def _load_document_sources(path: str = DOCUMENT_SOURCES_PATH) -> dict[str, dict]:
+    """{normalized_title: {access_type, source_url, evidence}} for documents that have
+    been searched via find_document_sources.py. Only entries with a real url are kept --
+    "not_found" rows exist in the CSV as a record of what's been searched, but carry
+    nothing worth attaching to the site data."""
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return {
+            row["normalized_title"]: {
+                "access_type": row["access_type"],
+                "source_url": row["source_url"],
+                "evidence": row["evidence"],
+            }
+            for row in csv.DictReader(f)
+            if row.get("source_url")
+        }
+
+
 def _compute_data(input_path: str) -> dict:
     """Build the site data dict, minus `generated_at` -- callers stamp that separately
     so content-only comparisons (does the actual data differ?) aren't defeated by a
@@ -53,6 +75,7 @@ def _compute_data(input_path: str) -> dict:
     all_books: list[dict] = []
     all_documents: list[dict] = []
     mention_groups: dict[str, dict] = {}
+    document_sources = _load_document_sources()
 
     with open(input_path, encoding="utf-8") as f:
         for row in csv.DictReader(f):
@@ -86,11 +109,15 @@ def _compute_data(input_path: str) -> dict:
                 all_books.append({**book, **episode_ref})
             else:
                 subcat = row["subcategory"] or "government_document"
+                found_source = document_sources.get(_normalize_title(row["title"]))
                 doc = {
                     "title": row["title"],
                     "source": row["author_or_source"],
                     "context": row["context"],
                     "subcategory": subcat,
+                    "access_type": found_source["access_type"] if found_source else None,
+                    "source_url": found_source["source_url"] if found_source else None,
+                    "source_evidence": found_source["evidence"] if found_source else None,
                 }
                 episode["documents"].setdefault(subcat, []).append(
                     {k: v for k, v in doc.items() if k != "subcategory"}
@@ -105,6 +132,9 @@ def _compute_data(input_path: str) -> dict:
                     "author_or_source": row["author_or_source"],
                     "subcategory": row["subcategory"] or None,
                     "episodes": [],
+                    "amazon_url": amazon_search_url(row["title"], row["author_or_source"]) if row["type"] == "book" else None,
+                    "access_type": doc["access_type"] if row["type"] == "document" else None,
+                    "source_url": doc["source_url"] if row["type"] == "document" else None,
                 }
             mention_groups[key]["episodes"].append(episode_ref)
 

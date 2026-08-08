@@ -284,6 +284,9 @@ main { max-width: 860px; margin: 0 auto; padding: 0 1.25rem; }
   display: inline-block;
   margin-top: 0.35rem;
 }
+.entry-link-hint-request {
+  color: var(--accent-dim);
+}
 .entry-episode-tag {
   font-family: var(--mono-font);
   font-size: 0.68rem;

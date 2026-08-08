@@ -79,18 +79,28 @@ function renderBookCard(book) {
     </div>`;
 }
 
+function documentSourceHint(accessType) {
+  if (accessType === "direct") return `<span class="entry-link-hint">view document ↗</span>`;
+  if (accessType === "request") return `<span class="entry-link-hint entry-link-hint-request">request via FOIA ↗</span>`;
+  return "";
+}
+
 function renderDocumentEntry(doc, { showEpisode = false } = {}) {
   const episodeTag = showEpisode
     ? `<div class="entry-episode-tag">from <a href="${escapeHtml(episodeUrl(doc.video_id))}" target="_blank" rel="noopener">${escapeHtml(doc.episode_title)}</a> (${formatDate(doc.upload_date)})</div>`
     : "";
+  const titleHtml = doc.source_url
+    ? `<a href="${escapeHtml(doc.source_url)}" target="_blank" rel="noopener">${escapeHtml(doc.title)}</a>`
+    : escapeHtml(doc.title);
   return `
     <div class="entry">
       <div class="entry-glyph">📄</div>
       <div>
-        <div class="entry-title">${escapeHtml(doc.title)}</div>
+        <div class="entry-title">${titleHtml}</div>
         ${doc.source ? `<div class="entry-meta">${escapeHtml(doc.source)}</div>` : ""}
         ${doc.context ? `<div class="entry-context">${escapeHtml(doc.context)}</div>` : ""}
         ${episodeTag}
+        ${documentSourceHint(doc.access_type)}
       </div>
     </div>`;
 }
@@ -174,13 +184,21 @@ function renderMentionItem(group) {
   const episodeLinks = group.episodes
     .map((e) => `<a href="${escapeHtml(episodeUrl(e.video_id))}" target="_blank" rel="noopener">${escapeHtml(e.episode_title)}</a>`)
     .join(" · ");
+
+  const linkUrl = group.type === "book" ? group.amazon_url : group.source_url;
+  const titleHtml = linkUrl
+    ? `<a href="${escapeHtml(linkUrl)}" target="_blank" rel="noopener">${escapeHtml(group.title)}</a>`
+    : escapeHtml(group.title);
+  const hint = group.type === "book" ? `<span class="entry-link-hint">search on amazon ↗</span>` : documentSourceHint(group.access_type);
+
   return `
     <div class="mention-item">
       <div class="entry-glyph">${glyph}</div>
       <div>
-        <div class="entry-title">${escapeHtml(group.title)}</div>
+        <div class="entry-title">${titleHtml}</div>
         ${group.author_or_source ? `<div class="entry-meta">${escapeHtml(group.author_or_source)}</div>` : ""}
         <div class="mention-episode-list">${episodeLinks}</div>
+        ${hint}
       </div>
       <div class="mention-count">${group.episodes.length}×</div>
     </div>`;
