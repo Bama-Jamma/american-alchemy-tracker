@@ -72,9 +72,8 @@ def _compute_data(input_path: str) -> dict:
     timestamp that changes on every call."""
     episodes_by_id: dict[str, dict] = {}
     order: list[str] = []
-    all_books: list[dict] = []
-    all_documents: list[dict] = []
-    mention_groups: dict[str, dict] = {}
+    book_groups: dict[str, dict] = {}
+    document_groups: dict[str, dict] = {}
     document_sources = _load_document_sources()
 
     with open(input_path, encoding="utf-8") as f:
@@ -92,11 +91,13 @@ def _compute_data(input_path: str) -> dict:
                 order.append(video_id)
 
             episode = episodes_by_id[video_id]
-            episode_ref = {
+            mention = {
                 "video_id": video_id,
                 "episode_title": row["episode"],
                 "upload_date": row["upload_date"] or None,
+                "context": row["context"],
             }
+            norm = _normalize_title(row["title"])
 
             if row["type"] == "book":
                 book = {
@@ -106,10 +107,18 @@ def _compute_data(input_path: str) -> dict:
                     "amazon_url": amazon_search_url(row["title"], row["author_or_source"]),
                 }
                 episode["books"].append(book)
-                all_books.append({**book, **episode_ref})
+
+                if norm not in book_groups:
+                    book_groups[norm] = {
+                        "title": row["title"],
+                        "author": row["author_or_source"],
+                        "amazon_url": book["amazon_url"],
+                        "mentions": [],
+                    }
+                book_groups[norm]["mentions"].append(mention)
             else:
                 subcat = row["subcategory"] or "government_document"
-                found_source = document_sources.get(_normalize_title(row["title"]))
+                found_source = document_sources.get(norm)
                 doc = {
                     "title": row["title"],
                     "source": row["author_or_source"],
@@ -122,28 +131,23 @@ def _compute_data(input_path: str) -> dict:
                 episode["documents"].setdefault(subcat, []).append(
                     {k: v for k, v in doc.items() if k != "subcategory"}
                 )
-                all_documents.append({**doc, **episode_ref})
 
-            key = (row["type"], _normalize_title(row["title"]))
-            if key not in mention_groups:
-                mention_groups[key] = {
-                    "type": row["type"],
-                    "title": row["title"],
-                    "author_or_source": row["author_or_source"],
-                    "subcategory": row["subcategory"] or None,
-                    "episodes": [],
-                    "amazon_url": amazon_search_url(row["title"], row["author_or_source"]) if row["type"] == "book" else None,
-                    "access_type": doc["access_type"] if row["type"] == "document" else None,
-                    "source_url": doc["source_url"] if row["type"] == "document" else None,
-                }
-            mention_groups[key]["episodes"].append(episode_ref)
+                if norm not in document_groups:
+                    document_groups[norm] = {
+                        "title": row["title"],
+                        "source": row["author_or_source"],
+                        "subcategory": subcat,
+                        "access_type": doc["access_type"],
+                        "source_url": doc["source_url"],
+                        "source_evidence": doc["source_evidence"],
+                        "mentions": [],
+                    }
+                document_groups[norm]["mentions"].append(mention)
 
     episodes = [episodes_by_id[vid] for vid in order]
 
     # Sort chronologically (oldest first). Episodes with an unknown upload_date sort last.
     episodes.sort(key=lambda e: e["upload_date"] or "9999-99-99")
-    all_books.sort(key=lambda b: b["title"].lower())
-    all_documents.sort(key=lambda d: d["title"].lower())
 
     # Order each episode's document subcategories consistently.
     for episode in episodes:
@@ -151,8 +155,12 @@ def _compute_data(input_path: str) -> dict:
             key: episode["documents"][key] for key in SUBCATEGORY_ORDER if key in episode["documents"]
         }
 
-    most_referenced = [g for g in mention_groups.values() if len(g["episodes"]) >= 2]
-    most_referenced.sort(key=lambda g: (-len(g["episodes"]), g["title"].lower()))
+    all_books = sorted(book_groups.values(), key=lambda b: b["title"].lower())
+    all_documents = sorted(document_groups.values(), key=lambda d: d["title"].lower())
+
+    most_referenced = [{"type": "book", **b} for b in all_books if len(b["mentions"]) >= 2]
+    most_referenced += [{"type": "document", **d} for d in all_documents if len(d["mentions"]) >= 2]
+    most_referenced.sort(key=lambda g: (-len(g["mentions"]), g["title"].lower()))
 
     return {
         "generated_episode_count": len(episodes),

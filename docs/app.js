@@ -49,23 +49,36 @@ function matchesSearch(searchText, episodeTitle, itemTitle, itemAuthorOrSource) 
   return haystack.includes(searchText);
 }
 
+// For grouped (deduped-by-title) items: match against title/author, or any mention's episode title.
+function groupMatchesSearch(searchText, title, authorOrSource, mentions) {
+  if (!searchText) return true;
+  const episodeTitles = mentions.map((m) => m.episode_title).join(" ");
+  const haystack = `${title} ${authorOrSource || ""} ${episodeTitles}`.toLowerCase();
+  return haystack.includes(searchText);
+}
+
 // ---------- Shared entry renderers ----------
 
-function renderBookEntry(book, { showEpisode = false } = {}) {
-  const episodeTag = showEpisode
-    ? `<div class="entry-episode-tag">from <a href="${escapeHtml(episodeUrl(book.video_id))}" target="_blank" rel="noopener">${escapeHtml(book.episode_title)}</a> (${formatDate(book.upload_date)})</div>`
-    : "";
-  return `
-    <div class="entry">
-      <div class="entry-glyph">📕</div>
-      <div>
-        <div class="entry-title"><a href="${escapeHtml(book.amazon_url)}" target="_blank" rel="noopener">${escapeHtml(book.title)}</a></div>
-        ${book.author ? `<div class="entry-meta">${escapeHtml(book.author)}</div>` : ""}
-        ${book.context ? `<div class="entry-context">${escapeHtml(book.context)}</div>` : ""}
-        ${episodeTag}
-        <span class="entry-link-hint">search on amazon ↗</span>
-      </div>
-    </div>`;
+function documentSourceHint(accessType) {
+  if (accessType === "direct") return `<span class="entry-link-hint">view document ↗</span>`;
+  if (accessType === "request") return `<span class="entry-link-hint entry-link-hint-request">request via FOIA ↗</span>`;
+  return "";
+}
+
+// Renders each mention (episode + context) for a deduped title -- used on the Books,
+// Documents, and Most Referenced tabs, where a title appears once with N mentions
+// instead of repeating the whole card/entry once per episode.
+function renderMentionsList(mentions) {
+  return `<div class="mentions-list">${mentions
+    .map(
+      (m) => `
+    <div class="mention-row">
+      <a href="${escapeHtml(episodeUrl(m.video_id))}" target="_blank" rel="noopener">${escapeHtml(m.episode_title)}</a>
+      <span class="mention-row-date">${formatDate(m.upload_date)}</span>
+      ${m.context ? `<div class="mention-row-context">${escapeHtml(m.context)}</div>` : ""}
+    </div>`
+    )
+    .join("")}</div>`;
 }
 
 function renderBookCard(book) {
@@ -74,21 +87,43 @@ function renderBookCard(book) {
       <div class="entry-glyph">📕</div>
       <div class="entry-title"><a href="${escapeHtml(book.amazon_url)}" target="_blank" rel="noopener">${escapeHtml(book.title)}</a></div>
       ${book.author ? `<div class="entry-meta">${escapeHtml(book.author)}</div>` : ""}
-      ${book.context ? `<div class="entry-context">${escapeHtml(book.context)}</div>` : ""}
-      <div class="entry-episode-tag">from <a href="${escapeHtml(episodeUrl(book.video_id))}" target="_blank" rel="noopener">${escapeHtml(book.episode_title)}</a></div>
+      <span class="entry-link-hint">search on amazon ↗</span>
+      ${renderMentionsList(book.mentions)}
     </div>`;
 }
 
-function documentSourceHint(accessType) {
-  if (accessType === "direct") return `<span class="entry-link-hint">view document ↗</span>`;
-  if (accessType === "request") return `<span class="entry-link-hint entry-link-hint-request">request via FOIA ↗</span>`;
-  return "";
+function renderDocumentGroupEntry(doc) {
+  const titleHtml = doc.source_url
+    ? `<a href="${escapeHtml(doc.source_url)}" target="_blank" rel="noopener">${escapeHtml(doc.title)}</a>`
+    : escapeHtml(doc.title);
+  return `
+    <div class="entry">
+      <div class="entry-glyph">📄</div>
+      <div>
+        <div class="entry-title">${titleHtml}</div>
+        ${doc.source ? `<div class="entry-meta">${escapeHtml(doc.source)}</div>` : ""}
+        ${documentSourceHint(doc.access_type)}
+        ${renderMentionsList(doc.mentions)}
+      </div>
+    </div>`;
 }
 
-function renderDocumentEntry(doc, { showEpisode = false } = {}) {
-  const episodeTag = showEpisode
-    ? `<div class="entry-episode-tag">from <a href="${escapeHtml(episodeUrl(doc.video_id))}" target="_blank" rel="noopener">${escapeHtml(doc.episode_title)}</a> (${formatDate(doc.upload_date)})</div>`
-    : "";
+// ---------- Per-episode entry renderers (unchanged shape: one mention, embedded in an episode card) ----------
+
+function renderBookEntry(book) {
+  return `
+    <div class="entry">
+      <div class="entry-glyph">📕</div>
+      <div>
+        <div class="entry-title"><a href="${escapeHtml(book.amazon_url)}" target="_blank" rel="noopener">${escapeHtml(book.title)}</a></div>
+        ${book.author ? `<div class="entry-meta">${escapeHtml(book.author)}</div>` : ""}
+        ${book.context ? `<div class="entry-context">${escapeHtml(book.context)}</div>` : ""}
+        <span class="entry-link-hint">search on amazon ↗</span>
+      </div>
+    </div>`;
+}
+
+function renderDocumentEntry(doc) {
   const titleHtml = doc.source_url
     ? `<a href="${escapeHtml(doc.source_url)}" target="_blank" rel="noopener">${escapeHtml(doc.title)}</a>`
     : escapeHtml(doc.title);
@@ -99,7 +134,6 @@ function renderDocumentEntry(doc, { showEpisode = false } = {}) {
         <div class="entry-title">${titleHtml}</div>
         ${doc.source ? `<div class="entry-meta">${escapeHtml(doc.source)}</div>` : ""}
         ${doc.context ? `<div class="entry-context">${escapeHtml(doc.context)}</div>` : ""}
-        ${episodeTag}
         ${documentSourceHint(doc.access_type)}
       </div>
     </div>`;
@@ -181,10 +215,7 @@ function renderEpisodesTab(filters) {
 
 function renderMentionItem(group) {
   const glyph = group.type === "book" ? "📕" : SUBCATEGORY_GLYPHS[group.subcategory] || "📄";
-  const episodeLinks = group.episodes
-    .map((e) => `<a href="${escapeHtml(episodeUrl(e.video_id))}" target="_blank" rel="noopener">${escapeHtml(e.episode_title)}</a>`)
-    .join(" · ");
-
+  const authorOrSource = group.type === "book" ? group.author : group.source;
   const linkUrl = group.type === "book" ? group.amazon_url : group.source_url;
   const titleHtml = linkUrl
     ? `<a href="${escapeHtml(linkUrl)}" target="_blank" rel="noopener">${escapeHtml(group.title)}</a>`
@@ -196,17 +227,17 @@ function renderMentionItem(group) {
       <div class="entry-glyph">${glyph}</div>
       <div>
         <div class="entry-title">${titleHtml}</div>
-        ${group.author_or_source ? `<div class="entry-meta">${escapeHtml(group.author_or_source)}</div>` : ""}
-        <div class="mention-episode-list">${episodeLinks}</div>
+        ${authorOrSource ? `<div class="entry-meta">${escapeHtml(authorOrSource)}</div>` : ""}
         ${hint}
+        ${renderMentionsList(group.mentions)}
       </div>
-      <div class="mention-count">${group.episodes.length}×</div>
+      <div class="mention-count">${group.mentions.length}×</div>
     </div>`;
 }
 
 function renderMostReferencedTab(filters) {
   const items = allData.most_referenced.filter((g) =>
-    matchesSearch(filters.search, "", g.title, g.author_or_source)
+    groupMatchesSearch(filters.search, g.title, g.type === "book" ? g.author : g.source, g.mentions)
   );
   if (!items.length) return `<p class="loading">No matching entries.</p>`;
   return `<div class="flat-list">${items.map(renderMentionItem).join("")}</div>`;
@@ -216,8 +247,8 @@ function renderMostReferencedTab(filters) {
 
 function renderBooksTab(filters) {
   const items = allData.all_books.filter((b) => {
-    if (filters.episode !== "all" && filters.episode !== b.video_id) return false;
-    return matchesSearch(filters.search, b.episode_title, b.title, b.author);
+    if (filters.episode !== "all" && !b.mentions.some((m) => m.video_id === filters.episode)) return false;
+    return groupMatchesSearch(filters.search, b.title, b.author, b.mentions);
   });
   if (!items.length) return `<p class="loading">No matching entries.</p>`;
   return `<div class="books-grid">${items.map(renderBookCard).join("")}</div>`;
@@ -228,8 +259,8 @@ function renderBooksTab(filters) {
 function renderDocumentsTab(filters) {
   const items = allData.all_documents.filter((d) => {
     if (filters.subcategory !== "all" && filters.subcategory !== d.subcategory) return false;
-    if (filters.episode !== "all" && filters.episode !== d.video_id) return false;
-    return matchesSearch(filters.search, d.episode_title, d.title, d.source);
+    if (filters.episode !== "all" && !d.mentions.some((m) => m.video_id === filters.episode)) return false;
+    return groupMatchesSearch(filters.search, d.title, d.source, d.mentions);
   });
   if (!items.length) return `<p class="loading">No matching entries.</p>`;
 
@@ -244,7 +275,7 @@ function renderDocumentsTab(filters) {
     const label = allData.subcategory_labels[key];
     const glyph = SUBCATEGORY_GLYPHS[key] || "📄";
     html += `<div class="subcategory-label">${glyph} ${escapeHtml(label)}</div>`;
-    html += bySubcat[key].map((d) => renderDocumentEntry(d, { showEpisode: true })).join("");
+    html += bySubcat[key].map(renderDocumentGroupEntry).join("");
   }
   return `<div class="flat-list">${html}</div>`;
 }
