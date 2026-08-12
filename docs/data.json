@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:27:25.191633+00:00",
+  "generated_at": "2026-08-12T23:34:39.922251+00:00",
   "generated_episode_count": 126,
   "subcategory_labels": {
     "government_document": "Government documents",
@@ -82,9 +82,9 @@
             "title": "The Influence of the Mystery Religions on Christianity",
             "source": "Martin Luther King Jr.",
             "context": "Cited as a 1950 writing in which King discussed the similarities between pagan mystery religions and Christianity, attributing them to an unconscious transmission of ancient rites.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://kinginstitute.stanford.edu/king-papers/documents/influence-mystery-religions-christianity",
+            "source_evidence": "Stanford's Martin Luther King, Jr. Research and Education Institute publishes the full text of this King paper in its online King Papers document collection."
           }
         ]
       }
@@ -1286,9 +1286,9 @@
             "title": "The Influence of the Mystery Religions on Christianity",
             "source": "Martin Luther King Jr.",
             "context": "Cited as a little-known essay by King advancing the pagan continuity hypothesis about Christianity's origins.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://kinginstitute.stanford.edu/king-papers/documents/influence-mystery-religions-christianity",
+            "source_evidence": "Stanford's Martin Luther King, Jr. Research and Education Institute publishes the full text of this King paper in its online King Papers document collection."
           }
         ]
       }
@@ -1388,9 +1388,9 @@
             "title": "McMahon Atomic Energy Act of 1946",
             "source": "U.S. Congress",
             "context": "Noted as the predecessor to the 1954 Act, which Edward Condon helped draft, tying atomic secrecy to UFO secrecy.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.osti.gov/servlets/purl/1362094",
+            "source_evidence": "The Department of Energy's OSTI repository hosts a full-text PDF of the Atomic Energy Act of 1946 (Public Law 585, 79th Congress; 60 Stat. 755)."
           },
           {
             "title": "Los Alamos Primer",
@@ -1740,9 +1740,9 @@
             "title": "McMahon Atomic Energy Act of 1946",
             "source": "U.S. Congress",
             "context": "Edward Condon helped draft this predecessor to the 1954 Atomic Energy Act, which Michels suggests went on to govern UFO secrecy.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.osti.gov/servlets/purl/1362094",
+            "source_evidence": "The Department of Energy's OSTI repository hosts a full-text PDF of the Atomic Energy Act of 1946 (Public Law 585, 79th Congress; 60 Stat. 755)."
           },
           {
             "title": "Los Alamos Primer",
@@ -2538,9 +2538,9 @@
             "title": "Operation Northwoods",
             "source": "U.S. Joint Chiefs of Staff",
             "context": "Mentioned as the plan by Curtis LeMay and others to manufacture a pretext for war around the Cuban Missile Crisis era.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.theblackvault.com/documentarchive/operation-northwoods/",
+            "source_evidence": "The Black Vault hosts the declassified Joint Chiefs of Staff Northwoods document archive, and NARA's catalog (catalog.archives.gov/id/305036) independently confirms the record."
           },
           {
             "title": "Jimmy Carter's UFO sighting report filed with the Air Force and NICAP",
@@ -2790,9 +2790,9 @@
             "title": "Is the Sun Conscious?",
             "source": "Rupert Sheldrake, Journal of Consciousness Studies",
             "context": "Sheldrake describes his published paper arguing for applying panpsychism to the sun, including electromagnetic fields as interface with solar consciousness.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf",
+            "source_evidence": "Sheldrake's own site hosts the full PDF of the paper as published in Journal of Consciousness Studies, 28, No. 3–4, 2021, pp. 8–28."
           },
           {
             "title": "Directional Scopaesthesia and its Implications for Theories of Vision",
@@ -2932,9 +2932,9 @@
             "title": "The G Engines Are Coming",
             "source": "Michael Gladych, Young Men magazine (1956)",
             "context": "The 1956 magazine article photocopy left on Nick Cook's desk that launched his investigation, quoting aerospace firms and George S. Trimble on imminent anti-gravity breakthroughs.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.airplanesandrockets.com/magazines/young-men/g-engines-coming-young-men-november-1956.htm",
+            "source_evidence": "Airplanes and Rockets hosts a scanned/transcribed reproduction of Michael Gladych's 'The G-Engines Are Coming!' from the November 1956 issue of Young Men."
           },
           {
             "title": "Jane's Defence Weekly story on the Aurora aircraft",
@@ -2964,9 +2964,9 @@
             "title": "The Man Who Built UFOs for the CIA",
             "source": "Jesse Michels / American Alchemy",
             "context": "Michels references his own recent documentary on Thomas Townsend Brown while discussing whether Brown's work made it into the B-2.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.youtube.com/@JesseMichels",
+            "source_evidence": "Search results confirm this is a video on Jesse Michels' American Alchemy YouTube channel (discussed in forum threads by exact title), and the verified channel URL is where his videos are freely posted."
           }
         ],
         "legal_personal_record": [
@@ -3332,9 +3332,9 @@
             "title": "New York Times 2017 article on the Pentagon UFO program",
             "source": "The New York Times",
             "context": "Elizondo and Chris Mellon got three UFO videos cleared and took them to the New York Times for the bombshell 2017 story that launched modern UFO disclosure.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+            "source_evidence": "Multiple sources cite this exact nytimes.com URL for the Dec. 16, 2017 AATIP story by Cooper, Blumenthal and Kean; a free PDF copy is also mirrored at nicap.org."
           },
           {
             "title": "David Grusch congressional testimony (July 26, 2023)",
@@ -3380,9 +3380,9 @@
             "title": "Project A119 (study of a lunar nuclear detonation)",
             "source": "U.S. Air Force",
             "context": "Described as a top secret Air Force project out of Kirtland AFB, on which Carl Sagan was a secret consultant, to consider detonating a nuke on the Moon.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.theblackvault.com/documentarchive/project-a119-a-study-of-lunar-research-flights/",
+            "source_evidence": "The Black Vault's document archive hosts the Air Force-commissioned report 'A Study of Lunar Research Flights' (Project A119)."
           },
           {
             "title": "Project Blue Book",
@@ -3590,9 +3590,9 @@
             "title": "The G-Engines Are Coming!",
             "source": "Young Men magazine (1956)",
             "context": "Cited as corroborating artifact from 1956 containing quotes from aerospace leaders like Lawrence Bell and George S. Trimble predicting anti-gravity breakthroughs.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.airplanesandrockets.com/magazines/young-men/g-engines-coming-young-men-november-1956.htm",
+            "source_evidence": "Airplanes and Rockets hosts a scanned/transcribed reproduction of Michael Gladych's 'The G-Engines Are Coming!' from the November 1956 issue of Young Men."
           },
           {
             "title": "Barry Goldwater interview on Larry King (1994)",
@@ -4076,9 +4076,9 @@
             "title": "JFK assassination files",
             "source": "U.S. government",
             "context": "Discussed as still-withheld records; Pompeo said people still alive would be affected, and Shellenberger argues the refusal to release them is suspicious.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.archives.gov/research/jfk/available-online",
+            "source_evidence": "The National Archives maintains the JFK Assassination Records Collection online, including the 2025 release batches, free to search and download."
           },
           {
             "title": "Twitter Files",
@@ -4302,9 +4302,9 @@
             "title": "David Grusch congressional testimony on UAP",
             "source": "U.S. House of Representatives",
             "context": "Jesse says he was in the hearing room, and Pines notes Grusch pointedly dodged the question about agreements with non-human intelligence.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf",
+            "source_evidence": "Congress.gov hosts the official full hearing transcript PDF (HHRG-118-GO06) from the July 26, 2023 House Oversight hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,' at which Grusch testified."
           }
         ],
         "news_media": [
@@ -4470,9 +4470,9 @@
             "title": "The Man Who Built UFOs for the CIA",
             "source": "American Alchemy (Jesse Michels)",
             "context": "Michels references his own earlier episode featuring a Navy whistleblower discussing Maxwell's 21 original equations, scalar fields, and exotic wave types.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.youtube.com/@JesseMichels",
+            "source_evidence": "Search results confirm this is a video on Jesse Michels' American Alchemy YouTube channel (discussed in forum threads by exact title), and the verified channel URL is where his videos are freely posted."
           }
         ],
         "essay_paper": [
@@ -4480,9 +4480,9 @@
             "title": "Philip K. Dick's 1977 Metz, France speech",
             "source": "Philip K. Dick",
             "context": "Quoted repeatedly for the line 'We are living in a computer programmed reality and the only clue we have to it is when some variable is changed,' inspiring Virk's timeline/déjà vu ideas.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.openculture.com/2021/08/hear-philip-k-dicks-famous-metz-speech.html",
+            "source_evidence": "Open Culture hosts the audio of Dick's 1977 Metz speech 'If You Find This World Bad, You Should See Some of the Others'; a transcription is also posted on Academia.edu."
           }
         ]
       }
@@ -4652,9 +4652,9 @@
             "title": "Philip K. Dick's 1977 Metz, France speech",
             "source": "Philip K. Dick",
             "context": "Jesse references the speech in which Dick claimed The Man in the High Castle depicted a real timeline that simulators had rewound.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.openculture.com/2021/08/hear-philip-k-dicks-famous-metz-speech.html",
+            "source_evidence": "Open Culture hosts the audio of Dick's 1977 Metz speech 'If You Find This World Bad, You Should See Some of the Others'; a transcription is also posted on Academia.edu."
           },
           {
             "title": "Maxwell's original set of ~20 equations of electrodynamics",
@@ -4800,9 +4800,9 @@
             "title": "Invention Secrecy Act of 1952",
             "source": "U.S. Congress",
             "context": "Cited by Jesse alongside the Mansfield Amendments as legal mechanisms that disentangled military and academic physics research and made physics 'dangerous' to publish.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.congress.gov/bill/82nd-congress/house-bill/4687/text",
+            "source_evidence": "Congress.gov carries the text of H.R. 4687, the Invention Secrecy Act of 1951 (signed Feb. 1, 1952), and the Library of Congress separately hosts its codification at 35 U.S.C. §§ 181–188 in the 1952 U.S. Code."
           },
           {
             "title": "Mansfield Amendments",
@@ -5064,9 +5064,9 @@
             "title": "Project A119 (study of a lunar nuclear detonation)",
             "source": "U.S. Air Force",
             "context": "Mentioned as the Air Force project on nuking the moon as a show of force, on which Carl Sagan was a main consultant, evidencing his clearances.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.theblackvault.com/documentarchive/project-a119-a-study-of-lunar-research-flights/",
+            "source_evidence": "The Black Vault's document archive hosts the Air Force-commissioned report 'A Study of Lunar Research Flights' (Project A119)."
           }
         ],
         "news_media": [
@@ -6473,9 +6473,9 @@
             "title": "David Grusch's complaint to the Intelligence Community Inspector General",
             "source": "David Grusch / ICIG (Thomas Monheim)",
             "context": "Barber clarifies he was not among the roughly 40 witnesses in Grusch's initial ICIG complaint, having met Grusch afterward.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://archive.org/details/grusch_icig",
+            "source_evidence": "The Internet Archive item 'grusch_icig' hosts the released unclassified PPD-19 procedural filing/ICIG complaint (dated May 25, 2022) as a PDF, which search results reference directly as 'David Grusch's ICIG Complaint.'"
           },
           {
             "title": "Jacob Barber's medical and VA records",
@@ -6921,9 +6921,9 @@
             "title": "Declaration of Independence",
             "source": "Continental Congress",
             "context": "Mentioned alongside the Federalist Papers and early constitutional amendments as foundational documents created by highly personalized founding institutions.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.archives.gov/founding-docs/declaration-transcript",
+            "source_evidence": "The National Archives hosts the official transcription (and high-resolution images) of the Declaration of Independence."
           },
           {
             "title": "U.S. Constitution and its initial amendments",
@@ -7189,9 +7189,9 @@
             "title": "Project Aquarius document",
             "source": "purported U.S. government",
             "context": "Listed alongside the burned memo as a later document from Lee Graham referencing Project Zodiac and other programs.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://archive.org/details/project-aquarius-document",
+            "source_evidence": "The Internet Archive hosts scans of the purported Project Aquarius document (a second copy is at archive.org/details/project-aquarius-11-pages)."
           },
           {
             "title": "Oke Shannon notes from the Advanced Theoretical Physics working group",
@@ -7639,17 +7639,17 @@
             "title": "The Pentagon Papers",
             "source": "U.S. Department of Defense",
             "context": "Jesse cites them as evidence of how cynical the high-level Pentagon and Oval Office discussions about the Vietnam War were.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.archives.gov/research/pentagon-papers",
+            "source_evidence": "The National Archives released and hosts the complete declassified Pentagon Papers online (announced in its 2011 press release and Prologue blog)."
           },
           {
             "title": "The Long Telegram",
             "source": "George Kennan / U.S. State Department",
             "context": "Jesse suggests the domino theory underpinning Vietnam policy was a misreading of George Kennan's Long Telegram.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://nsarchive.gwu.edu/document/21042-long-telegram-original",
+            "source_evidence": "The National Security Archive hosts the original scanned February 22, 1946 Kennan telegram, with a transcript at nsarchive.gwu.edu/document/21043."
           },
           {
             "title": "Records of the Royal Court of China referencing Empress Himiko",
@@ -8409,9 +8409,9 @@
             "title": "Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program",
             "source": "Leslie Kean and Ralph Blumenthal, The New York Times",
             "context": "McConnell cites the late-2017 New York Times article as the starting point that got him and Senate staffers investigating UAP.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf",
+            "source_evidence": "NICAP hosts a free PDF reproduction of the December 16, 2017 New York Times article under its exact title."
           },
           {
             "title": "The Telepathy Tapes",
@@ -8637,9 +8637,9 @@
             "title": "The Lost Century",
             "source": "Steven Greer (documentary film)",
             "context": "Greer repeatedly cites this documentary as documenting a hundred years of suppressed advanced technologies, including the physics behind Stan Meyer's water dissociation effect.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://tubitv.com/movies/100030967/the-lost-century-and-how-to-reclaim-it",
+            "source_evidence": "Tubi streams Steven Greer's 2023 documentary 'The Lost Century: And How to Reclaim It' for free; it is also listed on Plex and Gaia."
           },
           {
             "title": "The Battle for Disclosure",
@@ -8857,9 +8857,9 @@
             "title": "The Long Telegram",
             "source": "George F. Kennan",
             "context": "Mentioned as Kennan's famous telegram, written under the pen name 'X', which shaped the Cold War policy of containing Soviet communism.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://nsarchive.gwu.edu/document/21042-long-telegram-original",
+            "source_evidence": "The National Security Archive hosts the original scanned February 22, 1946 Kennan telegram, with a transcript at nsarchive.gwu.edu/document/21043."
           },
           {
             "title": "Eisenhower's 1958 State of the Union address",
@@ -9351,9 +9351,9 @@
             "title": "Is the Sun Conscious?",
             "source": "Rupert Sheldrake",
             "context": "Cited as a paper in which Sheldrake answers affirmatively, part of a discussion of consciousness emerging from organizational structures.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf",
+            "source_evidence": "Sheldrake's own site hosts the full PDF of the paper as published in Journal of Consciousness Studies, 28, No. 3–4, 2021, pp. 8–28."
           }
         ]
       }
@@ -9477,9 +9477,9 @@
             "title": "David Grusch congressional testimony on UAP",
             "source": "U.S. Congress / David Grusch",
             "context": "Jesse references the UFO whistleblower who testified before Congress in summer 2023 and the documentary he made about it.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf",
+            "source_evidence": "Congress.gov hosts the official full hearing transcript PDF (HHRG-118-GO06) from the July 26, 2023 House Oversight hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,' at which Grusch testified."
           },
           {
             "title": "Mexico City congressional hearing on alleged alien mummies",
@@ -9637,9 +9637,9 @@
             "title": "Piri Reis map",
             "source": "Piri Reis",
             "context": "Cited alongside the Oronteus Finaeus map as evidence of ancient geographic knowledge of Antarctica's coastline.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://commons.wikimedia.org/wiki/Category:Piri_Reis_Map,_1513",
+            "source_evidence": "Wikimedia Commons hosts high-resolution scans of the surviving 1513 Piri Reis map fragment (the original is held at Topkapi Palace and inscribed in UNESCO's Memory of the World register)."
           },
           {
             "title": "Oronteus Finaeus map",
@@ -9825,9 +9825,9 @@
             "title": "Treaty of Versailles",
             "source": "Allied Powers / Paris Peace Conference",
             "context": "Discussed as the instrument into which the Dulles brothers drafted German war reparations obligations, enabling Brown Brothers Harriman to take control of German war industry.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.loc.gov/item/43036001/",
+            "source_evidence": "The Library of Congress hosts a fully digitized, page-by-page copy of the Treaty of Versailles, supported by its Primary Documents in American History research guide."
           },
           {
             "title": "Robert Lovett memo to President Truman recommending a peacetime successor to the OSS",
@@ -10433,9 +10433,9 @@
             "title": "FBI files on Silas Newton and Leo GeBauer",
             "source": "FBI",
             "context": "Cited as heavily redacted files dating back to the 1930s that appear to track the two Aztec crash figures.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://vault.fbi.gov/silas-newton",
+            "source_evidence": "The FBI's electronic FOIA library (The Vault) has a released file collection under 'Silas M. Newton,' the Aztec-crash promoter who was prosecuted alongside Leo GeBauer."
           }
         ],
         "testimony": [
@@ -10601,9 +10601,9 @@
             "title": "Project Aquarius document",
             "source": "U.S. Air Force / AFOSI (purported)",
             "context": "The document Bill Moore was instructed to hand Bennewitz; it contained analyses of Bennewitz's films and the first known reference to 'MJ Twelve,' and Moore believed it was bogus.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://archive.org/details/project-aquarius-document",
+            "source_evidence": "The Internet Archive hosts scans of the purported Project Aquarius document (a second copy is at archive.org/details/project-aquarius-11-pages)."
           },
           {
             "title": "Silver Sky memo",
@@ -10677,9 +10677,9 @@
             "title": "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program",
             "source": "The New York Times (Helene Cooper, Ralph Blumenthal, Leslie Kean)",
             "context": "The December 2017 article featuring Luis Elizondo; Bishop says his first reaction was to wonder what new project was being blended into the UFO subject.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf",
+            "source_evidence": "NICAP hosts a free PDF reproduction of the December 16, 2017 New York Times article under its exact title."
           }
         ],
         "legal_personal_record": [
@@ -10807,9 +10807,9 @@
             "title": "Pentacle Memo",
             "source": "Battelle Memorial Institute (Howard Cross)",
             "context": "Jesse describes Jacques Vallée finding this memo in the Blue Book files, indicating Battelle would conduct a real investigation of UFO hotspots while Blue Book served as a public front.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.eyeofthepsychic.com/pentacle/",
+            "source_evidence": "This page reproduces the full text of the 9 January 1953 H.C. Cross (Battelle) memo addressed to Miles Goll at Wright-Patterson, attention Capt. Edward J. Ruppelt."
           },
           {
             "title": "Estimate of the Situation",
@@ -11075,9 +11075,9 @@
             "title": "FBI files on Silas Newton and Leo GeBauer",
             "source": "FBI",
             "context": "Mentioned as heavily redacted FBI files dating back decades, relevant to assessing the Aztec 1948 crash story.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://vault.fbi.gov/silas-newton",
+            "source_evidence": "The FBI's electronic FOIA library (The Vault) has a released file collection under 'Silas M. Newton,' the Aztec-crash promoter who was prosecuted alongside Leo GeBauer."
           },
           {
             "title": "MK Monarch acknowledgment documents (NSA archive)",
@@ -12437,9 +12437,9 @@
             "title": "Eisenhower's Farewell Address",
             "source": "President Dwight D. Eisenhower",
             "context": "Brigham says he opened his Senate testimony with Eisenhower's speech, emphasizing the often-ignored second half warning about corporate capture of the scientific-academic complex.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address",
+            "source_evidence": "The Eisenhower Presidential Library (NARA) posts the farewell address documents online; the National Archives also features it as a Milestone Document."
           },
           {
             "title": "Brigham Buhler's testimony before the U.S. Senate roundtable with RFK Jr.",
@@ -13079,9 +13079,9 @@
             "title": "Treaty of Versailles",
             "source": "Allied Powers / Germany",
             "context": "Mentioned as imposed on Germany, supporting the claim that Nazi thinkers saw World War I and II as one continuous world war.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.loc.gov/item/43036001/",
+            "source_evidence": "The Library of Congress hosts a fully digitized, page-by-page copy of the Treaty of Versailles, supported by its Primary Documents in American History research guide."
           },
           {
             "title": "Farm Hall transcripts of captured German nuclear scientists",
@@ -13175,9 +13175,9 @@
             "title": "Piri Reis map",
             "source": "Ottoman cartography (found in Turkey)",
             "context": "Presented as a pre-ice-age-derived map appearing to show an unglaciated, differently positioned Antarctica and the curvature of the earth before Columbus.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://commons.wikimedia.org/wiki/Category:Piri_Reis_Map,_1513",
+            "source_evidence": "Wikimedia Commons hosts high-resolution scans of the surviving 1513 Piri Reis map fragment (the original is held at Topkapi Palace and inscribed in UNESCO's Memory of the World register)."
           },
           {
             "title": "Orontius Finaeus map",
@@ -13235,9 +13235,9 @@
             "title": "Immaculate Constellation",
             "source": "U.S. Government (via whistleblower Matthew Brown)",
             "context": "Jesse references whistleblower Matthew Brown encountering this document within the government, which allegedly discusses transmedium objects going in and out of the water.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://mace.house.gov/immaculateconstellation",
+            "source_evidence": "Rep. Nancy Mace's official House website hosts a page publishing the 'Immaculate Constellation' document entered into the congressional record."
           }
         ]
       }
@@ -13571,9 +13571,9 @@
             "title": "Eisenhower's farewell address",
             "source": "President Dwight D. Eisenhower",
             "context": "Cited repeatedly as the warning about the military-industrial complex when discussing who really runs the government.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address",
+            "source_evidence": "The Eisenhower Presidential Library (NARA) posts the farewell address documents online; the National Archives also features it as a Milestone Document."
           },
           {
             "title": "Epstein files",
@@ -13595,9 +13595,9 @@
             "title": "Operation Northwoods",
             "source": "U.S. Joint Chiefs of Staff",
             "context": "Listed alongside MK Ultra and the Gulf of Tonkin as documented government deceptions contemporaneous with the Apollo program.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.theblackvault.com/documentarchive/operation-northwoods/",
+            "source_evidence": "The Black Vault hosts the declassified Joint Chiefs of Staff Northwoods document archive, and NARA's catalog (catalog.archives.gov/id/305036) independently confirms the record."
           },
           {
             "title": "MK Ultra documents",
@@ -13705,9 +13705,9 @@
             "title": "Dead Sea Scrolls",
             "source": "",
             "context": "Discussed with Wes Huff's point that the Book of Isaiah found among the scrolls is verbatim identical to a version a thousand years more recent, and that Enoch is also included.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.deadseascrolls.org.il/",
+            "source_evidence": "The Leon Levy Dead Sea Scrolls Digital Library, run by the Israel Antiquities Authority, provides free high-resolution imaging of the scrolls online."
           }
         ],
         "scientific_data": [
@@ -14155,9 +14155,9 @@
             "title": "I Know What I Saw",
             "source": "James Fox",
             "context": "Fox mentions Robert Bigelow's secretary emailing to congratulate him on this film, which led to their meeting.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://tubitv.com/movies/641027/james-fox-i-know-what-i-saw",
+            "source_evidence": "Tubi streams James Fox's 2009 documentary 'I Know What I Saw' for free."
           },
           {
             "title": "UFOs: Past, Present, and Future",
@@ -14307,9 +14307,9 @@
             "title": "Immaculate Constellation",
             "source": "U.S. Department of Defense (via Shellenberger testimony)",
             "context": "Jesse cites the alleged UAP program report surfaced in Michael Shellenberger's November 2024 congressional testimony, and a suspicious Google Trends spike tied to it.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://mace.house.gov/immaculateconstellation",
+            "source_evidence": "Rep. Nancy Mace's official House website hosts a page publishing the 'Immaculate Constellation' document entered into the congressional record."
           }
         ],
         "testimony": [
@@ -14483,9 +14483,9 @@
             "title": "Project Twinkle report",
             "source": "U.S. Air Force / Sandia (Z Division)",
             "context": "Investigation into green fireballs over New Mexico; the Air Force recommended findings not be disclosed since there was no natural explanation.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://archive.org/details/project-twinkle-november-1951",
+            "source_evidence": "The Internet Archive hosts the Air Force Historical Research Agency's copy of the Project Twinkle Final Report, November 1951; Project1947 also mirrors the text."
           },
           {
             "title": "GAO audit/report on Roswell records",
@@ -14647,9 +14647,9 @@
             "title": "The Lost Century",
             "source": "Steven Greer",
             "context": "Jesse says if suppressed zero-point energy systems truly exist, this documentary would be the most important ever made.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://tubitv.com/movies/100030967/the-lost-century-and-how-to-reclaim-it",
+            "source_evidence": "Tubi streams Steven Greer's 2023 documentary 'The Lost Century: And How to Reclaim It' for free; it is also listed on Plex and Gaia."
           },
           {
             "title": "Weaponized podcast episode featuring Dylan Borland",
@@ -14737,9 +14737,9 @@
             "title": "Dan Sherman's DD-214",
             "source": "U.S. Air Force",
             "context": "Cited as documentation Jesse holds proving Charles Hall's (and similar whistleblowers') military service records are genuine.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "request",
+            "source_url": "https://www.archives.gov/personnel-records-center/ompf-access-public",
+            "source_evidence": "No public copy of Sherman's separation document surfaced; DD-214s for former Air Force members are held in the Official Military Personnel File at the National Archives' National Personnel Records Center, whose general-public (FOIA) access page describes how third parties request them."
           }
         ],
         "essay_paper": [
@@ -15246,9 +15246,9 @@
             "title": "Declaration of Independence",
             "source": "United States Continental Congress",
             "context": "Larson discusses Franklin's edit to Jefferson's draft substituting 'pursuit of happiness' for property, as evidence of a uniquely American idea of individual liberty.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.archives.gov/founding-docs/declaration-transcript",
+            "source_evidence": "The National Archives hosts the official transcription (and high-resolution images) of the Declaration of Independence."
           },
           {
             "title": "Atomic Energy Act of 1954 (restricted data / born secret provisions)",
@@ -15962,9 +15962,9 @@
             "title": "New York Times 2017 article on the Pentagon UFO program",
             "source": "The New York Times",
             "context": "Jesse asks Weinstein for his mental model of why UFO information has been coming out more since the 2017 New York Times article.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+            "source_evidence": "Multiple sources cite this exact nytimes.com URL for the Dec. 16, 2017 AATIP story by Cooper, Blumenthal and Kean; a free PDF copy is also mirrored at nicap.org."
           },
           {
             "title": "Joe Rogan Experience episode 1945",
@@ -16505,9 +16505,9 @@
             "title": "Sirhan Sirhan's diary",
             "source": "",
             "context": "Jesse notes Sirhan reportedly wrote 'must kill RFK' repeatedly, which Ross says is ambiguous between psychotic rambling and programming.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "request",
+            "source_url": "https://sos.ca.gov/administration/guidelines-access-public-records",
+            "source_evidence": "The original notebooks are part of the LAPD Robert F. Kennedy assassination investigation records held by the California State Archives (Secretary of State), whose Public Records Act request page is linked here; federal releases only contain assessments of and excerpts from the diary."
           },
           {
             "title": "Les Wexner's diary entries about a dybbuk",
@@ -16579,9 +16579,9 @@
             "title": "Invention Secrecy Act of 1952",
             "source": "U.S. Government",
             "context": "Brought up when discussing whether Buhler's first patent may have been subject to a national security hold.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.congress.gov/bill/82nd-congress/house-bill/4687/text",
+            "source_evidence": "Congress.gov carries the text of H.R. 4687, the Invention Secrecy Act of 1951 (signed Feb. 1, 1952), and the Library of Congress separately hosts its codification at 35 U.S.C. §§ 181–188 in the 1952 U.S. Code."
           },
           {
             "title": "Exodus Propulsion Technologies patent application (second patent) under USPTO examination",
@@ -17241,9 +17241,9 @@
             "title": "The Pentagon Papers",
             "source": "U.S. Department of Defense",
             "context": "Mentioned to establish the credentials of Harvard lawyer Danny Sheehan, described as the constitutional lawyer behind the Pentagon Papers.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.archives.gov/research/pentagon-papers",
+            "source_evidence": "The National Archives released and hosts the complete declassified Pentagon Papers online (announced in its 2011 press release and Prologue blog)."
           }
         ],
         "news_media": [
@@ -17683,9 +17683,9 @@
             "title": "Project Twinkle report",
             "source": "U.S. Air Force",
             "context": "Mentioned as an Air Force green fireball investigation that was deleted from the Air Force archives, in the context of early UFO activity around nuclear sites.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://archive.org/details/project-twinkle-november-1951",
+            "source_evidence": "The Internet Archive hosts the Air Force Historical Research Agency's copy of the Project Twinkle Final Report, November 1951; Project1947 also mirrors the text."
           },
           {
             "title": "Letters between Jolly West and Sidney Gottlieb",
@@ -17849,9 +17849,9 @@
             "title": "Sirhan Sirhan's diary",
             "source": "Sirhan Sirhan",
             "context": "Cited as containing repetitive 'I must kill him' entries suggesting neurolinguistic programming before the RFK assassination.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "request",
+            "source_url": "https://sos.ca.gov/administration/guidelines-access-public-records",
+            "source_evidence": "The original notebooks are part of the LAPD Robert F. Kennedy assassination investigation records held by the California State Archives (Secretary of State), whose Public Records Act request page is linked here; federal releases only contain assessments of and excerpts from the diary."
           },
           {
             "title": "Telegram from William Stephenson to Josephine Brown",
@@ -18443,9 +18443,9 @@
             "title": "Pentacle Memo",
             "source": "Battelle Memorial Institute",
             "context": "Cited by Jesse as evidence that Battelle was doing the real work behind the scenes at the inception of Project Blue Book while Blue Book was the public front.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.eyeofthepsychic.com/pentacle/",
+            "source_evidence": "This page reproduces the full text of the 9 January 1953 H.C. Cross (Battelle) memo addressed to Miles Goll at Wright-Patterson, attention Capt. Edward J. Ruppelt."
           },
           {
             "title": "Baghdad Phantom mission report and video",
@@ -18819,9 +18819,9 @@
             "title": "Dan Sherman's DD-214",
             "source": "U.S. Air Force",
             "context": "Jesse cites Sherman's discharge record as part of the corroborating evidence supporting his account of Project Preserve Destiny.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "request",
+            "source_url": "https://www.archives.gov/personnel-records-center/ompf-access-public",
+            "source_evidence": "No public copy of Sherman's separation document surfaced; DD-214s for former Air Force members are held in the Official Military Personnel File at the National Archives' National Personnel Records Center, whose general-public (FOIA) access page describes how third parties request them."
           },
           {
             "title": "New York State inspection/audit records of Baker Victory Services (2010)",
@@ -19241,9 +19241,9 @@
             "title": "I Know What I Saw",
             "source": "James Fox",
             "context": "Fox's 2009 UFO documentary that Spielberg watched and praised in a letter, offered as evidence of Spielberg's genuine long-standing interest in UFOs.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://tubitv.com/movies/641027/james-fox-i-know-what-i-saw",
+            "source_evidence": "Tubi streams James Fox's 2009 documentary 'I Know What I Saw' for free."
           },
           {
             "title": "National Enquirer interview with Beverly McKittrick (1983)",
@@ -19391,9 +19391,9 @@
             "title": "David Grusch's complaint to the Intelligence Community Inspector General",
             "source": "Intelligence Community Inspector General / David Grusch",
             "context": "Jesse notes Grusch compiled hundreds of pages of documentation that the ICIG deemed urgent and credible; Burlison also cites the IG finding regarding Matthew Sullivan's death.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://archive.org/details/grusch_icig",
+            "source_evidence": "The Internet Archive item 'grusch_icig' hosts the released unclassified PPD-19 procedural filing/ICIG complaint (dated May 25, 2022) as a PDF, which search results reference directly as 'David Grusch's ICIG Complaint.'"
           },
           {
             "title": "Congressional letter to the FBI requesting investigation of the Varginha (Brazil) case",
@@ -19439,9 +19439,9 @@
             "title": "JFK assassination files",
             "source": "U.S. Government",
             "context": "Cited by Burlison as one of Trump's disclosure actions establishing him as 'the disclosure president.'",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.archives.gov/research/jfk/available-online",
+            "source_evidence": "The National Archives maintains the JFK Assassination Records Collection online, including the 2025 release batches, free to search and download."
           },
           {
             "title": "MK Ultra files",
@@ -20955,9 +20955,9 @@
             "title": "Dead Sea Scrolls",
             "source": "",
             "context": "Mentioned via Malachi Martin, described as among the first people to read them, in the discussion of Catholic teaching on the Apocrypha.",
-            "access_type": null,
-            "source_url": null,
-            "source_evidence": null
+            "access_type": "direct",
+            "source_url": "https://www.deadseascrolls.org.il/",
+            "source_evidence": "The Leon Levy Dead Sea Scrolls Digital Library, run by the Israel Antiquities Authority, provides free high-resolution imaging of the scrolls online."
           }
         ]
       }
@@ -36100,9 +36100,9 @@
       "title": "Dan Sherman's DD-214",
       "source": "U.S. Air Force",
       "subcategory": "legal_personal_record",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "request",
+      "source_url": "https://www.archives.gov/personnel-records-center/ompf-access-public",
+      "source_evidence": "No public copy of Sherman's separation document surfaced; DD-214s for former Air Force members are held in the Official Military Personnel File at the National Archives' National Personnel Records Center, whose general-public (FOIA) access page describes how third parties request them.",
       "mentions": [
         {
           "video_id": "u7g5Sn1DJF4",
@@ -36310,9 +36310,9 @@
       "title": "David Grusch congressional testimony on UAP",
       "source": "U.S. House of Representatives",
       "subcategory": "testimony",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf",
+      "source_evidence": "Congress.gov hosts the official full hearing transcript PDF (HHRG-118-GO06) from the July 26, 2023 House Oversight hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,' at which Grusch testified.",
       "mentions": [
         {
           "video_id": "LpLFWdsIU7M",
@@ -36524,9 +36524,9 @@
       "title": "David Grusch's complaint to the Intelligence Community Inspector General",
       "source": "David Grusch / ICIG (Thomas Monheim)",
       "subcategory": "legal_personal_record",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://archive.org/details/grusch_icig",
+      "source_evidence": "The Internet Archive item 'grusch_icig' hosts the released unclassified PPD-19 procedural filing/ICIG complaint (dated May 25, 2022) as a PDF, which search results reference directly as 'David Grusch's ICIG Complaint.'",
       "mentions": [
         {
           "video_id": "dnnpyNuPdXs",
@@ -36766,9 +36766,9 @@
       "title": "Dead Sea Scrolls",
       "source": "",
       "subcategory": "legal_personal_record",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.deadseascrolls.org.il/",
+      "source_evidence": "The Leon Levy Dead Sea Scrolls Digital Library, run by the Israel Antiquities Authority, provides free high-resolution imaging of the scrolls online.",
       "mentions": [
         {
           "video_id": "K4gYHs84BIc",
@@ -36900,9 +36900,9 @@
       "title": "Declaration of Independence",
       "source": "Continental Congress",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.archives.gov/founding-docs/declaration-transcript",
+      "source_evidence": "The National Archives hosts the official transcription (and high-resolution images) of the Declaration of Independence.",
       "mentions": [
         {
           "video_id": "9QMrhcpJq8I",
@@ -37952,9 +37952,9 @@
       "title": "Eisenhower's Farewell Address",
       "source": "President Dwight D. Eisenhower",
       "subcategory": "testimony",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address",
+      "source_evidence": "The Eisenhower Presidential Library (NARA) posts the farewell address documents online; the National Archives also features it as a Milestone Document.",
       "mentions": [
         {
           "video_id": "q7Czo77qhHA",
@@ -38462,9 +38462,9 @@
       "title": "FBI files on Silas Newton and Leo GeBauer",
       "source": "FBI",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://vault.fbi.gov/silas-newton",
+      "source_evidence": "The FBI's electronic FOIA library (The Vault) has a released file collection under 'Silas M. Newton,' the Aztec-crash promoter who was prosecuted alongside Leo GeBauer.",
       "mentions": [
         {
           "video_id": "GQlWf54K_7Y",
@@ -39424,9 +39424,9 @@
       "title": "Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program",
       "source": "Leslie Kean and Ralph Blumenthal, The New York Times",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf",
+      "source_evidence": "NICAP hosts a free PDF reproduction of the December 16, 2017 New York Times article under its exact title.",
       "mentions": [
         {
           "video_id": "KGD1nuM4MR8",
@@ -40438,9 +40438,9 @@
       "title": "I Know What I Saw",
       "source": "James Fox",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://tubitv.com/movies/641027/james-fox-i-know-what-i-saw",
+      "source_evidence": "Tubi streams James Fox's 2009 documentary 'I Know What I Saw' for free.",
       "mentions": [
         {
           "video_id": "hBrfe4hFuM0",
@@ -40476,9 +40476,9 @@
       "title": "Immaculate Constellation",
       "source": "U.S. Government (via whistleblower Matthew Brown)",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://mace.house.gov/immaculateconstellation",
+      "source_evidence": "Rep. Nancy Mace's official House website hosts a page publishing the 'Immaculate Constellation' document entered into the congressional record.",
       "mentions": [
         {
           "video_id": "aGqFOxuYRT0",
@@ -40800,9 +40800,9 @@
       "title": "Invention Secrecy Act of 1952",
       "source": "U.S. Congress",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.congress.gov/bill/82nd-congress/house-bill/4687/text",
+      "source_evidence": "Congress.gov carries the text of H.R. 4687, the Invention Secrecy Act of 1951 (signed Feb. 1, 1952), and the Library of Congress separately hosts its codification at 35 U.S.C. §§ 181–188 in the 1952 U.S. Code.",
       "mentions": [
         {
           "video_id": "6WC4o2yY9Ws",
@@ -40854,9 +40854,9 @@
       "title": "Is the Sun Conscious?",
       "source": "Rupert Sheldrake, Journal of Consciousness Studies",
       "subcategory": "essay_paper",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf",
+      "source_evidence": "Sheldrake's own site hosts the full PDF of the paper as published in Journal of Consciousness Studies, 28, No. 3–4, 2021, pp. 8–28.",
       "mentions": [
         {
           "video_id": "wT5-hXWIkzM",
@@ -41388,9 +41388,9 @@
       "title": "JFK assassination files",
       "source": "U.S. government",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.archives.gov/research/jfk/available-online",
+      "source_evidence": "The National Archives maintains the JFK Assassination Records Collection online, including the 2025 release batches, free to search and download.",
       "mentions": [
         {
           "video_id": "DPmO-2E7Ayg",
@@ -43818,9 +43818,9 @@
       "title": "McMahon Atomic Energy Act of 1946",
       "source": "U.S. Congress",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.osti.gov/servlets/purl/1362094",
+      "source_evidence": "The Department of Energy's OSTI repository hosts a full-text PDF of the Atomic Energy Act of 1946 (Public Law 585, 79th Congress; 60 Stat. 755).",
       "mentions": [
         {
           "video_id": "kRO5jOa06Qw",
@@ -45260,9 +45260,9 @@
       "title": "New York Times 2017 article on the Pentagon UFO program",
       "source": "The New York Times",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+      "source_evidence": "Multiple sources cite this exact nytimes.com URL for the Dec. 16, 2017 AATIP story by Cooper, Blumenthal and Kean; a free PDF copy is also mirrored at nicap.org.",
       "mentions": [
         {
           "video_id": "1f16VvXaSSE",
@@ -46386,9 +46386,9 @@
       "title": "Operation Northwoods",
       "source": "U.S. Joint Chiefs of Staff",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.theblackvault.com/documentarchive/operation-northwoods/",
+      "source_evidence": "The Black Vault hosts the declassified Joint Chiefs of Staff Northwoods document archive, and NARA's catalog (catalog.archives.gov/id/305036) independently confirms the record.",
       "mentions": [
         {
           "video_id": "2SQXAPCdmPE",
@@ -47012,9 +47012,9 @@
       "title": "Pentacle Memo",
       "source": "Battelle Memorial Institute (Howard Cross)",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.eyeofthepsychic.com/pentacle/",
+      "source_evidence": "This page reproduces the full text of the 9 January 1953 H.C. Cross (Battelle) memo addressed to Miles Goll at Wright-Patterson, attention Capt. Edward J. Ruppelt.",
       "mentions": [
         {
           "video_id": "-0g3lLGxNfc",
@@ -47274,9 +47274,9 @@
       "title": "Philip K. Dick's 1977 Metz, France speech",
       "source": "Philip K. Dick",
       "subcategory": "essay_paper",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.openculture.com/2021/08/hear-philip-k-dicks-famous-metz-speech.html",
+      "source_evidence": "Open Culture hosts the audio of Dick's 1977 Metz speech 'If You Find This World Bad, You Should See Some of the Others'; a transcription is also posted on Academia.edu.",
       "mentions": [
         {
           "video_id": "aKZ_MUbuk_Q",
@@ -47376,9 +47376,9 @@
       "title": "Piri Reis map",
       "source": "Piri Reis",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Piri_Reis_Map,_1513",
+      "source_evidence": "Wikimedia Commons hosts high-resolution scans of the surviving 1513 Piri Reis map fragment (the original is held at Topkapi Palace and inscribed in UNESCO's Memory of the World register).",
       "mentions": [
         {
           "video_id": "JGE1NIGhBzw",
@@ -47682,9 +47682,9 @@
       "title": "Project A119 (study of a lunar nuclear detonation)",
       "source": "U.S. Air Force",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.theblackvault.com/documentarchive/project-a119-a-study-of-lunar-research-flights/",
+      "source_evidence": "The Black Vault's document archive hosts the Air Force-commissioned report 'A Study of Lunar Research Flights' (Project A119).",
       "mentions": [
         {
           "video_id": "1f16VvXaSSE",
@@ -47720,9 +47720,9 @@
       "title": "Project Aquarius document",
       "source": "purported U.S. government",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://archive.org/details/project-aquarius-document",
+      "source_evidence": "The Internet Archive hosts scans of the purported Project Aquarius document (a second copy is at archive.org/details/project-aquarius-11-pages).",
       "mentions": [
         {
           "video_id": "nTiFs8LudUo",
@@ -48066,9 +48066,9 @@
       "title": "Project Twinkle report",
       "source": "U.S. Air Force / Sandia (Z Division)",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://archive.org/details/project-twinkle-november-1951",
+      "source_evidence": "The Internet Archive hosts the Air Force Historical Research Agency's copy of the Project Twinkle Final Report, November 1951; Project1947 also mirrors the text.",
       "mentions": [
         {
           "video_id": "u7g5Sn1DJF4",
@@ -50198,9 +50198,9 @@
       "title": "Sirhan Sirhan's diary",
       "source": "",
       "subcategory": "legal_personal_record",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "request",
+      "source_url": "https://sos.ca.gov/administration/guidelines-access-public-records",
+      "source_evidence": "The original notebooks are part of the LAPD Robert F. Kennedy assassination investigation records held by the California State Archives (Secretary of State), whose Public Records Act request page is linked here; federal releases only contain assessments of and excerpts from the diary.",
       "mentions": [
         {
           "video_id": "UrHLTFvdEZk",
@@ -51602,9 +51602,9 @@
       "title": "The G Engines Are Coming",
       "source": "Michael Gladych, Young Men magazine (1956)",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.airplanesandrockets.com/magazines/young-men/g-engines-coming-young-men-november-1956.htm",
+      "source_evidence": "Airplanes and Rockets hosts a scanned/transcribed reproduction of Michael Gladych's 'The G-Engines Are Coming!' from the November 1956 issue of Young Men.",
       "mentions": [
         {
           "video_id": "G7Ns4Aq1tVc",
@@ -51704,9 +51704,9 @@
       "title": "The Influence of the Mystery Religions on Christianity",
       "source": "Martin Luther King Jr.",
       "subcategory": "essay_paper",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://kinginstitute.stanford.edu/king-papers/documents/influence-mystery-religions-christianity",
+      "source_evidence": "Stanford's Martin Luther King, Jr. Research and Education Institute publishes the full text of this King paper in its online King Papers document collection.",
       "mentions": [
         {
           "video_id": "I9VyyV4-3Js",
@@ -51806,9 +51806,9 @@
       "title": "The Long Telegram",
       "source": "George Kennan / U.S. State Department",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://nsarchive.gwu.edu/document/21042-long-telegram-original",
+      "source_evidence": "The National Security Archive hosts the original scanned February 22, 1946 Kennan telegram, with a transcript at nsarchive.gwu.edu/document/21043.",
       "mentions": [
         {
           "video_id": "JpLThEF2dTM",
@@ -51844,9 +51844,9 @@
       "title": "The Lost Century",
       "source": "Steven Greer (documentary film)",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://tubitv.com/movies/100030967/the-lost-century-and-how-to-reclaim-it",
+      "source_evidence": "Tubi streams Steven Greer's 2023 documentary 'The Lost Century: And How to Reclaim It' for free; it is also listed on Plex and Gaia.",
       "mentions": [
         {
           "video_id": "areO7Mej44E",
@@ -51866,9 +51866,9 @@
       "title": "The Man Who Built UFOs for the CIA",
       "source": "Jesse Michels / American Alchemy",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.youtube.com/@JesseMichels",
+      "source_evidence": "Search results confirm this is a video on Jesse Michels' American Alchemy YouTube channel (discussed in forum threads by exact title), and the verified channel URL is where his videos are freely posted.",
       "mentions": [
         {
           "video_id": "G7Ns4Aq1tVc",
@@ -52016,9 +52016,9 @@
       "title": "The Pentagon Papers",
       "source": "U.S. Department of Defense",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.archives.gov/research/pentagon-papers",
+      "source_evidence": "The National Archives released and hosts the complete declassified Pentagon Papers online (announced in its 2011 press release and Prologue blog).",
       "mentions": [
         {
           "video_id": "JpLThEF2dTM",
@@ -52504,9 +52504,9 @@
       "title": "Treaty of Versailles",
       "source": "Allied Powers / Paris Peace Conference",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.loc.gov/item/43036001/",
+      "source_evidence": "The Library of Congress hosts a fully digitized, page-by-page copy of the Treaty of Versailles, supported by its Primary Documents in American History research guide.",
       "mentions": [
         {
           "video_id": "C4rSj5Aum7w",
@@ -59778,9 +59778,9 @@
       "title": "Dan Sherman's DD-214",
       "source": "U.S. Air Force",
       "subcategory": "legal_personal_record",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "request",
+      "source_url": "https://www.archives.gov/personnel-records-center/ompf-access-public",
+      "source_evidence": "No public copy of Sherman's separation document surfaced; DD-214s for former Air Force members are held in the Official Military Personnel File at the National Archives' National Personnel Records Center, whose general-public (FOIA) access page describes how third parties request them.",
       "mentions": [
         {
           "video_id": "u7g5Sn1DJF4",
@@ -59801,9 +59801,9 @@
       "title": "David Grusch congressional testimony on UAP",
       "source": "U.S. House of Representatives",
       "subcategory": "testimony",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf",
+      "source_evidence": "Congress.gov hosts the official full hearing transcript PDF (HHRG-118-GO06) from the July 26, 2023 House Oversight hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,' at which Grusch testified.",
       "mentions": [
         {
           "video_id": "LpLFWdsIU7M",
@@ -59824,9 +59824,9 @@
       "title": "David Grusch's complaint to the Intelligence Community Inspector General",
       "source": "David Grusch / ICIG (Thomas Monheim)",
       "subcategory": "legal_personal_record",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://archive.org/details/grusch_icig",
+      "source_evidence": "The Internet Archive item 'grusch_icig' hosts the released unclassified PPD-19 procedural filing/ICIG complaint (dated May 25, 2022) as a PDF, which search results reference directly as 'David Grusch's ICIG Complaint.'",
       "mentions": [
         {
           "video_id": "dnnpyNuPdXs",
@@ -59847,9 +59847,9 @@
       "title": "Dead Sea Scrolls",
       "source": "",
       "subcategory": "legal_personal_record",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.deadseascrolls.org.il/",
+      "source_evidence": "The Leon Levy Dead Sea Scrolls Digital Library, run by the Israel Antiquities Authority, provides free high-resolution imaging of the scrolls online.",
       "mentions": [
         {
           "video_id": "K4gYHs84BIc",
@@ -59870,9 +59870,9 @@
       "title": "Declaration of Independence",
       "source": "Continental Congress",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.archives.gov/founding-docs/declaration-transcript",
+      "source_evidence": "The National Archives hosts the official transcription (and high-resolution images) of the Declaration of Independence.",
       "mentions": [
         {
           "video_id": "9QMrhcpJq8I",
@@ -59916,9 +59916,9 @@
       "title": "Eisenhower's Farewell Address",
       "source": "President Dwight D. Eisenhower",
       "subcategory": "testimony",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address",
+      "source_evidence": "The Eisenhower Presidential Library (NARA) posts the farewell address documents online; the National Archives also features it as a Milestone Document.",
       "mentions": [
         {
           "video_id": "q7Czo77qhHA",
@@ -59939,9 +59939,9 @@
       "title": "FBI files on Silas Newton and Leo GeBauer",
       "source": "FBI",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://vault.fbi.gov/silas-newton",
+      "source_evidence": "The FBI's electronic FOIA library (The Vault) has a released file collection under 'Silas M. Newton,' the Aztec-crash promoter who was prosecuted alongside Leo GeBauer.",
       "mentions": [
         {
           "video_id": "GQlWf54K_7Y",
@@ -60022,9 +60022,9 @@
       "title": "Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program",
       "source": "Leslie Kean and Ralph Blumenthal, The New York Times",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf",
+      "source_evidence": "NICAP hosts a free PDF reproduction of the December 16, 2017 New York Times article under its exact title.",
       "mentions": [
         {
           "video_id": "KGD1nuM4MR8",
@@ -60125,9 +60125,9 @@
       "title": "I Know What I Saw",
       "source": "James Fox",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://tubitv.com/movies/641027/james-fox-i-know-what-i-saw",
+      "source_evidence": "Tubi streams James Fox's 2009 documentary 'I Know What I Saw' for free.",
       "mentions": [
         {
           "video_id": "hBrfe4hFuM0",
@@ -60168,9 +60168,9 @@
       "title": "Immaculate Constellation",
       "source": "U.S. Government (via whistleblower Matthew Brown)",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://mace.house.gov/immaculateconstellation",
+      "source_evidence": "Rep. Nancy Mace's official House website hosts a page publishing the 'Immaculate Constellation' document entered into the congressional record.",
       "mentions": [
         {
           "video_id": "aGqFOxuYRT0",
@@ -60191,9 +60191,9 @@
       "title": "Invention Secrecy Act of 1952",
       "source": "U.S. Congress",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.congress.gov/bill/82nd-congress/house-bill/4687/text",
+      "source_evidence": "Congress.gov carries the text of H.R. 4687, the Invention Secrecy Act of 1951 (signed Feb. 1, 1952), and the Library of Congress separately hosts its codification at 35 U.S.C. §§ 181–188 in the 1952 U.S. Code.",
       "mentions": [
         {
           "video_id": "6WC4o2yY9Ws",
@@ -60214,9 +60214,9 @@
       "title": "Is the Sun Conscious?",
       "source": "Rupert Sheldrake, Journal of Consciousness Studies",
       "subcategory": "essay_paper",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf",
+      "source_evidence": "Sheldrake's own site hosts the full PDF of the paper as published in Journal of Consciousness Studies, 28, No. 3–4, 2021, pp. 8–28.",
       "mentions": [
         {
           "video_id": "wT5-hXWIkzM",
@@ -60237,9 +60237,9 @@
       "title": "JFK assassination files",
       "source": "U.S. government",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.archives.gov/research/jfk/available-online",
+      "source_evidence": "The National Archives maintains the JFK Assassination Records Collection online, including the 2025 release batches, free to search and download.",
       "mentions": [
         {
           "video_id": "DPmO-2E7Ayg",
@@ -60360,9 +60360,9 @@
       "title": "McMahon Atomic Energy Act of 1946",
       "source": "U.S. Congress",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.osti.gov/servlets/purl/1362094",
+      "source_evidence": "The Department of Energy's OSTI repository hosts a full-text PDF of the Atomic Energy Act of 1946 (Public Law 585, 79th Congress; 60 Stat. 755).",
       "mentions": [
         {
           "video_id": "kRO5jOa06Qw",
@@ -60383,9 +60383,9 @@
       "title": "New York Times 2017 article on the Pentagon UFO program",
       "source": "The New York Times",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+      "source_evidence": "Multiple sources cite this exact nytimes.com URL for the Dec. 16, 2017 AATIP story by Cooper, Blumenthal and Kean; a free PDF copy is also mirrored at nicap.org.",
       "mentions": [
         {
           "video_id": "1f16VvXaSSE",
@@ -60406,9 +60406,9 @@
       "title": "Operation Northwoods",
       "source": "U.S. Joint Chiefs of Staff",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.theblackvault.com/documentarchive/operation-northwoods/",
+      "source_evidence": "The Black Vault hosts the declassified Joint Chiefs of Staff Northwoods document archive, and NARA's catalog (catalog.archives.gov/id/305036) independently confirms the record.",
       "mentions": [
         {
           "video_id": "2SQXAPCdmPE",
@@ -60429,9 +60429,9 @@
       "title": "Pentacle Memo",
       "source": "Battelle Memorial Institute (Howard Cross)",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.eyeofthepsychic.com/pentacle/",
+      "source_evidence": "This page reproduces the full text of the 9 January 1953 H.C. Cross (Battelle) memo addressed to Miles Goll at Wright-Patterson, attention Capt. Edward J. Ruppelt.",
       "mentions": [
         {
           "video_id": "-0g3lLGxNfc",
@@ -60452,9 +60452,9 @@
       "title": "Philip K. Dick's 1977 Metz, France speech",
       "source": "Philip K. Dick",
       "subcategory": "essay_paper",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.openculture.com/2021/08/hear-philip-k-dicks-famous-metz-speech.html",
+      "source_evidence": "Open Culture hosts the audio of Dick's 1977 Metz speech 'If You Find This World Bad, You Should See Some of the Others'; a transcription is also posted on Academia.edu.",
       "mentions": [
         {
           "video_id": "aKZ_MUbuk_Q",
@@ -60475,9 +60475,9 @@
       "title": "Piri Reis map",
       "source": "Piri Reis",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Piri_Reis_Map,_1513",
+      "source_evidence": "Wikimedia Commons hosts high-resolution scans of the surviving 1513 Piri Reis map fragment (the original is held at Topkapi Palace and inscribed in UNESCO's Memory of the World register).",
       "mentions": [
         {
           "video_id": "JGE1NIGhBzw",
@@ -60498,9 +60498,9 @@
       "title": "Project A119 (study of a lunar nuclear detonation)",
       "source": "U.S. Air Force",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.theblackvault.com/documentarchive/project-a119-a-study-of-lunar-research-flights/",
+      "source_evidence": "The Black Vault's document archive hosts the Air Force-commissioned report 'A Study of Lunar Research Flights' (Project A119).",
       "mentions": [
         {
           "video_id": "1f16VvXaSSE",
@@ -60521,9 +60521,9 @@
       "title": "Project Aquarius document",
       "source": "purported U.S. government",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://archive.org/details/project-aquarius-document",
+      "source_evidence": "The Internet Archive hosts scans of the purported Project Aquarius document (a second copy is at archive.org/details/project-aquarius-11-pages).",
       "mentions": [
         {
           "video_id": "nTiFs8LudUo",
@@ -60544,9 +60544,9 @@
       "title": "Project Twinkle report",
       "source": "U.S. Air Force / Sandia (Z Division)",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://archive.org/details/project-twinkle-november-1951",
+      "source_evidence": "The Internet Archive hosts the Air Force Historical Research Agency's copy of the Project Twinkle Final Report, November 1951; Project1947 also mirrors the text.",
       "mentions": [
         {
           "video_id": "u7g5Sn1DJF4",
@@ -60587,9 +60587,9 @@
       "title": "Sirhan Sirhan's diary",
       "source": "",
       "subcategory": "legal_personal_record",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "request",
+      "source_url": "https://sos.ca.gov/administration/guidelines-access-public-records",
+      "source_evidence": "The original notebooks are part of the LAPD Robert F. Kennedy assassination investigation records held by the California State Archives (Secretary of State), whose Public Records Act request page is linked here; federal releases only contain assessments of and excerpts from the diary.",
       "mentions": [
         {
           "video_id": "UrHLTFvdEZk",
@@ -60933,9 +60933,9 @@
       "title": "The G Engines Are Coming",
       "source": "Michael Gladych, Young Men magazine (1956)",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.airplanesandrockets.com/magazines/young-men/g-engines-coming-young-men-november-1956.htm",
+      "source_evidence": "Airplanes and Rockets hosts a scanned/transcribed reproduction of Michael Gladych's 'The G-Engines Are Coming!' from the November 1956 issue of Young Men.",
       "mentions": [
         {
           "video_id": "G7Ns4Aq1tVc",
@@ -60996,9 +60996,9 @@
       "title": "The Influence of the Mystery Religions on Christianity",
       "source": "Martin Luther King Jr.",
       "subcategory": "essay_paper",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://kinginstitute.stanford.edu/king-papers/documents/influence-mystery-religions-christianity",
+      "source_evidence": "Stanford's Martin Luther King, Jr. Research and Education Institute publishes the full text of this King paper in its online King Papers document collection.",
       "mentions": [
         {
           "video_id": "I9VyyV4-3Js",
@@ -61039,9 +61039,9 @@
       "title": "The Long Telegram",
       "source": "George Kennan / U.S. State Department",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://nsarchive.gwu.edu/document/21042-long-telegram-original",
+      "source_evidence": "The National Security Archive hosts the original scanned February 22, 1946 Kennan telegram, with a transcript at nsarchive.gwu.edu/document/21043.",
       "mentions": [
         {
           "video_id": "JpLThEF2dTM",
@@ -61082,9 +61082,9 @@
       "title": "The Lost Century",
       "source": "Steven Greer (documentary film)",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://tubitv.com/movies/100030967/the-lost-century-and-how-to-reclaim-it",
+      "source_evidence": "Tubi streams Steven Greer's 2023 documentary 'The Lost Century: And How to Reclaim It' for free; it is also listed on Plex and Gaia.",
       "mentions": [
         {
           "video_id": "areO7Mej44E",
@@ -61105,9 +61105,9 @@
       "title": "The Man Who Built UFOs for the CIA",
       "source": "Jesse Michels / American Alchemy",
       "subcategory": "news_media",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.youtube.com/@JesseMichels",
+      "source_evidence": "Search results confirm this is a video on Jesse Michels' American Alchemy YouTube channel (discussed in forum threads by exact title), and the verified channel URL is where his videos are freely posted.",
       "mentions": [
         {
           "video_id": "G7Ns4Aq1tVc",
@@ -61188,9 +61188,9 @@
       "title": "The Pentagon Papers",
       "source": "U.S. Department of Defense",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.archives.gov/research/pentagon-papers",
+      "source_evidence": "The National Archives released and hosts the complete declassified Pentagon Papers online (announced in its 2011 press release and Prologue blog).",
       "mentions": [
         {
           "video_id": "JpLThEF2dTM",
@@ -61431,9 +61431,9 @@
       "title": "Treaty of Versailles",
       "source": "Allied Powers / Paris Peace Conference",
       "subcategory": "government_document",
-      "access_type": null,
-      "source_url": null,
-      "source_evidence": null,
+      "access_type": "direct",
+      "source_url": "https://www.loc.gov/item/43036001/",
+      "source_evidence": "The Library of Congress hosts a fully digitized, page-by-page copy of the Treaty of Versailles, supported by its Primary Documents in American History research guide.",
       "mentions": [
         {
           "video_id": "C4rSj5Aum7w",
