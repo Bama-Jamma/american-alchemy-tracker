@@ -81,14 +81,16 @@ def append_source(path: str, record: dict) -> None:
 
 def get_unique_documents(input_path: str) -> list[dict]:
     """Return unique documents (by normalized title), sorted by mention count descending --
-    highest-value (most-referenced) documents get searched first."""
+    highest-value (most-referenced) documents get searched first.
+
+    all_documents from _compute_data is already grouped by normalized title (each entry
+    carries a `mentions` list) -- just read the count directly, don't re-group.
+    """
     data = _compute_data(input_path)
-    by_norm: dict[str, dict] = {}
-    for d in data["all_documents"]:
-        key = _normalize_title(d["title"])
-        by_norm.setdefault(key, {"title": d["title"], "source": d["source"], "count": 0})
-        by_norm[key]["count"] += 1
-    docs = list(by_norm.values())
+    docs = [
+        {"title": d["title"], "source": d["source"], "count": len(d["mentions"])}
+        for d in data["all_documents"]
+    ]
     docs.sort(key=lambda d: -d["count"])
     return docs
 
